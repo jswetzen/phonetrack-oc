@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-04-28 16:00\n"
+"PO-Revision-Date: 2019-05-13 08:39\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -44,7 +44,7 @@ msgstr "Perangkat %s sekarang mendekati %sm ke %s."
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:675
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:787
 msgid "Geofencing alert"
-msgstr ""
+msgstr "Peringatan Geofence"
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:678
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:67
