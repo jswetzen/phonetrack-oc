@@ -2,16 +2,16 @@
 
 📱 PhoneTrack ist eine Nextcloud-Anwendung zur Verfolgung und Speicherung von Standorten mobiler Geräte.
 
-🗺 Es erfasst Informationen von Mobiltelefonen, die Apps protokollieren und zeigt diese dynamisch auf einer Karte an.
+🗺 Sie erfasst Informationen von Logging-Apps auf Mobiltelefonen und zeigt diese dynamisch auf einer Karte an.
 
 🌍 Helfen Sie uns, diese App auf [PhoneTrack Crowdin Projekt](https://crowdin.com/project/phonetrack) zu übersetzen.
 
-⚒ Überprüfen Sie andere Möglichkeiten, um in den [Beitragsrichtlinien](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md) zu helfen.
+⚒ Schau dir in den [Richtlinien zur Mitarbeit](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md) an, wie du uns zusätzlich helfen kannst.
 
 Wie man PhoneTrack verwendet:
 
-* Erstellen Sie eine Tracking-Sitzung.
-* Geben Sie den Protokollierungslink\* an die mobilen Geräte weiter. Wählen Sie die [Protokollierungsmethode](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) aus, die Sie bevorzugen.
+* Erstelle eine Tracking-Sitzung.
+* Gib den Protokollierungslink\* an die mobilen Geräte weiter. Wähle die [Protokollierungsmethode](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) aus, die Du bevorzugst.
 * Sehen Sie sich die Geräteposition der Session in Echtzeit (oder nicht) in PhoneTrack an oder teilen Sie sie mit öffentlichen Seiten.
 
 (\*) Vergessen Sie nicht, den Gerätenamen im Link (und nicht in den Einstellungen der Protokollierungsanwendung) einzustellen. Ersetzen Sie "yourname" mit dem gewünschten Gerätenamen. Das Einstellen des Gerätenamens in den Einstellungen der Logging-App funktioniert nur mit Owntracks, Traccar und OpenGTS.
