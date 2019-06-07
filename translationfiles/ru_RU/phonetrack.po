@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-05-06 14:34\n"
+"PO-Revision-Date: 2019-06-07 05:17\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -269,7 +269,8 @@ msgstr "ежемесячно"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1647
 msgid "The automatic purge runs daily and deletes old points, it keeps \"auto export\" interval plus \"auto purge\" interval\n"
 "(If \"auto export\" is set to \"never\", consider it as set to \"monthly\")"
-msgstr ""
+msgstr "Автоматическая очистка запускается ежедневно и удаляет старые точки, она не затрагивает интервал \"auto export\" и интервал \"auto purge\"\n"
+"(если \"auto export\" установлен на \"never\", считайте его как \"ежемесячный\")"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1648
 msgid "Automatic purge"
