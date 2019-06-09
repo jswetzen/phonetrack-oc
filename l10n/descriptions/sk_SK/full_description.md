@@ -1,6 +1,6 @@
-# PhoneTrack Nextcloud application
+# Aplikácia Nextcloud PhoneTrack
 
-📱 PhoneTrack is a Nextcloud application to track and store mobile devices locations.
+📱 PhoneTrack je Nextcloud aplikácia na sledovanie a ukladanie polohy mobilných zariadení.
 
 🗺 It receives information from mobile phones logging apps and displays it dynamically on a map.
 
