@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-13 18:33\n"
+"PO-Revision-Date: 2019-06-13 19:01\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -850,7 +850,7 @@ msgstr "Es gibt in dieser Sitzung keine Datenpunkte zum Exportieren"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4293
 msgid "but there was no point to export for some devices"
-msgstr "aber es gab keinen Grund, für einige Geräte zu exportieren"
+msgstr "aber es gab für einige Geräte keine Datenpunkte zu exportieren"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4297
 msgid "Failed to export session"
@@ -866,7 +866,7 @@ msgstr "Der Server konnte nicht kontaktiert werden, um die Position zu ermitteln
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4425
 msgid "Impossible to zoom, there is no point to zoom on for this device"
-msgstr "Vergrößern nicht möglich. Für diese Gerät gibt es keinen Grund zum Vergrößern"
+msgstr "Vergrößern nicht möglich, da es in dieses Gerät keinen Datenpunkt zum Heranzoomen gibt."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4464
 msgid "'{n}' is already reserved"
@@ -1511,7 +1511,7 @@ msgstr "Pfad für automatisch Export"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:201
 msgid "Export one file per device"
-msgstr "Exportieren Sie eine Datei pro Gerät"
+msgstr "Eine Datei pro Gerät exportieren"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:216
 msgid "Tracking sessions"
@@ -1761,7 +1761,7 @@ msgstr "Lesezeichenname"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:645
 msgid "Save filter bookmark"
-msgstr "Speichere Lesezeichen Filter"
+msgstr "Filter-Lesezeichen speichern"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:678
 msgid "Statistics"
