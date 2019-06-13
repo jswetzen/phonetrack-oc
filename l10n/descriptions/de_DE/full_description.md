@@ -8,7 +8,7 @@
 
 ⚒ Schau dir in den [Richtlinien zur Mitarbeit](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md) an, wie du uns zusätzlich helfen kannst.
 
-Wie man PhoneTrack verwendet:
+Wie PhoneTrack verwendet wird:
 
 * Erstelle eine Tracking-Sitzung.
 * Gib den Protokollierungslink\* an die mobilen Geräte weiter. Wähle die [Protokollierungsmethode](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) aus, die Du bevorzugst.
