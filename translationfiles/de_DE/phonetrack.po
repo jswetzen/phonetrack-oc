@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-13 18:02\n"
+"PO-Revision-Date: 2019-06-13 18:13\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -379,27 +379,27 @@ msgstr "GpsLogger GET und POST Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1744
 msgid "Owntracks (HTTP mode) link"
-msgstr "Owntracks (HTTP Modus) URL"
+msgstr "Owntracks (HTTP-Modus) URL"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1748
 msgid "Ulogger link"
-msgstr "Ulogger Link"
+msgstr "Ulogger-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1752
 msgid "Traccar link"
-msgstr "Traccar Link"
+msgstr "Traccar-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1756
 msgid "OpenGTS link"
-msgstr "OpenGTS Link"
+msgstr "OpenGTS-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1760
 msgid "Locus Map link"
-msgstr "Locus Karte Link"
+msgstr "Locus-Map-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1764
 msgid "HTTP GET link"
-msgstr "HTTP GET Link"
+msgstr "HTTP-GET-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1866
 msgid "The session you want to delete does not exist"
@@ -492,7 +492,7 @@ msgstr "Geo-Link, um Position in einer anderen App/Anwendung zu öffnen"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:2998
 msgid "Geo link QRcode to open position with a QRcode scanner"
-msgstr "Geo-Link QR-Code zum Öffnen der Position mit einem QR-Code-Scanner"
+msgstr "Geo-Link-QR-Code zum Öffnen der Position mit einem QR-Code-Scanner"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3000
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3002
@@ -606,7 +606,7 @@ msgstr "Süd"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3073
 msgid "Set North/East corner by clicking on the map"
-msgstr "Legen Sie die Nord-/Ost-Ecke fest, indem Sie auf die Karte tippen"
+msgstr "Legen Sie die nordöstliche Ecke fest, indem Sie auf die Karte tippen"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3074
 msgid "Set N/E"
@@ -614,7 +614,7 @@ msgstr "N/O festlegen"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3076
 msgid "Set South/West corner by clicking on the map"
-msgstr "Legen Sie die Süd-/West-Ecke fest, indem Sie auf die Karte tippen"
+msgstr "Legen Sie die südwestliche Ecke fest, indem Sie auf die Karte tippen"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3077
 msgid "Set S/W"
@@ -646,7 +646,7 @@ msgstr "Benachrichtigungen über die Nähe zum Gerät"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3098
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
-msgstr "Wählen Sie eine Sitzung, einen Gerätenamen und eine Entfernung aus, legen Sie die Benachrichtigungseinstellungen fest und validieren Sie dann."
+msgstr "Wählen Sie eine Sitzung, einen Gerätenamen und eine Entfernung, legen Sie die Benachrichtigungseinstellungen fest und überprüfen Sie sie anschließend."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3099
 msgid "You will be notified when distance between devices gets bigger than high limit or smaller than low limit."
