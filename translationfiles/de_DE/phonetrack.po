@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-13 17:53\n"
+"PO-Revision-Date: 2019-06-13 18:02\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -219,7 +219,7 @@ msgstr "Links für Protokollierungs-Apps"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1601
 msgid "Link to share session"
-msgstr "Link zur Sitzung teilen"
+msgstr "Link um Sitzung zu teilen"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1611
 msgid "Zoom on this session"
@@ -298,11 +298,11 @@ msgstr "Die Namensreservierung ist optional."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1663
 msgid "Name can be set directly in logging link if it is not reserved."
-msgstr "Der Name kann direkt in der Protokollierungs-Link festgelegt werden, wenn er nicht reserviert ist."
+msgstr "Der Name kann direkt im Protokoll-Link festgelegt werden, wenn dieser nicht reserviert ist."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1664
 msgid "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
-msgstr "Um sich mit einem reservierten Namen anzumelden, verwenden Sie das Feld \"Namenstoken\" im Logging-Link (oder im Feld \"Gerätename\" des PhoneTrack-Android Log-Jobs)."
+msgstr "Um sich mit einem reservierten Namen anzumelden, verwenden Sie das Feld „Namenstoken” im Protokollier-Link (oder im Feld „Gerätename” des PhoneTrack-Android Protokollauftrags)."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1665
 msgid "If a name is reserved, the only way to log with this name is with its token."
@@ -334,7 +334,7 @@ msgstr "Öffentliche Sitzung"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1700
 msgid "Public watch link"
-msgstr "Öffentlicher Link"
+msgstr "Öffentlicher Überwachungslink"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1702
 msgid "API URL (JSON, last positions)"
@@ -367,7 +367,7 @@ msgstr "Ersetzen Sie „yourname” durch den gewünschten Gerätenamen oder dur
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1730
 msgid "Public browser logging link"
-msgstr "Öffentlicher Browser Protokollierungs-Link"
+msgstr "Öffentlicher Browser-Protokollierungs-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1735
 msgid "OsmAnd link"
