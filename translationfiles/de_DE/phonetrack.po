@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-13 18:13\n"
+"PO-Revision-Date: 2019-06-13 18:19\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -802,11 +802,11 @@ msgstr "Abbrechen"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4181
 msgid "Impossible to zoom, there is no point to zoom on for this session"
-msgstr "Vergrößern nicht möglich. Für diese Sitzung gibt es keinen Grund zum Vergrößern"
+msgstr "Vergrößern nicht möglich, da es in dieser Sitzung keinen Datenpunkt zum Heranzoomen gibt."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4216
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr "Die Dateierweiterung muss '.gpx' oder '.kml' lauten, um importiert werden zu können"
+msgstr "Die Dateierweiterung muss „.GPX” oder „.KML” sein, um importiert werden zu können"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4235
 msgid "Failed to create imported session"
@@ -829,11 +829,11 @@ msgstr "Datei nicht gefunden"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4252
 msgid "Malformed XML file"
-msgstr "Fehlerhafte GPX-Datei"
+msgstr "Fehlformierte XML-Datei"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4258
 msgid "There is no device to import in submitted file"
-msgstr "Es gibt kein Gerät, in das die übertragenen Datei importiert werden kann"
+msgstr "Kein Gerät verfügbar, in das die übertragenen Datei importiert werden kann"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4264
 msgid "Failed to contact server to import session"
