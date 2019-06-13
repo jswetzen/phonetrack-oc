@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-13 19:01\n"
+"PO-Revision-Date: 2019-06-13 19:32\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -950,7 +950,7 @@ msgstr "Der Server konnte nicht kontaktiert werden, um die Einschränkung des Ge
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4680
 msgid "Warning : User email and server admin email must be set to receive geofencing alerts."
-msgstr "Zur Beachtung: Benutzer-E-Mail-Adresse und Server-Admin-E-Mail-Adresse müssen so eingestellt sein, dass diese Geofencing-Benachrichtigungen erhalten können."
+msgstr "Zur Beachtung: Benutzer-E-Mail-Adresse und Server-Admin-E-Mail-Adresse müssen so eingestellt sein, dass diese Geofence-Benachrichtigungen erhalten können."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4684
 msgid "Failed to add geofencing zone"
