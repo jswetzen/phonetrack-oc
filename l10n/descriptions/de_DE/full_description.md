@@ -20,7 +20,7 @@ Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 
 * 📍 Standortverlauf anzeigen
 * ⛛ Datenpunkte filtern
-* ✎ Manuell Punkte bearbeiten/hinzufügen/löschen
+* ✎ Datenpunkte manuell bearbeiten/hinzufügen/löschen
 * ✎ Geräte bearbeiten (umbenennen, Farb/Form ändern, in eine andere Sitzung verschieben)
 * ⛶ Geofence Zonen für Geräte festlegen
 * ⚇ Definiere Näherungswarnungen für Gerätepaare
