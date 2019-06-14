@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-13 19:32\n"
+"PO-Revision-Date: 2019-06-14 16:43\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1123,7 +1123,7 @@ msgstr "Öffnen Sie in OsmAnd im Hauptmenü den Menüpunkt „Plugins”, aktivi
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5185
 msgid "Copy the link below into the 'Online tracking web address' field."
-msgstr "Kopieren Sie die untenstehenden Link in das Feld „Online-Nachverfolgungs-Webadresse”."
+msgstr "Kopieren Sie den untenstehenden Link in das Feld „Online-Nachverfolgungs-Webadresse”."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5189
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
@@ -1131,11 +1131,11 @@ msgstr "Öffnen Sie im Seitenleistenmenü von GpsLogger den Menüpunkt „Protok
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5190
 msgid "Copy the link below into the 'URL' field."
-msgstr "Kopieren Sie die untenstehenden Link in das Feld „URL”."
+msgstr "Kopieren Sie den untenstehenden Link in das Feld „URL”."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5194
 msgid "In the Owntracks preferences menu, go to 'Connections'."
-msgstr "Wechseln Sie im Menü Einstellung von OwnTracks zu „Verbindungen”."
+msgstr "Wechseln Sie im Menü „Einstellung” von OwnTracks zu „Verbindungen”."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5195
 msgid "Change the connection Mode to 'Private HTTP', Copy the link below into the 'Host' field."
