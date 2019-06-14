@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-14 17:44\n"
+"PO-Revision-Date: 2019-06-14 18:37\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1515,7 +1515,7 @@ msgstr "Eine Datei pro Gerät exportieren"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:216
 msgid "Tracking sessions"
-msgstr "Sitzung aufzeichnen"
+msgstr "Sitzungen aufzeichnen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:267
 msgid "Custom tile servers"
