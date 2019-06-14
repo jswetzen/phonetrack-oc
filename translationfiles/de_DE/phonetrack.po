@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-14 18:37\n"
+"PO-Revision-Date: 2019-06-14 18:53\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -195,7 +195,7 @@ msgstr "Der Server konnte nicht kontaktiert werden, um eine Sitzung zu erstellen
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1479
 msgid "yourname"
-msgstr "IhrName"
+msgstr "MeinName"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1565
 msgid "Watch this session"
@@ -363,7 +363,7 @@ msgstr "Liste der Links zur Konfiguration der Servereinstellungen für Protokoll
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1728
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:224
 msgid "Replace 'yourname' with the desired device name or with the name reservation token"
-msgstr "Ersetzen Sie „yourname” durch den gewünschten Gerätenamen oder durch das Namensreservierungstoken"
+msgstr "Ersetzen Sie „MeinName” durch den gewünschten Gerätenamen oder durch das Namensreservierungstoken"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1730
 msgid "Public browser logging link"
