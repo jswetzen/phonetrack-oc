@@ -2,11 +2,11 @@
 
 📱 PhoneTrack ist eine Nextcloud-Anwendung zur Verfolgung und Speicherung von Standorten mobiler Geräte.
 
-🗺 Sie erfasst Informationen von Logging-Apps auf Mobiltelefonen und zeigt diese dynamisch auf einer Karte an.
+🗺 Sie erfasst Informationen von Protokollierungs-Apps auf Mobiltelefonen und zeigt diese dynamisch auf einer Karte an.
 
 🌍 Helfen Sie uns, diese App auf [PhoneTrack Crowdin Projekt](https://crowdin.com/project/phonetrack) zu übersetzen.
 
-⚒ Schau dir in den [Richtlinien zur Mitarbeit](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md) an, wie du uns zusätzlich helfen kannst.
+⚒ Schauen Sie sich weitere Möglichkeiten in den [Mitwirkungsrichtlinien](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md) an, wie Sie mitwirken können.
 
 Wie PhoneTrack verwendet wird:
 
