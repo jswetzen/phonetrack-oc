@@ -10,11 +10,11 @@
 
 Wie PhoneTrack verwendet wird:
 
-* Erstelle eine Tracking-Sitzung.
-* Gib den Protokollierungslink\* an die mobilen Geräte weiter. Wähle die [Protokollierungsmethode](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) aus, die Du bevorzugst.
-* Sehen Sie sich die Geräteposition der Session in Echtzeit (oder nicht) in PhoneTrack an oder teilen Sie sie mit öffentlichen Seiten.
+* Tracking-Sitzung erstellen
+* Protokollierungslink\* an die mobilen Geräte weitergeben Bevorzugte [Protokollierungsmethode](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) auswählen
+* Beobachten Sie den Gerätestandort der Sitzung in Echtzeit (oder nicht) in PhoneTrack oder teilen Sie ihn mit öffentlichen Seiten.
 
-(\*) Vergessen Sie nicht, den Gerätenamen im Link (und nicht in den Einstellungen der Protokollierungsanwendung) einzustellen. Ersetzen Sie "yourname" mit dem gewünschten Gerätenamen. Das Einstellen des Gerätenamens in den Einstellungen der Logging-App funktioniert nur mit Owntracks, Traccar und OpenGTS.
+(\*) Vergessen Sie nicht, den Gerätenamen im Link (und nicht in den Einstellungen der Protokollierungsanwendung) einzustellen. Ersetzen Sie „MeinName” mit dem gewünschten Gerätenamen. Das Einstellen des Gerätenamens in den Einstellungen der Logging-App funktioniert nur mit Owntracks, Traccar und OpenGTS.
 
 Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 
