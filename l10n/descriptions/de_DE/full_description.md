@@ -25,7 +25,7 @@ Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 * ⛶ Geofence-Zonen für Geräte festlegen
 * ⚇ Annäherungsbenachrichtigung für Gerätepaare festlegen
 * 🖧 Teilen Sie eine Sitzung mit anderen Nextcloud-Benutzern oder mit einem öffentlichen Link (nur lesen)
-* 🔗 Erzeuge öffentliche Links mit optionalen Einschränkungen (Filter, Gerätename, letzte Positionen, Geofencing Vereinfachung)
+* 🔗 Öffentliche Links mit optionalen Einschränkungen (Filter, Gerätename, letzte Positionen, Geofence-Vereinfachung) teilen
 * 🖫 Sitzung im GPX-Format importieren/exportieren (eine Datei mit einer Aufzeichnung pro Gerät oder eine Datei pro Gerät)
 * 🗠 Sitzungsstatistiken anzeigen
 * 🔒 [Reservieren Sie einen Gerätenamen](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) um sicherzustellen, dass nur autorisierte Benutzer sich mit diesem Namen einloggen können
