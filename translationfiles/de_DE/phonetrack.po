@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-14 17:10\n"
+"PO-Revision-Date: 2019-06-14 17:21\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1274,7 +1274,7 @@ msgstr "GPX/KML-Sitzungsdatei importieren"
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
 msgid "Point number quota (%s) was reached with a point of \"%s\" in session \"%s\"."
-msgstr "Das Punktanzahl-Kontingent (%s) wurde mit einem Punkt von „%s” in der Sitzung „%s” erreicht."
+msgstr "Menge der erlaubten Datenpunkte (%s) wurde mit einem Punkt von „%s” in der Sitzung „%s” erreicht."
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
@@ -1292,15 +1292,15 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:8
 msgid "Point number quota"
-msgstr "Punktanzahl-Kontingent"
+msgstr "Menge der erlaubten Datenpunkte"
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:9
 msgid "Set the maximum number of points each user can store/log."
-msgstr "Legen Sie die maximale Anzahl von Punkten fest, die jeder Benutzer speichern/protokollieren kann."
+msgstr "Legen Sie die maximale Anzahl von Datenpunkten fest, die jeder Benutzer speichern/protokollieren darf."
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:10
 msgid "Each user can choose what happens when the quota is reached : block logging or delete oldest point."
-msgstr "Jeder Benutzer kann wählen, was passiert, wenn das Kontingent erreicht ist: • Protokollierung unterbrechen oder • Ältesten Punkt löschen."
+msgstr "Jeder Benutzer kann wählen, was passieren soll, wenn das Kontingent erreicht ist: • Protokollierung unterbrechen oder • Ältesten Punkt löschen."
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:11
 msgid "An empty value means no limit."
@@ -1387,7 +1387,7 @@ msgstr "Sekunden"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:85
 msgid "When point quota is reached"
-msgstr "Wenn das Punktkontingent erreicht ist"
+msgstr "Wenn die Menge der erlaubten Datenpunkte erreicht ist"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:87
 msgid "block logging"
@@ -1395,11 +1395,11 @@ msgstr "Protokollierung unterbrechen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:88
 msgid "delete user's oldest point each time a new one is logged"
-msgstr "den ältesten Punkt des Benutzers jedes Mal löschen, wenn ein neuer eingetragen wird"
+msgstr "den ältesten Datenpunkt des Benutzers jedes Mal löschen, wenn ein neuer eingetragen wird"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:89
 msgid "delete device's oldest point each time a new one is logged"
-msgstr "den ältesten Punkt des Geräts löschen, wenn ein neuer eingetragen wird"
+msgstr "den ältesten Datenpunkt des Geräts löschen, wenn ein neuer eingetragen wird"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:93
 msgid "Display"
