@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-14 17:21\n"
+"PO-Revision-Date: 2019-06-14 17:44\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1379,7 +1379,7 @@ msgstr "Mindestabstand zum Trennen zwischen zwei Datenpunkten"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
-msgstr "Mindestzeit zum Schneiden zwischen zwei Punkten"
+msgstr "Mindestzeit zum Trennen zwischen zwei Datenpunkten"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
@@ -1423,7 +1423,7 @@ msgstr "Richtungspfeile entlang der Streckenführung anzeigen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
-msgstr "Linie mit Farbverlauf ziehen"
+msgstr "Linie mit Farbverlauf zeichnen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:122
 msgid "Show accuracy in tooltips"
@@ -1471,7 +1471,7 @@ msgstr "Datenpunkt-Radius"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:168
 msgid "Points and lines opacity"
-msgstr "Deckkraft der Punkte und Linien"
+msgstr "Deckkraft der Datenpunkten und Linien"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:173
 msgid "Theme"
@@ -1495,7 +1495,7 @@ msgstr "Linien in öffentlichen Seiten anzeigen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:186
 msgid "Show points in public pages"
-msgstr "Punkte auf öffentlichen Seiten anzeigen"
+msgstr "Datenpunkte auf öffentlichen Seiten anzeigen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:188
 msgid "reload page to make changes effective"
@@ -1652,7 +1652,7 @@ msgstr "„Datenpunkt hinzufügen” abbrechen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:463
 msgid "Delete multiple points"
-msgstr "Datenpunkte löschen"
+msgstr "Mehrere Datenpunkte löschen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:466
 msgid "Choose a session, a device and adjust the filters. All displayed points for selected device will be deleted. An empty device name selects them all."
