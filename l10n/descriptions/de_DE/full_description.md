@@ -14,7 +14,7 @@ Wie PhoneTrack verwendet wird:
 * Protokollierungslink\* an die mobilen Geräte weitergeben Bevorzugte [Protokollierungsmethode](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) auswählen
 * Beobachten Sie den Gerätestandort der Sitzung in Echtzeit (oder nicht) in PhoneTrack oder teilen Sie ihn mit öffentlichen Seiten.
 
-(\*) Vergessen Sie nicht, den Gerätenamen im Link (und nicht in den Einstellungen der Protokollierungsanwendung) einzustellen. Ersetzen Sie „MeinName” mit dem gewünschten Gerätenamen. Das Einstellen des Gerätenamens in den Einstellungen der Logging-App funktioniert nur mit Owntracks, Traccar und OpenGTS.
+(\*) Vergessen Sie nicht, den Gerätenamen im Link (und nicht in den Einstellungen der Protokollierungsanwendung) einzustellen. Ersetzen Sie „MeinName” mit dem gewünschten Gerätenamen. Das Einstellen des Gerätenamens in den Einstellungen der Protokollieruns-App funktioniert nur mit Owntracks, Traccar und OpenGTS.
 
 Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 
@@ -24,11 +24,11 @@ Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 * ✎ Geräte bearbeiten (umbenennen, Farb/Form ändern, in andere Sitzung verschieben)
 * ⛶ Geofence-Zonen für Geräte festlegen
 * ⚇ Annäherungsbenachrichtigung für Gerätepaare festlegen
-* 🖧 Teilen Sie eine Sitzung mit anderen Nextcloud-Benutzern oder mit einem öffentlichen Link (nur lesen)
+* 🖧 Teilen Sie eine Sitzung mit anderen Nextcloud-Benutzern oder mit einem öffentlichen Link (nur lesend)
 * 🔗 Öffentliche Links mit optionalen Einschränkungen (Filter, Gerätename, letzte Positionen, Geofence-Vereinfachung) teilen
 * 🖫 Sitzung im GPX-Format importieren/exportieren (eine Datei mit einer Aufzeichnung pro Gerät oder eine Datei pro Gerät)
 * 🗠 Sitzungsstatistiken anzeigen
-* 🔒 [Reservieren Sie einen Gerätenamen](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) um sicherzustellen, dass nur autorisierte Benutzer sich mit diesem Namen einloggen können
+* 🔒 [Reservieren Sie einen Gerätenamen](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) um sicherzustellen, dass nur autorisierte Benutzer sich mit diesem Namen anmelden können
 * 🗓 Umschalten zwischen „Automatisch exportieren” und „Automatisch bereinigen” der Sitzung (täglich/wöchentlich/monatlich)
 * ◔ Jeder Benutzer kann wählen, was passieren soll, wenn die Menge der erlaubten Datenpunkte erreicht ist (Protokollierung unterbrechen oder ältesten Punkt löschen)
 
