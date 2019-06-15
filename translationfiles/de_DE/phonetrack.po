@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-06-15 16:39\n"
+"PO-Revision-Date: 2019-06-15 17:26\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -375,7 +375,7 @@ msgstr "OsmAnd-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1740
 msgid "GpsLogger GET and POST link"
-msgstr "GpsLogger GET und POST Link"
+msgstr "GpsLogger • GET- und POST-Link"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1744
 msgid "Owntracks (HTTP mode) link"
