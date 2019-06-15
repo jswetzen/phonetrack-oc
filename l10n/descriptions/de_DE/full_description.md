@@ -36,7 +36,7 @@ Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 
 Diese App wurde auf Nextcloud 15 mit Firefox 57+ und Chromium getestet.
 
-Diese App ist kompatibel mit Thematisierungsfarben und Barrierefreiheitsthemes!
+Diese App ist kompatibel mit Farbthemen und Themen zur Barrierefreiheit!
 
 Diese App befindet sich in der Entwicklung.
 
@@ -46,7 +46,7 @@ Siehe [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) für I
 
 Überprüfen Sie das [Änderungsprotokoll](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log), um zu erfahren, was neu ist und was in der nächsten Version kommt.
 
-Überprüfen Sie die [Autoren](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) Datei, um die vollständige Liste der Autoren zu sehen.
+[Autoren](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors)-Datei auswählen, um eine Liste aller Autoren anzuzeigen.
 
 ## Bekannte Probleme
 
