@@ -52,4 +52,4 @@ Siehe [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) für I
 
 * PhoneTrack **funktioniert nun** mit der aktivierten Nextcloud-Gruppenbeschränkung. Siehe [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
 
-Jedes Feedback ist willkommen.
+Jegliches Feedback ist willkommen.
