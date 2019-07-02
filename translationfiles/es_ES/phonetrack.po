@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-05-29 09:43\n"
+"PO-Revision-Date: 2019-07-02 07:06\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1159,11 +1159,11 @@ msgstr "Activar 'sincronización en directo'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5206
 msgid "In Traccar client, copy the link below into the 'server URL' field."
-msgstr ""
+msgstr "En el cliente Traccar, copia el enlace a continuación en el campo 'URL del servidor'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5210
 msgid "In LocusMap, copy the link below into the 'server URL' field. It works with POST and GET methods."
-msgstr ""
+msgstr "En LocusMap, copia el enlace a continuación en el campo 'URL del servidor'. Funciona con los métodos POST y GET."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5214
 msgid "You can log with any other client with a simple HTTP request."
@@ -1175,7 +1175,7 @@ msgstr "Asegúrese de que el sistema de registro establece por lo menos los valo
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5218
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
-msgstr ""
+msgstr "Usa este enlace como la URL del servidor en tu app de registro compatible con OpenGTS."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5219
 msgid "OpenGTS compatible logger"
@@ -1228,7 +1228,7 @@ msgstr "Confirmar eliminación de dispositivo"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6087
 msgid "Failed to change session lock status"
-msgstr ""
+msgstr "Fallo al cambiar el estado de bloqueo de la sesión"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6115
 msgid "Failed to toggle session public status, session does not exist"
