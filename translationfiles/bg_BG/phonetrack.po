@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-07-03 08:02\n"
+"PO-Revision-Date: 2019-07-03 08:28\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -1087,204 +1087,204 @@ msgstr "Неуспешно свързване със сървъра за пол�
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5081
 msgid "device name"
-msgstr ""
+msgstr "име на устройството"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5082
 msgid "distance (km)"
-msgstr ""
+msgstr "разстояние (км)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5083
 msgid "duration"
-msgstr ""
+msgstr "продължителнсот"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5084
 msgid "#points"
-msgstr ""
+msgstr "#точки"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5085
 msgid "avg speed (km/h)"
-msgstr ""
+msgstr "средна скорост (км/ч)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5086
 msgid "max speed (km/h)"
-msgstr ""
+msgstr "максимална скорост (км/ч)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5158
 msgid "years"
-msgstr ""
+msgstr "години"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5161
 msgid "days"
-msgstr ""
+msgstr "дни"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5184
 msgid "In OsmAnd, go to 'Plugins' in the main menu, then activate 'Trip recording' plugin and go to its settings."
-msgstr ""
+msgstr "В OsmAnd, отидете на 'Plugins' в главното меню, след това активирайте плъгина 'Trip recording' и отидете в неговите настройки."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5185
 msgid "Copy the link below into the 'Online tracking web address' field."
-msgstr ""
+msgstr "Копирайте връзката по-долу в полето „Уеб адрес за онлайн проследяване“."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5189
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
-msgstr ""
+msgstr "В GpsLogger отворете „Данни за регистриране“ в менюто в страничната лента, след което активирайте „Вход в потребителски URL адрес“."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5190
 msgid "Copy the link below into the 'URL' field."
-msgstr ""
+msgstr "Копирайте връзката по-долу в полето „URL“."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5194
 msgid "In the Owntracks preferences menu, go to 'Connections'."
-msgstr ""
+msgstr "В менюто Owntracks изберете \"Connections\"."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5195
 msgid "Change the connection Mode to 'Private HTTP', Copy the link below into the 'Host' field."
-msgstr ""
+msgstr "Променете режима на връзка на „Частни HTTP“, копирайте връзката по-долу в полето „Хост“."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5196
 msgid "Leave settings under 'Identification' blank as they are not required."
-msgstr ""
+msgstr "Оставете настройките под „Идентификация“ празни, тъй като те не са необходими."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5200
 msgid "In Ulogger, go to settings menu and copy the link below into the 'Server URL' field."
-msgstr ""
+msgstr "В Ulogger отидете в менюто с настройки и копирайте връзката по-долу в полето „URL адрес на сървъра“."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5201
 msgid "Set 'User name' and 'Password' mandatory fields to any value as they will be ignored by PhoneTrack."
-msgstr ""
+msgstr "Задайте задължителните полета „Потребителско име“ и „Парола“ на всяка стойност, тъй като те ще бъдат игнорирани от PhoneTrack."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5202
 msgid "Activate 'Live synchronization'."
-msgstr ""
+msgstr "Активирайте „Синхронизация на живо“."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5206
 msgid "In Traccar client, copy the link below into the 'server URL' field."
-msgstr ""
+msgstr "В клиента на Traccar копирайте връзката по-долу в полето „URL адрес на сървъра“."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5210
 msgid "In LocusMap, copy the link below into the 'server URL' field. It works with POST and GET methods."
-msgstr ""
+msgstr "В LocusMap копирайте връзката по-долу в полето „URL адрес на сървъра“. Той работи с POST и GET методи."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5214
 msgid "You can log with any other client with a simple HTTP request."
-msgstr ""
+msgstr "Можете да влезете с всеки друг клиент с проста HTTP заявка."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5215
 msgid "Make sure the logging system sets values for at least 'timestamp', 'lat' and 'lon' GET parameters."
-msgstr ""
+msgstr "Уверете се, че системата за регистриране задава стойности за поне \"timestamp\", \"lat\" и \"lon\" GET параметри."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5218
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
-msgstr ""
+msgstr "Използвайте тази връзка като URL адрес на сървъра в приложението за регистриране, съвместимо с OpenGTS."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5219
 msgid "OpenGTS compatible logger"
-msgstr ""
+msgstr "Съвместим с OpenGTS регистратор"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5222
 msgid "the browser"
-msgstr ""
+msgstr "браузъра"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5223
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:211
 msgid "Log my position in this session"
-msgstr ""
+msgstr "Регистрирайте позицията ми в тази сесия"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5224
 msgid "Visit this link with a web browser and check \"{loglabel}\"."
-msgstr ""
+msgstr "Посетете тази връзка с уеб браузър и проверете \"{loglabel}\"."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5227
 msgid "Configure {loggingApp} for logging to session '{sessionName}'"
-msgstr ""
+msgstr "Конфигурирайте {loggingApp} за влизане в сесия '{sessionName}'"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5448
 msgid "Are you sure you want to delete the session {session} ?"
-msgstr ""
+msgstr "Наистина ли искате да изтриете сесията {session}?"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5451
 msgid "Confirm session deletion"
-msgstr ""
+msgstr "Потвърдете изтриването на сесията"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5507
 msgid "Choose auto export target path"
-msgstr ""
+msgstr "Изберете път за автоматично експортиране"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5687
 msgid "Select storage location for '{fname}'"
-msgstr ""
+msgstr "Изберете място за съхранение за '{fname}'"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5909
 msgid "Geo QRcode : last position of {dname}"
-msgstr ""
+msgstr "Geo QRcode: последна позиция на {dname}"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6031
 msgid "Are you sure you want to delete the device {device} ?"
-msgstr ""
+msgstr "Наистина ли искате да изтриете устройството {device}?"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6034
 msgid "Confirm device deletion"
-msgstr ""
+msgstr "Потвърдете изтриването на устройството"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6087
 msgid "Failed to change session lock status"
-msgstr ""
+msgstr "Промяната на статуса на заключване на сесията не бе успешна"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6115
 msgid "Failed to toggle session public status, session does not exist"
-msgstr ""
+msgstr "Неуспешно превключване на публичното състояние на сесията, сесията не съществува"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6118
 msgid "Failed to contact server to toggle session public status"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за превключване на публичното състояние на сесията"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6187
 msgid "Failed to set device shape"
-msgstr ""
+msgstr "Неуспешно задаване на формата на устройството"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6190
 msgid "Failed to contact server to set device shape"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за задаване на формата на устройството"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6212
 msgid "Failed to set session auto export value"
-msgstr ""
+msgstr "Неуспешно задаване на стойност за автоматично експортиране на сесията"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6213
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6240
 msgid "session does not exist"
-msgstr ""
+msgstr "сесия не съществува"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6217
 msgid "Failed to contact server to set session auto export value"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за задаване на стойност за автоматично експортиране на сесията"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6239
 msgid "Failed to set session auto purge value"
-msgstr ""
+msgstr "Неуспешно задаване на стойността за автоматично изчистване на сесията"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6244
 msgid "Failed to contact server to set session auto purge value"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за задаване на стойността за автоматично изчистване на сесията"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6331
 msgid "Import gpx/kml session file"
-msgstr ""
+msgstr "Импортирайте gpx/kml файл за сесия"
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
 msgid "Point number quota (%s) was reached with a point of \"%s\" in session \"%s\"."
-msgstr ""
+msgstr "Point number quota (%s) was reached with a point of \"%s\" in session \"%s\"."
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
 msgid "User \"%s\" shared PhoneTrack session \"%s\" with you."
-msgstr ""
+msgstr "Потребителят \"%s\" сподели с вас сесията на PhoneTrack \"%s\"."
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:113
 #, php-format
 msgid "User \"%s\" stopped sharing PhoneTrack session \"%s\" with you."
-msgstr ""
+msgstr "Потребителят \"%s\" е спрял споделянето на сесията PhoneTrack \"%s\" с вас."
 
 #: /var/www/html/n16/apps/phonetrack/specialAppInfoFakeDummyForL10nScript.php:3
 msgid " "
@@ -1292,110 +1292,110 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:8
 msgid "Point number quota"
-msgstr ""
+msgstr "Квота с номер на точка"
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:9
 msgid "Set the maximum number of points each user can store/log."
-msgstr ""
+msgstr "Задайте максималния брой точки, които всеки потребител може да съхранява / регистрира."
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:10
 msgid "Each user can choose what happens when the quota is reached : block logging or delete oldest point."
-msgstr ""
+msgstr "Всеки потребител може да избере какво ще се случи, когато се достигне квотата: блокиране на регистрацията или изтриване на най-старата точка."
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:11
 msgid "An empty value means no limit."
-msgstr ""
+msgstr "Празна стойност означава без ограничение."
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:4
 msgid "Main tab"
-msgstr ""
+msgstr "Главен раздел"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:5
 msgid "Filters"
-msgstr ""
+msgstr "Филтри"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:14
 msgid "Stats"
-msgstr ""
+msgstr "Статистика"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:15
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:262
 msgid "Settings and extra actions"
-msgstr ""
+msgstr "Настройки и допълнителни действия"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:16
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:690
 msgid "About PhoneTrack"
-msgstr ""
+msgstr "За PhoneTrack"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:32
 msgid "Import session"
-msgstr ""
+msgstr "Ипортиране на сесия"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:36
 msgid "Create session"
-msgstr ""
+msgstr "Създаване на сесия"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:40
 msgid "Session name"
-msgstr ""
+msgstr "Име на сесията"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:53
 msgid "Options"
-msgstr ""
+msgstr "Опции"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:61
 msgid "General"
-msgstr ""
+msgstr "Основни"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:64
 msgid "Refresh each (sec)"
-msgstr ""
+msgstr "Обновяване на всеки (сек)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:67
 msgid "Refresh"
-msgstr ""
+msgstr "Обновяване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:69
 msgid "An empty value means no limit"
-msgstr ""
+msgstr "Празна стойност означава без ограничение"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:71
 msgid "Max number of points per device to load on refresh"
-msgstr ""
+msgstr "Максимален брой точки за устройство за зареждане при опресняване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:72
 msgid "points"
-msgstr ""
+msgstr "точки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:74
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:79
 msgid "Cutting lines only affects map view and stats table"
-msgstr ""
+msgstr "Линиите за рязане засягат само изгледа на картата и таблицата със статистически данни"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
-msgstr ""
+msgstr "Минимално разстояние между две точки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
-msgstr ""
+msgstr "Минимално време за разрез между две точки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
-msgstr ""
+msgstr "секунди"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:85
 msgid "When point quota is reached"
-msgstr ""
+msgstr "Когато се достигне квотата на точките"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:87
 msgid "block logging"
-msgstr ""
+msgstr "регистриране на блок"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:88
 msgid "delete user's oldest point each time a new one is logged"
-msgstr ""
+msgstr "изтрийте най-старата точка на потребителя всеки път, когато се регистрира нов"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:89
 msgid "delete device's oldest point each time a new one is logged"
