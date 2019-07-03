@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-07-03 07:56\n"
+"PO-Revision-Date: 2019-07-03 08:02\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -338,11 +338,11 @@ msgstr "Публичен линк за споделяне"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1702
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "API URL (JSON, последна позиция)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1704
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "API URL (JSON, всички позиции)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1710
 msgid "Current active filters will be applied on shared view"
@@ -950,15 +950,15 @@ msgstr "Неуспено свързване със сървъра да запи�
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4680
 msgid "Warning : User email and server admin email must be set to receive geofencing alerts."
-msgstr ""
+msgstr "Предупреждение: Потребителският имейл и администраторският имейл на сървъра трябва да са настроени да получават предупреждения за географска защита."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4684
 msgid "Failed to add geofencing zone"
-msgstr ""
+msgstr "Добавянето на зона не бе успешно"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4687
 msgid "Failed to contact server to add geofencing zone"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за добавяне на зона за ограждане"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4702
 msgid "URL to request when entering"
@@ -973,53 +973,53 @@ msgstr "URL, който да се поиска при излизане"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4826
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4830
 msgid "no"
-msgstr ""
+msgstr "не"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4711
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4715
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4828
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4832
 msgid "yes"
-msgstr ""
+msgstr "да"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4725
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4742
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4845
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4866
 msgid "Email address(es)"
-msgstr ""
+msgstr "Имейл адрес(и)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4725
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4743
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4845
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4866
 msgid "account mail address"
-msgstr ""
+msgstr "имейл адрес на профила"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4769
 msgid "Failed to delete geofencing zone"
-msgstr ""
+msgstr "Изтриването на зоната за ограждане не бе успешно"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4772
 msgid "Failed to contact server to delete geofencing zone"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за изтриване на зона за ограждане"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4802
 msgid "Warning : User email and server admin email must be set to receive proximity alerts."
-msgstr ""
+msgstr "Предупреждение: Потребителският имейл и администраторският имейл на сървъра трябва да са настроени да получават сигнали за близост."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4806
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4810
 msgid "Failed to add proximity alert"
-msgstr ""
+msgstr "Неуспешно добавяне на сигнал за близост"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4807
 msgid "Device or session does not exist"
-msgstr ""
+msgstr "Устройството или сесията не съществуват"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4813
 msgid "Failed to contact server to add proximity alert"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за добавяне на сигнал за близост"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4837
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4854
@@ -1034,56 +1034,56 @@ msgstr "URL за поискване когато устройство се от�
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4847
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4869
 msgid "Low distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Лимит за къса дистанция: {nbmeters}м"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4848
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4871
 msgid "High distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Лимит за дълга дистанция: {nbmeters}м"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4897
 msgid "Failed to delete proximity alert"
-msgstr ""
+msgstr "Изтриването на сигнала за близост е неуспешно"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4900
 msgid "Failed to contact server to delete proximity alert"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за изтриване на сигнала за близост"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4919
 msgid "Failed to add public share"
-msgstr ""
+msgstr "Добавянето на публично споделяне не бе успешно"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4922
 msgid "Failed to contact server to add public share"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за добавяне на публично споделяне"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4954
 msgid "Show this device only"
-msgstr ""
+msgstr "Показване само на това устройство"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4956
 msgid "Show last positions only"
-msgstr ""
+msgstr "Показване само на последните позиции"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4958
 msgid "Simplify positions to nearest geofencing zone center"
-msgstr ""
+msgstr "Опростете позициите до най-близкия център на зоната за ограждане"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4977
 msgid "No filters"
-msgstr ""
+msgstr "Няма филтри"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5001
 msgid "Failed to delete public share"
-msgstr ""
+msgstr "Изтриването на публично споделяне не бе успешно"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5004
 msgid "Failed to contact server to delete public share"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за изтриване на публично споделяне"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5038
 msgid "Failed to contact server to get user list"
-msgstr ""
+msgstr "Неуспешно свързване със сървъра за получаване на списък с потребители"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5081
 msgid "device name"
