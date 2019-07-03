@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-07-03 08:28\n"
+"PO-Revision-Date: 2019-07-03 08:34\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -1399,7 +1399,7 @@ msgstr "изтрийте най-старата точка на потребит�
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:89
 msgid "delete device's oldest point each time a new one is logged"
-msgstr ""
+msgstr "изтрийте най-старата точка на потребителя всеки път, когато се регистрира нова"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:93
 msgid "Display"
@@ -1407,51 +1407,51 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:98
 msgid "Auto zoom"
-msgstr ""
+msgstr "Автоматично мащабиране"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:106
 msgid "Show tooltips"
-msgstr ""
+msgstr "Показвай съветите"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:110
 msgid "Display first letter of device name on last position"
-msgstr ""
+msgstr "Изтрийте най-старата точка на потребителя всеки Показва първата буква на името на устройството на последната позицияпът, когато се регистрирате нов"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:114
 msgid "Show direction arrows along lines"
-msgstr ""
+msgstr "Покажете стрелките по посока на линиите"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
-msgstr ""
+msgstr "Начертайте линия с цветен градиент"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:122
 msgid "Show accuracy in tooltips"
-msgstr ""
+msgstr "Показване на точност в подсказките"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:126
 msgid "Show speed in tooltips"
-msgstr ""
+msgstr "Показване на скоростта в подсказките"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:130
 msgid "Show bearing in tooltips"
-msgstr ""
+msgstr "Показване на лагера в подсказките"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:134
 msgid "Show satellites in tooltips"
-msgstr ""
+msgstr "Показване на спътници в подсказки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:138
 msgid "Show battery level in tooltips"
-msgstr ""
+msgstr "Показване на нивото на батерията в подсказките"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:142
 msgid "Show elevation in tooltips"
-msgstr ""
+msgstr "Показване на надморска височина в подсказките"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:146
 msgid "Show user-agent in tooltips"
-msgstr ""
+msgstr "Показване на потребителски агент в подсказки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:150
 msgid "Make points draggable in edition mode"
