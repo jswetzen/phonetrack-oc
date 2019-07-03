@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-07-03 10:44\n"
+"PO-Revision-Date: 2019-07-03 14:34\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -802,7 +802,7 @@ msgstr "Abbrechen"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4076
 msgid "Distance"
-msgstr ""
+msgstr "Entfernung"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4245
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -1431,7 +1431,7 @@ msgstr "Linie mit Farbverlauf zeichnen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Entfernung in Tooltips anzeigen"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
