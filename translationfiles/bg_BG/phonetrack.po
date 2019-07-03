@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-07-03 08:40\n"
+"PO-Revision-Date: 2019-07-03 08:43\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -1619,60 +1619,60 @@ msgstr "Слоеве за показване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:370
 msgid "Your WMS tile servers"
-msgstr ""
+msgstr "Вашите WMS сървър"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:395
 msgid "Custom WMS overlay servers"
-msgstr ""
+msgstr "Персонализиран сървър за WMS наслагване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:419
 msgid "Your WMS overlay tile servers"
-msgstr ""
+msgstr "Вашите WMS сървър"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:448
 msgid "Manually add a point"
-msgstr ""
+msgstr "Ръчно добавете точка"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:454
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:472
 msgid "Device"
-msgstr ""
+msgstr "Устройство"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:456
 msgid "Add a point"
-msgstr ""
+msgstr "Добавяне на точка"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:457
 msgid "Now, click on the map to add a point (if session is not activated, you won't see added point)"
-msgstr ""
+msgstr "Сега кликнете върху картата, за да добавите точка (ако сесията не е активирана, няма да виждате добавената точка)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:458
 msgid "Cancel add point"
-msgstr ""
+msgstr "Отказ добавяне на точка"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:463
 msgid "Delete multiple points"
-msgstr ""
+msgstr "Изтриване на няколко точки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:466
 msgid "Choose a session, a device and adjust the filters. All displayed points for selected device will be deleted. An empty device name selects them all."
-msgstr ""
+msgstr "Изберете сесия, устройство и настройте филтрите. Всички показани точки за избраното устройство ще бъдат изтрити. Празното име на устройство избира всички."
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:474
 msgid "Delete points"
-msgstr ""
+msgstr "Изтриване на точки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:475
 msgid "Delete only visible points"
-msgstr ""
+msgstr "Изтрийте само видими точки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:482
 msgid "Filter points"
-msgstr ""
+msgstr "Филтриране на точки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:489
 msgid "Apply filters"
-msgstr ""
+msgstr "Прилагане на филтри"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:494
 msgid "Begin date"
