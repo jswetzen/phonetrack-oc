@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-07-03 08:34\n"
+"PO-Revision-Date: 2019-07-03 08:40\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -1455,85 +1455,85 @@ msgstr "Показване на потребителски агент в под�
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:150
 msgid "Make points draggable in edition mode"
-msgstr ""
+msgstr "Преместете точките в режим издание"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:154
 msgid "Show accuracy circle on hover"
-msgstr ""
+msgstr "Показва кръг на точност при навъртане"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:158
 msgid "Line width"
-msgstr ""
+msgstr "Ширина на линията"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:163
 msgid "Point radius"
-msgstr ""
+msgstr "Радиус на точката"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:168
 msgid "Points and lines opacity"
-msgstr ""
+msgstr "Непрозрачност на точки и линии"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:173
 msgid "Theme"
-msgstr ""
+msgstr "Тема"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:175
 msgid "bright"
-msgstr ""
+msgstr "яркост"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:176
 msgid "pastel"
-msgstr ""
+msgstr "пастел"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:177
 msgid "dark"
-msgstr ""
+msgstr "тъмно"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:183
 msgid "Show lines in public pages"
-msgstr ""
+msgstr "Показване на редове в публичните страници"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:186
 msgid "Show points in public pages"
-msgstr ""
+msgstr "Показване на точки в публични страници"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:188
 msgid "reload page to make changes effective"
-msgstr ""
+msgstr "презаредете страницата, за да направите промените ефективни"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:192
 msgid "File export"
-msgstr ""
+msgstr "Експортиране на файл"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:195
 msgid "Auto export path"
-msgstr ""
+msgstr "Път за автоматично експортиране"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:201
 msgid "Export one file per device"
-msgstr ""
+msgstr "Експортирайте един файл на устройство"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:216
 msgid "Tracking sessions"
-msgstr ""
+msgstr "Сесия на проследяване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:267
 msgid "Custom tile servers"
-msgstr ""
+msgstr "Персонализирани сървъри на плочки"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:270
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:310
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:353
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:398
 msgid "Server name"
-msgstr ""
+msgstr "Име на сървъра"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:271
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:311
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:354
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:399
 msgid "For example : my custom server"
-msgstr ""
+msgstr "Например: персонализираният ми сървър"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:272
 msgid "Server address"
@@ -1542,80 +1542,80 @@ msgstr ""
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:273
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:356
 msgid "For example : http://tile.server.org/cycle/{z}/{x}/{y}.png"
-msgstr ""
+msgstr "Например: http://tile.server.org/cycle/{z}/{x}/{y}.png"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:274
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:314
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:357
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:402
 msgid "Min zoom (1-20)"
-msgstr ""
+msgstr "Мин. увеличение (1-20)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:276
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:316
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:359
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:404
 msgid "Max zoom (1-20)"
-msgstr ""
+msgstr "Макс. увеличение (1-20)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:278
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:322
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:367
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:416
 msgid "Add"
-msgstr ""
+msgstr "Добави"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:281
 msgid "Your tile servers"
-msgstr ""
+msgstr "Вашия тайлов сървър"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:307
 msgid "Custom overlay tile servers"
-msgstr ""
+msgstr "Персонализирани сървъри за наслагване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:312
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:355
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:400
 msgid "Server url"
-msgstr ""
+msgstr "Url адрес на сървъра"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:313
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:401
 msgid "For example : http://overlay.server.org/cycle/{z}/{x}/{y}.png"
-msgstr ""
+msgstr "Например: http://overlay.server.org/cycle/{z}/{x}/{y}.png"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:318
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:406
 msgid "Transparent"
-msgstr ""
+msgstr "Прозрачен"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:320
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:408
 msgid "Opacity (0.0-1.0)"
-msgstr ""
+msgstr "Прозрачност (0.0-1.0)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:325
 msgid "Your overlay tile servers"
-msgstr ""
+msgstr "Your overlay tile servers"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:350
 msgid "Custom WMS tile servers"
-msgstr ""
+msgstr "Персонализиран tile сървър"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:361
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:410
 msgid "Format"
-msgstr ""
+msgstr "Формат"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:363
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:412
 msgid "WMS version"
-msgstr ""
+msgstr "WMS версия"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:365
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:414
 msgid "Layers to display"
-msgstr ""
+msgstr "Слоеве за показване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:370
 msgid "Your WMS tile servers"
