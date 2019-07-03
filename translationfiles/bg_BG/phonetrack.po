@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2019-07-03 08:43\n"
+"PO-Revision-Date: 2019-07-03 09:11\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -1676,118 +1676,118 @@ msgstr "Прилагане на филтри"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:494
 msgid "Begin date"
-msgstr ""
+msgstr "Начална дата"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:501
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:519
 msgid "today"
-msgstr ""
+msgstr "днес"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:506
 msgid "Begin time"
-msgstr ""
+msgstr "Време на започване"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:512
 msgid "End date"
-msgstr ""
+msgstr "Крайна дата"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:524
 msgid "End time"
-msgstr ""
+msgstr "Крайно време"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:531
 msgid "Min-- and Max--"
-msgstr ""
+msgstr "Мин-- и макс--"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:534
 msgid "Min++ and Max++"
-msgstr ""
+msgstr "Мин++ и макс++"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:538
 msgid "Last day:hour:min"
-msgstr ""
+msgstr "Последен ден:час:мин"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:545
 msgid "Minimum accuracy"
-msgstr ""
+msgstr "Минимална точност"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:553
 msgid "Maximum accuracy"
-msgstr ""
+msgstr "Максимална точност"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:561
 msgid "Minimum elevation"
-msgstr ""
+msgstr "Минимална надморска височина"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:569
 msgid "Maximum elevation"
-msgstr ""
+msgstr "Максимална надморска височина"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:577
 msgid "Minimum battery level"
-msgstr ""
+msgstr "Минимално ниво на батерията"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:585
 msgid "Maximum battery level"
-msgstr ""
+msgstr "Максимално ниво на батерията"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:593
 msgid "Minimum speed"
-msgstr ""
+msgstr "Минимална скорост"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:601
 msgid "Maximum speed"
-msgstr ""
+msgstr "Максимална скорост"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:609
 msgid "Minimum bearing"
-msgstr ""
+msgstr "Минимален лагер"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:617
 msgid "Maximum bearing"
-msgstr ""
+msgstr "Максимален лагер"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:625
 msgid "Minimum satellites"
-msgstr ""
+msgstr "Минимален брой сателити"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:633
 msgid "Maximum satellites"
-msgstr ""
+msgstr "Максимален брой сателити"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:643
 msgid "bookmark name"
-msgstr ""
+msgstr "име на маркер"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:645
 msgid "Save filter bookmark"
-msgstr ""
+msgstr "Запазване на маркера на филтъра"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:678
 msgid "Statistics"
-msgstr ""
+msgstr "Статистики"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:682
 msgid "Show stats"
-msgstr ""
+msgstr "Покажи ми статистика"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:692
 msgid "Shortcuts"
-msgstr ""
+msgstr "Преки пътища"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:694
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Страничната лента"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:698
 msgid "Documentation"
-msgstr ""
+msgstr "Документация"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:706
 msgid "Source management"
-msgstr ""
+msgstr "Управление на източниците"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:720
 msgid "Authors"
-msgstr ""
+msgstr "Автори"
 
