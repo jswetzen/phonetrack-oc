@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-07-03 10:42\n"
+"PO-Revision-Date: 2019-07-03 11:21\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -666,7 +666,7 @@ msgstr "Nome do dispositivo"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3126
 msgid "Low distance limit"
-msgstr ""
+msgstr "Limite de distância mínima"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3128
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3131
@@ -676,7 +676,7 @@ msgstr "metros"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3129
 msgid "High distance limit"
-msgstr ""
+msgstr "Limite de distância máxima"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3139
 msgid "HTTP address to request when devices get close"
@@ -688,7 +688,7 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3148
 msgid "Add proximity notification"
-msgstr ""
+msgstr "Adicionar notificação de proximidade"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3164
 msgid "Toggle lines"
@@ -709,7 +709,7 @@ msgstr "O ponto que você deseja editar não existe ou você não pode editá-lo
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3617
 msgid "Failed to contact server to edit point"
-msgstr ""
+msgstr "Falha ao contatar o servidor para editar ponto"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3735
 msgid "The point you want to delete does not exist or you're not allowed to delete it"
@@ -717,12 +717,12 @@ msgstr "O ponto que você deseja excluir não existe ou você não pode excluí-
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3739
 msgid "Failed to contact server to delete point"
-msgstr ""
+msgstr "Falha ao contatar o servidor para excluir ponto"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3828
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3865
 msgid "Manually added"
-msgstr ""
+msgstr "Adicionado manualmente"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3846
 msgid "Impossible to add this point"
@@ -730,11 +730,11 @@ msgstr "Impossível adicionar este ponto"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3849
 msgid "User quota was reached"
-msgstr ""
+msgstr "A quota de usuário foi alcançada"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3853
 msgid "Failed to contact server to add point"
-msgstr ""
+msgstr "Falha ao contatar o servidor para adicionar ponto"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3990
 msgid "Date"
@@ -757,7 +757,7 @@ msgstr "Precisão"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4004
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4092
 msgid "Speed"
-msgstr ""
+msgstr "Velocidade"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4007
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4097
@@ -801,7 +801,7 @@ msgstr "Cancelar"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4076
 msgid "Distance"
-msgstr ""
+msgstr "Distância"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4245
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -832,11 +832,11 @@ msgstr "Arquivo não existe"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4316
 msgid "Malformed XML file"
-msgstr ""
+msgstr "Arquivo XML malformado"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4322
 msgid "There is no device to import in submitted file"
-msgstr ""
+msgstr "Não há nenhum dispositivo para importar no arquivo enviado"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4328
 msgid "Failed to contact server to import session"
@@ -849,11 +849,11 @@ msgstr "Sessão exportada com sucesso em"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4353
 msgid "There is no point to export for this session"
-msgstr ""
+msgstr "Não há nenhum ponto para exportar para esta sessão"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4357
 msgid "but there was no point to export for some devices"
-msgstr ""
+msgstr "mas não havia nenhum ponto para exportar para alguns dispositivos"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4361
 msgid "Failed to export session"
@@ -918,21 +918,21 @@ msgstr "Compartilhado com {u}"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4634
 msgid "Failed to delete user share"
-msgstr ""
+msgstr "Falha ao excluir o compartilhamento de usuário"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4637
 msgid "Failed to contact server to delete user share"
-msgstr ""
+msgstr "Falha ao contatar o servidor para excluir o compartilhamento de usuários"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4655
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4679
 msgid "Public share has been successfully modified"
-msgstr ""
+msgstr "Compartilhamento público foi modificado com sucesso"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4658
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4682
 msgid "Failed to modify public share"
-msgstr ""
+msgstr "Falha ao modificar o compartilhamento público"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4661
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4685
@@ -941,11 +941,11 @@ msgstr "Falha ao contatar servidor para modificar compartilhamento público"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4703
 msgid "Device name restriction has been successfully set"
-msgstr ""
+msgstr "Restrição de nome do dispositivo foi definida com sucesso"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4706
 msgid "Failed to set public share device name restriction"
-msgstr ""
+msgstr "Falha ao definir restrição de nome do dispositivo de compartilhamento público"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4709
 msgid "Failed to contact server to set public share device name restriction"
