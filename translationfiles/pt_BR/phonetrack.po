@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-07-03 11:21\n"
+"PO-Revision-Date: 2019-07-03 11:28\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -337,11 +337,11 @@ msgstr "Link de visualização pública"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1701
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "URL da API (JSON, últimas posições)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1703
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "URL da API (JSON, todas as posições)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1709
 msgid "Current active filters will be applied on shared view"
@@ -353,7 +353,7 @@ msgstr "Adicionar compartilhamento público filtrado"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1720
 msgid "Session token"
-msgstr ""
+msgstr "Token de sessão"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1726
 msgid "List of links to configure logging apps server settings."
@@ -593,7 +593,7 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3088
 msgid "leave blank to use current map bounds"
-msgstr ""
+msgstr "deixe em branco para usar limites de mapa atual"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3090
 msgid "North"
@@ -605,27 +605,27 @@ msgstr "Sul"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3096
 msgid "Set North/East corner by clicking on the map"
-msgstr ""
+msgstr "Defina o canto Norte/Leste clicando no mapa"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3097
 msgid "Set N/E"
-msgstr ""
+msgstr "Definir N/L"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3099
 msgid "Set South/West corner by clicking on the map"
-msgstr ""
+msgstr "Definir canto Sul/Oeste clicando no mapa"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3100
 msgid "Set S/W"
-msgstr ""
+msgstr "Definir S/O"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3104
 msgid "East"
-msgstr ""
+msgstr "Leste"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3106
 msgid "West"
-msgstr ""
+msgstr "Oeste"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3109
 msgid "Fence name"
@@ -641,7 +641,7 @@ msgstr "Adicionar Zona"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3117
 msgid "Device proximity notifications"
-msgstr ""
+msgstr "Notificações de proximidade do dispositivo"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3121
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
@@ -809,7 +809,7 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4280
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr ""
+msgstr "Extensão do arquivo deve ser '.gpx' ou '.kml' para ser importada"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4299
 msgid "Failed to create imported session"
@@ -906,11 +906,11 @@ msgstr "Usuário não existe"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4596
 msgid "Failed to add user share"
-msgstr ""
+msgstr "Falha ao adicionar compartilhamento de usuário"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4599
 msgid "Failed to contact server to add user share"
-msgstr ""
+msgstr "Falha ao contatar o servidor para adicionar compartilhamento de usuários"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4609
 msgid "Shared with {u}"
@@ -949,7 +949,7 @@ msgstr "Falha ao definir restrição de nome do dispositivo de compartilhamento 
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4709
 msgid "Failed to contact server to set public share device name restriction"
-msgstr ""
+msgstr "Falha ao contatar o servidor para definir restrição de nome do dispositivo de compartilhamento público"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4744
 msgid "Warning : User email and server admin email must be set to receive geofencing alerts."
