@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-07-03 10:45\n"
+"PO-Revision-Date: 2019-07-04 15:29\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -801,7 +801,7 @@ msgstr "Annuler"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4076
 msgid "Distance"
-msgstr ""
+msgstr "Distance"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4245
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -1430,7 +1430,7 @@ msgstr "Dessiner les lignes avec un gradient de couleur"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Afficher la distance dans les tooltips"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
@@ -1438,11 +1438,11 @@ msgstr "Afficher la précision dans les tooltips"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
-msgstr "Montrer la vitesse dans les tooltips"
+msgstr "Afficher la vitesse dans les tooltips"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
-msgstr "Montrer l'azimut dans les tooltips"
+msgstr "Afficher l'azimut dans les tooltips"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
