@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-09-02 08:24\n"
+"PO-Revision-Date: 2019-09-02 08:39\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -27,7 +27,7 @@ msgstr "PhoneTrack"
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:486
 #, php-format
 msgid "PhoneTrack proximity alert (%s and %s)"
-msgstr ""
+msgstr "PhoneTrack upozornenie na vzdialenosť (%s a %s)"
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:369
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:82
@@ -207,7 +207,7 @@ msgstr "zdieľané {u}"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1579
 msgid "Forbid devices to log to this session"
-msgstr ""
+msgstr "Zakázať zariadeniam zaznamenávať toto sedenie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1586
 msgid "Reserve device names"
@@ -244,7 +244,7 @@ msgstr "Export do gpx"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1635
 msgid "The automatic export runs daily and saves/updates files in '{exdir}' for selected interval (today is ignored)"
-msgstr ""
+msgstr "Automatický export sa spúšťa denne a ukladá/aktualizuje súbory v '{exdir}' vo zvolenom intervale (dnešok je ignorovaný)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1636
 msgid "Automatic export"
@@ -269,7 +269,7 @@ msgstr "mesačne"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1646
 msgid "The automatic purge runs daily and deletes old points, it keeps \"auto export\" interval plus \"auto purge\" interval\n"
 "(If \"auto export\" is set to \"never\", consider it as set to \"monthly\")"
-msgstr ""
+msgstr "Automatické mazanie sa spúšťa denne a maže staré body, ponecháva interval \"automatického exportu\" a interval \"automatického mazania\" (Ak je \"automatický export\" nastavený na \"nikdy\", správa sa ako keby bol nastavený na \"mesačne\")"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1647
 msgid "Automatic purge"
@@ -297,11 +297,11 @@ msgstr "Rezervovanie názvu zariadenia je voliteľné."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1662
 msgid "Name can be set directly in logging link if it is not reserved."
-msgstr ""
+msgstr "Názov môže byť nastavený priamo v odkaze na zaznamenávanie, ak už nie je rezervovaný."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1663
 msgid "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
-msgstr ""
+msgstr "Pre záznam s rezervovaným názvom použite \"názov tokenu\" v zaznamenávacom odkaze (alebo v PhoneTrack-Android názvy záznamov \"názov zariadenia\") poli."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1664
 msgid "If a name is reserved, the only way to log with this name is with its token."
@@ -329,7 +329,7 @@ msgstr "Súkromná relácia nie je viditeľná na verejnej sledovacej stránke p
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1692
 msgid "Public session"
-msgstr ""
+msgstr "Verejné sedenie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1699
 msgid "Public watch link"
@@ -366,7 +366,7 @@ msgstr "Nahraďte \"yourname\" vašim zvoleným názvom zariadenia alebo názvom
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1729
 msgid "Public browser logging link"
-msgstr ""
+msgstr "Verejný odkaz na sledovanie cez prehliadač"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1734
 msgid "OsmAnd link"
@@ -487,11 +487,11 @@ msgstr "Nepodarilo sa spojiť so severom, aby bola zmenená farba zariadenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3019
 msgid "Geo link to open position in other app/software"
-msgstr ""
+msgstr "Geo odkaz na otvorenie polohy v inej aplikácii/programe"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3021
 msgid "Geo link QRcode to open position with a QRcode scanner"
-msgstr ""
+msgstr "QR kód geo odkazu pre otvorenie polohy so skenerom QR kódov"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3023
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3025
@@ -1027,22 +1027,22 @@ msgstr "Zlyhalo spojenie so serverom pre pridanie výstrahy blízkosti"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4901
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4918
 msgid "URL to request when devices get close"
-msgstr ""
+msgstr "URL adresa vyžiadaná pri priblížení zariadení"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4904
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4922
 msgid "URL to request when devices get far"
-msgstr ""
+msgstr "URL adresa vyžiadaná pri vzdialení zariadení"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4911
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4933
 msgid "Low distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Limit najmenšej vzdialenosti: {nbmeters}m"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4912
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4935
 msgid "High distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Limit najväčšej vzdialenosti : {nbmeters} m"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4961
 msgid "Failed to delete proximity alert"
