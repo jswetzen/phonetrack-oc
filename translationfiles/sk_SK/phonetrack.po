@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-07-14 12:16\n"
+"PO-Revision-Date: 2019-09-02 08:02\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -333,11 +333,11 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1699
 msgid "Public watch link"
-msgstr ""
+msgstr "Verejný odkaz na sledovanie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1701
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "API URL (JSON, posledná poloha)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1703
 msgid "API URL (JSON, all positions)"
