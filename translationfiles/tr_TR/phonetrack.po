@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-07-03 10:43\n"
+"PO-Revision-Date: 2019-09-20 07:28\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -27,7 +27,7 @@ msgstr "PhoneTrack"
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:486
 #, php-format
 msgid "PhoneTrack proximity alert (%s and %s)"
-msgstr ""
+msgstr "PhoneTrack yakınlık alarmı (%s and %s)"
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:369
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:82
