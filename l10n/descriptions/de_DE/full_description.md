@@ -21,7 +21,7 @@ Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 * 📍 Standortverlauf anzeigen
 * ⛛ Datenpunkte filtern
 * ✎ Datenpunkte manuell bearbeiten/hinzufügen/löschen
-* ✎ Geräte bearbeiten (umbenennen, Farb/Form ändern, in andere Sitzung verschieben)
+* ✎ Geräte bearbeiten (umbenennen, Farbe und Form ändern, in andere Sitzung verschieben)
 * ⛶ Geofence-Zonen für Geräte festlegen
 * ⚇ Annäherungsbenachrichtigung für Gerätepaare festlegen
 * 🖧 Teilen Sie eine Sitzung mit anderen Nextcloud-Benutzern oder mit einem öffentlichen Link (nur lesend)
