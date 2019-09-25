@@ -34,7 +34,7 @@ Auf der Hauptseite von PhoneTrack können Sie während einer Sitzung:
 
 Öffentliche Seite und öffentlich gefilterte Seite funktionieren wie die Hauptseite, außer dass nur eine Sitzung angezeigt wird, alles schreibgeschützt ist und keine Anmeldung erforderlich ist.
 
-Diese App wurde auf Nextcloud 15 mit Firefox 57+ und Chromium getestet.
+This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
 
 Diese App ist kompatibel mit Farbthemen und Themen zur Barrierefreiheit!
 
