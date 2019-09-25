@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-09-21 09:08\n"
+"PO-Revision-Date: 2019-09-25 13:57\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -183,7 +183,7 @@ msgstr "Der Server konnte nicht erreicht werden, um das Lesezeichen der Filter z
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1422
 msgid "Session name should not be empty"
-msgstr "Name der Sitzung darf nicht leer sein"
+msgstr "Sitzungsname muss eingegeben werden"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1439
 msgid "Session name already used"
@@ -211,7 +211,7 @@ msgstr "Geräten verbieten, sich an dieser Sitzung anzumelden"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1586
 msgid "Reserve device names"
-msgstr "Gerätename reservieren"
+msgstr "Gerätenamen reservieren"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1593
 msgid "Links for logging apps"
