@@ -34,7 +34,7 @@ Na stronie głównej PhoneTrack podczas oglądania sesji możesz:
 
 Strona publiczna i strona publiczna filtrowana działają jak strona główna, z wyjątkiem wyświetlania tylko jednej sesji, wszystko jest tylko do odczytu i nie trzeba się logować.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+Aplikacja jest testowana na Nextcloud 17 z Firefox 57+ i Chromium.
 
 Ta aplikacja jest kompatybilna z kolorami tematycznymi i dostępnymi motywami!
 
