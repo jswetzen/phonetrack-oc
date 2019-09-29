@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-09-25 16:39\n"
+"PO-Revision-Date: 2019-09-29 13:07\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -33,30 +33,30 @@ msgstr "ติดตามใกล้ชิดเตือน (%s และ %s)
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:82
 #, php-format
 msgid "Device \"%s\" is now closer than %sm to \"%s\"."
-msgstr "Device \"%s\" is now closer than %sm to \"%s\"."
+msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:489
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:89
 #, php-format
 msgid "Device \"%s\" is now farther than %sm from \"%s\"."
-msgstr "Device \"%s\" is now farther than %sm from \"%s\"."
+msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:675
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:787
 msgid "Geofencing alert"
-msgstr "Coğrafi varlık alarmı"
+msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:678
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:67
 #, php-format
 msgid "In session \"%s\", device \"%s\" entered geofencing zone \"%s\"."
-msgstr "В рамках сессии «%s» устройство «%s» вошло в ограничительную зону «%s»."
+msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:790
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:74
 #, php-format
 msgid "In session \"%s\", device \"%s\" exited geofencing zone \"%s\"."
-msgstr "В сессии «%s» устройство «%s» вышло из зоны навигации «%s»."
+msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/admin.js:19
 msgid "Quota was successfully saved"
