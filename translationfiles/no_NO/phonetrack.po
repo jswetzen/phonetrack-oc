@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-10-18 10:41\n"
+"PO-Revision-Date: 2019-10-18 10:48\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Norwegian\n"
 "Language: no_NO\n"
@@ -505,23 +505,23 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3034
 msgid "Round"
-msgstr ""
+msgstr "Rund"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3035
 msgid "Square"
-msgstr ""
+msgstr "Firkant"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3036
 msgid "Triangle"
-msgstr ""
+msgstr "Trekant"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3040
 msgid "Delete this device"
-msgstr ""
+msgstr "Slett denne enheten"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3042
 msgid "Rename this device"
-msgstr ""
+msgstr "Gi enheten et nytt navn"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3045
 msgid "Set device alias"
@@ -597,11 +597,11 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3090
 msgid "North"
-msgstr ""
+msgstr "Nord"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3092
 msgid "South"
-msgstr ""
+msgstr "Sør"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3096
 msgid "Set North/East corner by clicking on the map"
@@ -662,7 +662,7 @@ msgstr "Økt"
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:456
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:474
 msgid "Device name"
-msgstr ""
+msgstr "Enhetsnavn"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3126
 msgid "Low distance limit"
@@ -672,7 +672,7 @@ msgstr ""
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3131
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:77
 msgid "meters"
-msgstr ""
+msgstr "meter"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3129
 msgid "High distance limit"
@@ -757,12 +757,12 @@ msgstr ""
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4004
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4092
 msgid "Speed"
-msgstr ""
+msgstr "Hastighet"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4007
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4097
 msgid "Bearing"
-msgstr ""
+msgstr "Retning"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4010
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4102
@@ -777,7 +777,7 @@ msgstr "Batteri"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4016
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4111
 msgid "User-agent"
-msgstr ""
+msgstr "Brukeragent"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4019
 msgid "lat : lng"
@@ -785,7 +785,7 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4023
 msgid "DMS coords"
-msgstr ""
+msgstr "DMS kordinater"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4028
 msgid "Save"
@@ -801,7 +801,7 @@ msgstr "Avbryt"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4076
 msgid "Distance"
-msgstr ""
+msgstr "Avstand"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4245
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -824,11 +824,11 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4304
 msgid "File is not readable"
-msgstr ""
+msgstr "Filen er ikke lesbar"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4310
 msgid "File does not exist"
-msgstr ""
+msgstr "Filen finnes ikke"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4316
 msgid "Malformed XML file"
@@ -976,14 +976,14 @@ msgstr ""
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4890
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4894
 msgid "no"
-msgstr ""
+msgstr "nei"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4775
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4779
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4892
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4896
 msgid "yes"
-msgstr ""
+msgstr "ja"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4789
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4806
@@ -1074,7 +1074,7 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5040
 msgid "No filters"
-msgstr ""
+msgstr "Ingen filtre"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5064
 msgid "Failed to delete public share"
@@ -1094,15 +1094,15 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5151
 msgid "distance (km)"
-msgstr ""
+msgstr "distanse (km)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5152
 msgid "duration"
-msgstr ""
+msgstr "varighet"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5153
 msgid "#points"
-msgstr ""
+msgstr "#punkter"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5154
 msgid "avg speed (km/h)"
