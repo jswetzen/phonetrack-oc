@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-10-27 18:55\n"
+"PO-Revision-Date: 2019-10-27 19:08\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -245,7 +245,7 @@ msgstr "Nach GPX exportieren"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1685
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Dateien wurden in „{exdir}” erstellt"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1686
 msgid "Automatic export"
@@ -269,7 +269,7 @@ msgstr "monatlich"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1696
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "Die automatische Bereinigung wird täglich ausgelöst und löscht Punkte, die älter als die gewählte Dauer sind"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1697
 msgid "Automatic purge"
@@ -1276,7 +1276,7 @@ msgstr "GPX/KML-Sitzungsdatei importieren"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:7099
 msgid "Close elevation chart"
-msgstr ""
+msgstr "Höhendiagramm schließen"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Notification/Notifier.php:116
 #, php-format
@@ -1581,7 +1581,7 @@ msgstr "Ihr Kachelserver"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:308
 msgid "Custom mapbox tile servers"
-msgstr ""
+msgstr "Benutzerdefinierter Mapbox-Kachelserver"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
@@ -1589,15 +1589,15 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:314
 msgid "For example : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
-msgstr ""
+msgstr "Beispielsweise: mapbox://styles/mapbox/bright-v8 oder https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
-msgstr ""
+msgstr "Zugangscode (API-Key)"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr ""
+msgstr "Ihr Mapbox-Kachelserver"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
