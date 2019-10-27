@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-07-03 12:20+0200\n"
-"PO-Revision-Date: 2019-09-02 08:39\n"
+"PO-Revision-Date: 2019-10-27 13:44\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -497,11 +497,11 @@ msgstr "QR kód geo odkazu pre otvorenie polohy so skenerom QR kódov"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3025
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3027
 msgid "Get driving direction to this device with {s}"
-msgstr ""
+msgstr "Získajte pokyny na jazdu k tomuto zariadeniu s {s}"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3032
 msgid "Set device shape"
-msgstr ""
+msgstr "Nastaviť tvar zariadenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3034
 msgid "Round"
