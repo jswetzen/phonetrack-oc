@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-10-27 18:58\n"
+"PO-Revision-Date: 2019-10-27 19:08\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1593,11 +1593,11 @@ msgstr "Par exemple : mapbox://styles/mapbox/bright-v8 ou https://your.openmapti
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
-msgstr ""
+msgstr "Jeton d'accès (clé API)"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr ""
+msgstr "Vos serveur de tuiles Mapbox"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
