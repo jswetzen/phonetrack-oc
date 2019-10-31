@@ -1,28 +1,28 @@
 # PhoneTrack Nextcloud application
 
-PhoneTrack היא אפליקציה העוקבת ושומרת אחרי נתוני המיקום שלך, בצורה חלקה ואמינה.
+PhoneTrack הינה אפליקציה העוקבת ושומרת אחרי נתוני המיקום שלך, בצורה חלקה ואמינה.
 
 האפליקציה מקבלת נתונים באמצעות תוכנת טרקר המותקנת במכשירך, ומציגה נתונים אלו בצורה דינמית תחת חשבונך בסביבת ה-NextCloud שלך.
 
-נשמח לקבל עזרה בשיפור ותרגום את האפליקציה שלנו.
+נשמח לקבל עזרה בשיפור האפליקציה.
 
-ישנן מספר דרכים שתוכל לשתף את קישורך [בעזרה לפיתוח וקידום האפליקציה](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
+מספר דרכים שתוכל לעזור לנו בקישורך [בעזרה לפיתוח וקידום האפליקציה](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
 איך PhoneTrack עובד:
 
-* צור טוקן מעקב באמצעות הפאנל שבאפליקציה.
-* הורד אפליקצית מעקב מחנות האפליקציות או השתמש בגרסאת נייטיב, הזן את הלינק שקיבלת מהאפליקציה על מנת להתחיל שידור לשרת אודות מיקומך. תבחר שיטת התחברות.
+* תחילה, צור טוקן מעקב באמצעות הפאנל שבאפליקציה.
+* הורד אפליקצית מעקב מחנות האפליקציות או השתמש בגרסאת נייטיב, הזן את הלינק שקיבלת בתהליך יצור הסשן שבאפליקציה לקשר את מכשירך לשרת. .
 * לאחר התקנת האפליקציה, תוכל לראות על המפה את המקום הנוכחי של המכשיר, תלוי באופן ובקצב העידכון שהזנת.
 
-אל תשכח להזין שם למכשיר בלינק שיצרת, אחריו תוכל לעקוב. Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+אל תשכח להזין שם למכשיר בלינק שיצרת, אחריו תוכל לעקוב. Replace "yourname" with the desired device name. שימוש בשם המכשיר מתאפשר אך ורק עם האפליקציות Owntracks, Traccar ו- OpenGTS.
 
-On PhoneTrack main page, while watching a session, you can :
+בעמוד הראשי של הסשן של תוכל לראות:
 
-* 📍 Display location history
-* ⛛ Filter points
-* ✎ Manually edit/add/delete points
-* ✎ Edit devices (rename, change color/shape, move to another session)
-* ⛶ Define geofencing zones for devices
+* היסטורית מיקומים
+* אפשרויות סינון מתקדמות
+* הוספה ידנית של מיקומים
+* תוכל לשנות שם לסשן, אפשרויות עיצוב והעברה לסנשים אחרים
+* תוכל להגדיר אזורי מיקום למכשירך
 * ⚇ Define proximity alerts for device pairs
 * 🖧 Share a session to other Nextcloud users or with a public link (read-only)
 * 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
