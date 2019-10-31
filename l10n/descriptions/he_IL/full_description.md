@@ -8,9 +8,9 @@ PhoneTrack היא אפליקציה העוקבת ושומרת אחרי נתוני
 
 ישנן מספר דרכים שתוכל לשתף את קישורך [בעזרה לפיתוח וקידום האפליקציה](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
-How to use PhoneTrack :
+איך PhoneTrack עובד:
 
-* Create a tracking session.
+* תיצור טוקן מעקב באמצעות הפאנל שבאפליקציה.
 * Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
 * Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
 
