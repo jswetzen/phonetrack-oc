@@ -10,11 +10,11 @@ PhoneTrack היא אפליקציה העוקבת ושומרת אחרי נתוני
 
 איך PhoneTrack עובד:
 
-* תיצור טוקן מעקב באמצעות הפאנל שבאפליקציה.
-* Give the logging link\* to the mobile devices. תבחר שיטת התחברות.
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* צור טוקן מעקב באמצעות הפאנל שבאפליקציה.
+* הורד אפליקצית מעקב מחנות האפליקציות או השתמש בגרסאת נייטיב, הזן את הלינק שקיבלת מהאפליקציה על מנת להתחיל שידור לשרת אודות מיקומך. תבחר שיטת התחברות.
+* לאחר התקנת האפליקציה, תוכל לראות על המפה את המקום הנוכחי של המכשיר, תלוי באופן ובקצב העידכון שהזנת.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+אל תשכח להזין שם למכשיר בלינק שיצרת, אחריו תוכל לעקוב. Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
 
 On PhoneTrack main page, while watching a session, you can :
 
