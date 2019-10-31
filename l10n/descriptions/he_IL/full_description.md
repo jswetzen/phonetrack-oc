@@ -16,25 +16,25 @@ PhoneTrack הינה אפליקציה העוקבת ושומרת אחרי נתונ
 
 אל תשכח להזין שם למכשיר בלינק שיצרת, אחריו תוכל לעקוב. Replace "yourname" with the desired device name. שימוש בשם המכשיר מתאפשר אך ורק עם האפליקציות Owntracks, Traccar ו- OpenGTS.
 
-בעמוד הראשי של הסשן של תוכל לראות:
+במסך הראשי של האפליקציה תוכל:
 
-* היסטורית מיקומים
-* אפשרויות סינון מתקדמות
-* הוספה ידנית של מיקומים
-* תוכל לשנות שם לסשן, אפשרויות עיצוב והעברה לסנשים אחרים
+* לראות היסטורית מיקומים
+* לסנן מיקומים ע״פ פרמטרים מוגדרים
+* להוסיף מיקומים ידנית
+* לשנות ולערוך סשנים
 * תוכל להגדיר אזורי מיקום למכשירך
-* ⚇ Define proximity alerts for device pairs
-* 🖧 Share a session to other Nextcloud users or with a public link (read-only)
+* הגדר איזורי קרבה למכשירים
+* לשתף מיקום עם משתמשים נוספים מחוץ או בפנים לסביבת NextCloud
 * 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
-* 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
-* 🗠 Display sessions statistics
+* ליצא וליבא נתונים בפורמט GPX
+* להנות מסטיסטיקה אודות שימוש בנתוני מיקום
 * 🔒 [Reserve a device name](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) to make sure only authorized user can log with this name
 * 🗓 Toggle session auto export and auto purge (daily/weekly/monthly)
 * ◔ Choose what to do when point number quota is reached (block logging or delete oldest point)
 
 Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+האפליקציה נבדקה בקפידה על ידינו בשימוש ב-Firefox57+ ו-Chrome על גבי Nextcloud 17.
 
 This app is compatible with theming colors and accessibility themes !
 
