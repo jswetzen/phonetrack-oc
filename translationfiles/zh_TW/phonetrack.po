@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-01 05:56\n"
+"PO-Revision-Date: 2019-11-01 06:07\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -224,7 +224,7 @@ msgstr "連結至分享的追蹤記錄"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1660
 msgid "Zoom on this session"
-msgstr ""
+msgstr "快速移動至此追蹤記錄"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1663
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3078
@@ -325,7 +325,7 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1740
 msgid "A private session is not visible on public browser logging page"
-msgstr ""
+msgstr "私人的追蹤記錄在公開的網頁上不可見"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1742
 msgid "Public session"
@@ -402,23 +402,23 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1931
 msgid "The session you want to delete does not exist"
-msgstr ""
+msgstr "欲刪除的追蹤記錄不存在"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1934
 msgid "Failed to delete session"
-msgstr ""
+msgstr "刪除追蹤記錄失敗"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1938
 msgid "Failed to contact server to delete session"
-msgstr ""
+msgstr "無法連結至伺服器以刪除追蹤記錄"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1958
 msgid "Device '{d}' of session '{s}' has been deleted"
-msgstr ""
+msgstr "追蹤記錄 '{d}' 中的裝置 '{s}' 已刪除"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1961
 msgid "Failed to delete device '{d}' of session '{s}'"
-msgstr ""
+msgstr "追蹤記錄 '{d}' 中的裝置 '{s}' 刪除失敗"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1965
 msgid "Failed to contact server to delete device"
@@ -426,11 +426,11 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2022
 msgid "Impossible to rename session"
-msgstr ""
+msgstr "無法重新命名追蹤記錄"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2026
 msgid "Failed to contact server to rename session"
-msgstr ""
+msgstr "無法連結至伺服器以重新命名追蹤記錄"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2074
 msgid "Impossible to rename device"
@@ -450,11 +450,11 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2224
 msgid "Device already exists in target session"
-msgstr ""
+msgstr "裝置已存在於目標追蹤記錄中"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2227
 msgid "Impossible to move device to another session"
-msgstr ""
+msgstr "無法移動裝置至其他追蹤記錄"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2231
 msgid "Failed to contact server to move device"
@@ -1357,11 +1357,11 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:64
 msgid "Refresh each (sec)"
-msgstr ""
+msgstr "重新整理時間間隔(秒)"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:67
 msgid "Refresh"
-msgstr ""
+msgstr "重新整理"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:69
 msgid "An empty value means no limit"
