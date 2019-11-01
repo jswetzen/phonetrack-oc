@@ -1,20 +1,20 @@
-# PhoneTrack Nextcloud application
+# Приложение PhoneTrack в Nextcloud
 
-📱 PhoneTrack is a Nextcloud application to track and store mobile devices locations.
+📱 PhoneTrack е приложение Nextcloud за проследяване и съхраняване на местоположения на мобилни устройства.
 
-🗺 It receives information from mobile phones logging apps and displays it dynamically on a map.
+🗺 Той получава информация от приложения за регистриране на мобилни телефони и я показва динамично на карта.
 
-🌍 Help us to translate this app on [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
+🌍 Помогнете ни да преведем това приложение на [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
 
-⚒ Check out other ways to help in the [contribution guidelines](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
+⚒ Вижте други начини за помощ в [contribution guidelines](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
-How to use PhoneTrack :
+Как да използваме PhoneTrack:
 
-* Create a tracking session.
-* Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Създайте проследяваща сесия.
+* Дайте връзката за записване \*на мобилните устройства. Изберете [ метод на записване ](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods), който предпочитате.
+* Гледайте местоположението на устройствата на сесията в реално време (или не) в PhoneTrack или го споделяйте с обществени страници.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+(\ *) Не забравяйте да зададете името на устройството в връзката (вместо в настройките на приложението за записване). Заменете "вашето име" с желаното име на устройството. Задаването на името на устройството в настройките на приложението за регистриране; работи само с Owntracks, Traccar и OpenGTS.
 
 On PhoneTrack main page, while watching a session, you can :
 
