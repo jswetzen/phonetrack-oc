@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-01 06:36\n"
+"PO-Revision-Date: 2019-11-01 06:37\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -60,11 +60,11 @@ msgstr "追蹤記錄 %s 中，裝置 %s 已離開地理圍欄\"%s\""
 
 #: /var/www/html/n17/apps/phonetrack/js/admin.js:19
 msgid "Quota was successfully saved"
-msgstr ""
+msgstr "配額已成功儲存"
 
 #: /var/www/html/n17/apps/phonetrack/js/admin.js:23
 msgid "Failed to save quota"
-msgstr ""
+msgstr "儲存配額失敗"
 
 #: /var/www/html/n17/apps/phonetrack/js/leaflet.js:5
 msgid "left"
