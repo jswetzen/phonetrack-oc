@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-01 11:10\n"
+"PO-Revision-Date: 2019-11-01 11:25\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -216,7 +216,7 @@ msgstr "鎖定裝置名稱"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1643
 msgid "Links for logging apps"
-msgstr ""
+msgstr "各種記錄應用的連結"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1650
 msgid "Link to share session"
@@ -297,15 +297,15 @@ msgstr "保留名稱是非必要項目"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1712
 msgid "Name can be set directly in logging link if it is not reserved."
-msgstr ""
+msgstr "如果名稱未被鎖定，則可在記錄連結處輸入。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1713
 msgid "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
-msgstr ""
+msgstr "於記錄連結處，使用\"名稱標記\"欄位登入鎖定的名稱(或手機追蹤安卓版中追蹤記錄的\"裝置名稱\"欄位)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1714
 msgid "If a name is reserved, the only way to log with this name is with its token."
-msgstr ""
+msgstr "登入被鎖定名稱記錄的唯一方法是經由名稱標記"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1717
 msgid "Reserve this device name"
