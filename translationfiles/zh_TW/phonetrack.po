@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-01 13:14\n"
+"PO-Revision-Date: 2019-11-01 13:15\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -849,7 +849,7 @@ msgstr "追蹤記錄成功匯出在"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4403
 msgid "There is no point to export for this session"
-msgstr ""
+msgstr "追蹤記錄中無記錄點可供匯出"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4407
 msgid "but there was no point to export for some devices"
