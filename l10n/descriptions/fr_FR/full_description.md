@@ -4,7 +4,7 @@
 
 🗺 Elle reçoit des informations provenant d'applications de logging des téléphones mobiles et les affiche en direct sur une carte.
 
-🌍 Aidez-nous à traduire cette application sur [Nextcloud-Cospend/MoneyBuster Crowdin projet](https://crowdin.com/project/phonetrack).
+🌍 Aidez-nous à traduire cette application sur [le projet Crowdin de PhoneTrack Nextcloud](https://crowdin.com/project/phonetrack).
 
 ⚒ Découvrez d'autres façons d'aider dans les [indications de contribution](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
