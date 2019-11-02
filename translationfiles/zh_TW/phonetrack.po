@@ -990,7 +990,7 @@ msgstr "是"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5011
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5032
 msgid "Email address(es)"
-msgstr ""
+msgstr "電子郵件信箱"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4891
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4909
