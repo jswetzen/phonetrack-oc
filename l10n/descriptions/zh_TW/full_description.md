@@ -2,16 +2,16 @@
 
 📱 手機追蹤是一款Nextcloud應用程式，用來記錄儲存移動裝置的位置。
 
-🗺 It receives information from mobile phones logging apps and displays it dynamically on a map.
+🗺 接收從手機位置記錄傳送來的資訊，在地圖上顯示。
 
-🌍 Help us to translate this app on [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
+🌍 請利用[PhoneTrack Crowdin 計畫](https://crowdin.com/project/phonetrack)幫助翻譯
 
-⚒ Check out other ways to help in the [contribution guidelines](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
+⚒ 在 [contribution guidelines](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md)中也有提供協助的方法
 
-How to use PhoneTrack :
+如何使用手機追蹤：
 
-* Create a tracking session.
-* Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
+* 建立一段追蹤任務。
+* 把記錄連結\*傳給移動裝置 選擇你喜歡的[記錄方法](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods)
 * Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
 
 (\*) Don't forget to set the device name in the link (rather than in the logging app settings). 替換 ‘‘你的名稱’’ 只有在Owntracks, Traccar and OpenGTS這3款程式的設定中設定裝置名稱才有效。
