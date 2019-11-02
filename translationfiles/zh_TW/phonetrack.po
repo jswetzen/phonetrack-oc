@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 01:27\n"
+"PO-Revision-Date: 2019-11-02 01:38\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -105,7 +105,7 @@ msgstr "縮放至可看見所有裝置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:727
 msgid "Click on the map to move the point, press ESC to cancel"
-msgstr ""
+msgstr "在地上點選來移動點，按ESC取消。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:974
 msgid "Server name or server address should not be empty"
