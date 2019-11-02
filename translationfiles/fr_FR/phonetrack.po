@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 14:57+0100\n"
-"PO-Revision-Date: 2019-11-02 13:59\n"
+"PO-Revision-Date: 2019-11-02 14:10\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1278,31 +1278,31 @@ msgstr "La session PhoneTrack {session} est maintenant partagée avec {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "Vous avez arrêté de partager la session {session} avec {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
-msgstr ""
+msgstr "La session PhoneTrack {session} n'est plus partagée avec {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Un client PhoneTrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Filter.php:55
 msgid "Phonetrack"
-msgstr ""
+msgstr "Phonetrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr ""
+msgstr "Événements de <strong>zones de géorepérage PhoneTrack</strong>"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
-msgstr ""
+msgstr "Événements de <strong>proximité d'appareils PhoneTrack</strong>"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
-msgstr ""
+msgstr "Changements dans l'<strong>appli PhoneTrack</strong>"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:398
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:535
@@ -1313,12 +1313,12 @@ msgstr "Alerte de proximité sur PhoneTrack (%s et %s)"
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:402
 #, php-format
 msgid "PhoneTrack device %s is now closer than %s m to %s."
-msgstr ""
+msgstr "L'appareil PhoneTrack %s est maintenant à moins de %s m de %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:539
 #, php-format
 msgid "PhoneTrack device %s is now farther than %s m from %s."
-msgstr ""
+msgstr "L'appareil PhoneTrack %s est maintenant à plus de %s m de %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:738
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:864
@@ -1328,12 +1328,12 @@ msgstr "Alerte de géorepérage"
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:742
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr ""
+msgstr "Dans la session PhoneTrack %s, l'appareil %s est entré dans la zone de géorepérage %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:868
 #, php-format
 msgid "In PhoneTrack session %s, device %s exited geofence %s."
-msgstr ""
+msgstr "Dans la session PhoneTrack %s, l'appareil %s est sorti de la zone de géorepérage %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Notification/Notifier.php:86
 #, php-format
