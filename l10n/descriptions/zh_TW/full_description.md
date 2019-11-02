@@ -24,11 +24,11 @@ How to use PhoneTrack :
 * ✎ 總輯裝置 (重新命名，變更色彩/形狀，移動到其他裝置)
 * ⛶ 定義裝置的地理圍欄區域
 * ⚇ 定義裝置間近接警報
-* 🖧 Share a session to other Nextcloud users or with a public link (read-only)
-* 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
-* 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
-* 🗠 Display sessions statistics
-* 🔒 [Reserve a device name](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) to make sure only authorized user can log with this name
+* 🖧 與其他Nextcloud使用者分享一段追踪任務 (只可讀取)
+* 🔗 產生有選擇性的公開連結 (篩選器，裝置名稱，最後位置，地理圍欄)
+* 🖫 匯入/匯出GPX格式的追踪任務 (每個裝置具有一段任務的一個檔案，或每個裝置一個檔案)
+* 🗠 顯示追踪任務的統計資料
+* 🔒 [鎖定裝置名稱](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) 只有被授權才能使用鎖定的名稱
 * 🗓 Toggle session auto export and auto purge (daily/weekly/monthly)
 * ◔ Choose what to do when point number quota is reached (block logging or delete oldest point)
 
