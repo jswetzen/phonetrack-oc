@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 01:17\n"
+"PO-Revision-Date: 2019-11-02 01:27\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -39,7 +39,7 @@ msgstr "裝置 \"%s\" 已接近 \"%s\" 到 %s公尺內。"
 #: /var/www/html/n17/apps/phonetrack/lib/Notification/Notifier.php:108
 #, php-format
 msgid "Device \"%s\" is now farther than %sm from \"%s\"."
-msgstr ""
+msgstr "裝置 \"%s\" 已遠離 \"%s\" 到 %s公尺外。"
 
 #: /var/www/html/n17/apps/phonetrack/controller/logcontroller.php:675
 #: /var/www/html/n17/apps/phonetrack/controller/logcontroller.php:787
@@ -81,15 +81,15 @@ msgstr "顯示軌跡線"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:635
 msgid "Hide lines"
-msgstr ""
+msgstr "隱藏軌跡線"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:656
 msgid "Activate automatic zoom"
-msgstr ""
+msgstr "啟動自動縮放"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:664
 msgid "Disable automatic zoom"
-msgstr ""
+msgstr "中止自動縮放"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:685
 msgid "Show last point tooltip"
@@ -101,7 +101,7 @@ msgstr "隱藏最後記錄點的詳細資訊"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:714
 msgid "Zoom on all devices"
-msgstr ""
+msgstr "縮放至可看見所有裝置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:727
 msgid "Click on the map to move the point, press ESC to cancel"
