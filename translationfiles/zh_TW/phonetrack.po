@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 05:46\n"
+"PO-Revision-Date: 2019-11-02 05:56\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1315,7 +1315,7 @@ msgstr "空白代表無限制"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:4
 msgid "Main tab"
-msgstr ""
+msgstr "主頁面"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:5
 msgid "Filters"
@@ -1323,12 +1323,12 @@ msgstr "篩選條件"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:14
 msgid "Stats"
-msgstr ""
+msgstr "狀態"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:15
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:263
 msgid "Settings and extra actions"
-msgstr ""
+msgstr "設定及其他動作"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:16
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:730
@@ -1373,12 +1373,12 @@ msgstr "重新整理時每個裝置載入的最大點數"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:72
 msgid "points"
-msgstr ""
+msgstr "點"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:74
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:79
 msgid "Cutting lines only affects map view and stats table"
-msgstr ""
+msgstr "刪減線條只影響地圖檢視及狀態表"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
@@ -1390,7 +1390,7 @@ msgstr "2個記錄點間最短時間間隔"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
-msgstr ""
+msgstr "秒"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:85
 msgid "When point quota is reached"
@@ -1398,7 +1398,7 @@ msgstr "當達到點數配額時"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:87
 msgid "block logging"
-msgstr ""
+msgstr "停止記錄"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:88
 msgid "delete user's oldest point each time a new one is logged"
@@ -1414,7 +1414,7 @@ msgstr "顯示"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:98
 msgid "Auto zoom"
-msgstr ""
+msgstr "自動縮放"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:106
 msgid "Show tooltips"
@@ -1426,11 +1426,11 @@ msgstr "在最後位置顯示裝置名稱第一個字母"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:114
 msgid "Show direction arrows along lines"
-msgstr ""
+msgstr "在軌跡線上顯示方向箭頭"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
-msgstr ""
+msgstr "使用漸層色彩畫線"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
@@ -1466,27 +1466,27 @@ msgstr "在詳細資訊中顯示記錄程式-版本"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:154
 msgid "Make points draggable in edition mode"
-msgstr ""
+msgstr "使記錄點在編輯模式中可拖放"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:158
 msgid "Show accuracy circle on hover"
-msgstr ""
+msgstr "顯示準確度範圍圓圈"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:162
 msgid "Line width"
-msgstr ""
+msgstr "軌跡線寬"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:167
 msgid "Point radius"
-msgstr ""
+msgstr "記錄點大小"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:172
 msgid "Points and lines opacity"
-msgstr ""
+msgstr "透明度"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:177
 msgid "Theme"
-msgstr ""
+msgstr "主題"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:179
 msgid "bright"
