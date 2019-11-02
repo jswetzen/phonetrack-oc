@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 14:57+0100\n"
-"PO-Revision-Date: 2019-11-02 13:59\n"
+"PO-Revision-Date: 2019-11-02 14:51\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -290,7 +290,7 @@ msgstr "Geben Sie den Benutzernamen ein und drücken Sie die Eingabetaste"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1735
 msgid "user name"
-msgstr ""
+msgstr "Benutzername"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1742
 msgid "A private session is not visible on public browser logging page"
@@ -534,7 +534,7 @@ msgstr "E-Mail-Benachrichtigung"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3130
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3190
 msgid "Coma separated e-email address list"
-msgstr ""
+msgstr "Liste mit kommagetrennten E-Mail-Adressen"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3131
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3191
