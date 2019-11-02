@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
-"POT-Creation-Date: 2019-11-02 14:46+0100\n"
-"PO-Revision-Date: 2019-11-02 13:50\n"
+"POT-Creation-Date: 2019-11-02 14:57+0100\n"
+"PO-Revision-Date: 2019-11-02 14:00\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -1277,7 +1277,7 @@ msgid "PhoneTrack session {session} is now shared with {who}"
 msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
-msgid "You have removed {who} from the session {session}"
+msgid "You stopped sharing session {session} with {who}"
 msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
