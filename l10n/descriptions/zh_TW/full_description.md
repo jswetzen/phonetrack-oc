@@ -50,6 +50,6 @@
 
 ## 已知待解決的問題
 
-* PhoneTrack **now works** with Nextcloud group restriction activated. See [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
+* 手機追蹤**現在可以**給Nextcloud特定群組成員使用。 請查閱[admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud)
 
-Any feedback will be appreciated.
+非常感謝你的回饋，請不吝提供意思。
