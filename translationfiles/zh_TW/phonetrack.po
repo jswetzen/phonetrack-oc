@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 01:57\n"
+"PO-Revision-Date: 2019-11-02 02:07\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -517,15 +517,15 @@ msgstr "三角形"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3090
 msgid "Delete this device"
-msgstr ""
+msgstr "刪除本裝置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3092
 msgid "Rename this device"
-msgstr ""
+msgstr "重新命名本裝置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3095
 msgid "Set device alias"
-msgstr ""
+msgstr "設定裝置綽號"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3098
 msgid "Move to another session"
@@ -534,7 +534,7 @@ msgstr "變更至其他追蹤任務"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3101
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:44
 msgid "Ok"
-msgstr ""
+msgstr "好"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3118
 msgid "Device geofencing zones"
@@ -551,7 +551,7 @@ msgstr "快速移動到地理圍欄區域，設定數值，啟用。"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5008
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5027
 msgid "Nextcloud notification"
-msgstr ""
+msgstr "Nextcloud通知"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3125
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3184
@@ -560,7 +560,7 @@ msgstr ""
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5009
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5029
 msgid "Email notification"
-msgstr ""
+msgstr "電子郵件通知"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3128
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3187
@@ -570,7 +570,7 @@ msgstr "空白代表追蹤任務擁有者的電子信箱"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3129
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3188
 msgid "You can put multiple addresses separated by comas (,)."
-msgstr ""
+msgstr "可輸入多個位址，以逗號 (,) 分開。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3130
 msgid "HTTP address to request when entering (\"%loc\" will be replaced by \"latitude:longitude\")"
@@ -581,7 +581,7 @@ msgstr "當靠近時，HTTP 請求的網址。(\"%lo\"將被\"經度:緯度\"取
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3190
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3194
 msgid "Use POST method"
-msgstr ""
+msgstr "使用 POST 方法"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3134
 msgid "HTTP address to request when leaving (\"%loc\" will be replaced by \"latitude:longitude\")"
@@ -593,43 +593,43 @@ msgstr "地理圍欄區域座標"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3138
 msgid "leave blank to use current map bounds"
-msgstr ""
+msgstr "空白代表使用目前地圖界線"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3140
 msgid "North"
-msgstr ""
+msgstr "北"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3142
 msgid "South"
-msgstr ""
+msgstr "南"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3146
 msgid "Set North/East corner by clicking on the map"
-msgstr ""
+msgstr "點選圖上位置設定西北角落界限"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3147
 msgid "Set N/E"
-msgstr ""
+msgstr "設定西北"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3149
 msgid "Set South/West corner by clicking on the map"
-msgstr ""
+msgstr "點選圖上位置設定東南角落界限"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3150
 msgid "Set S/W"
-msgstr ""
+msgstr "設定東南"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3154
 msgid "East"
-msgstr ""
+msgstr "東"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3156
 msgid "West"
-msgstr ""
+msgstr "西"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3159
 msgid "Fence name"
-msgstr ""
+msgstr "圍欄名稱"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3160
 msgid "Use current map view as geofencing zone"
@@ -637,7 +637,7 @@ msgstr "使用目前檢視的地圖做為地理圍欄區域"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3161
 msgid "Add zone"
-msgstr ""
+msgstr "新增區域"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3167
 msgid "Device proximity notifications"
@@ -662,7 +662,7 @@ msgstr "追蹤任務"
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:495
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:513
 msgid "Device name"
-msgstr ""
+msgstr "裝置名稱"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3176
 msgid "Low distance limit"
@@ -672,7 +672,7 @@ msgstr "短距離限制"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3181
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:77
 msgid "meters"
-msgstr ""
+msgstr "公尺"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3179
 msgid "High distance limit"
@@ -701,7 +701,7 @@ msgstr ""
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3235
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3242
 msgid "Center map on device"
-msgstr ""
+msgstr "圖依裝置置中"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3663
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
