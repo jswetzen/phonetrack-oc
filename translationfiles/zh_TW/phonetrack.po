@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 01:47\n"
+"PO-Revision-Date: 2019-11-02 01:57\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -281,15 +281,15 @@ msgstr "不要清除"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1700
 msgid "a day"
-msgstr "一天"
+msgstr "每天"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1701
 msgid "a week"
-msgstr "一週"
+msgstr "每週"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1702
 msgid "a month"
-msgstr "一月"
+msgstr "每月"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1711
 msgid "Name reservation is optional."
@@ -317,11 +317,11 @@ msgstr "輸入保留名稱後按'Enter'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1732
 msgid "Share with user"
-msgstr ""
+msgstr "與使用者分享"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1734
 msgid "Type user name and press 'Enter'"
-msgstr ""
+msgstr "填入使用者，按 'Enter'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1740
 msgid "A private session is not visible on public browser logging page"
@@ -333,15 +333,15 @@ msgstr "公開的追蹤任務"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1749
 msgid "Public watch link"
-msgstr ""
+msgstr "公開的連結"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1751
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "API網址(JSON，最後位置)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1753
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "API網址(JSON，全部位置)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1759
 msgid "Current active filters will be applied on shared view"
@@ -394,7 +394,7 @@ msgstr "OpenGTS 連結"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1809
 msgid "Locus Map link"
-msgstr ""
+msgstr "Locus Map 連結"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1813
 msgid "HTTP GET link"
@@ -434,7 +434,7 @@ msgstr "無法連結至伺服器以重新命名追蹤任務"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2074
 msgid "Impossible to rename device"
-msgstr ""
+msgstr "偌法重新命名裝置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2078
 msgid "Failed to contact server to rename device"
@@ -442,7 +442,7 @@ msgstr "無法連線伺服器"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2150
 msgid "Impossible to set device alias for {n}"
-msgstr ""
+msgstr "無法設定裝置 {n} 的綽號"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2154
 msgid "Failed to contact server to set device alias"
@@ -467,7 +467,7 @@ msgstr "無法連線伺服器，無法獲取追蹤任務"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2723
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2750
 msgid "Stats of all points"
-msgstr ""
+msgstr "全部記錄點的統計"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2747
 msgid "Stats of filtered points"
@@ -505,15 +505,15 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3084
 msgid "Round"
-msgstr ""
+msgstr "圓形"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3085
 msgid "Square"
-msgstr ""
+msgstr "方形"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3086
 msgid "Triangle"
-msgstr ""
+msgstr "三角形"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3090
 msgid "Delete this device"
