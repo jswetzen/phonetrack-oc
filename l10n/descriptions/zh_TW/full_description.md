@@ -12,9 +12,9 @@
 
 * 建立一段追蹤任務。
 * 把記錄連結\*傳給移動裝置 選擇你喜歡的[記錄方法](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods)
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* 在手機追蹤程式地圖上觀看裝置及時(或最近的)位置，或分享至公開的網頁。
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). 替換 ‘‘你的名稱’’ 只有在Owntracks, Traccar and OpenGTS這3款程式的設定中設定裝置名稱才有效。
+(\*)記得在連結中設定裝置名稱(而不是在記錄程式中設定) 替換 ‘‘你的名稱’’ 只有在Owntracks, Traccar and OpenGTS這3款程式的設定中設定裝置名稱才有效。
 
 在手機追蹤程式主畫面檢視一段追蹤任務時，你可以：
 
@@ -36,19 +36,19 @@
 
 本應用在Nextcloud 17主機，配合客戶端瀏覽器Firefox 57+ 及 Chromium測試可運作。
 
-This app is compatible with theming colors and accessibility themes !
+此應用程式支援主題色彩
 
-This app is under development.
+此應用程式尚在開發中。
 
-## Install
+## 安裝
 
-See the [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) for installation details.
+安裝細節請查閱[AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc)
 
-Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
+下次更新版本中添加的新功能，請查閱[CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log)。
 
-Check [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) file to see complete list of authors.
+查閱[AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors)可得知所有作者。
 
-## Known issues
+## 已知待解決的問題
 
 * PhoneTrack **now works** with Nextcloud group restriction activated. See [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
 
