@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 03:57\n"
+"PO-Revision-Date: 2019-11-02 04:08\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -965,11 +965,11 @@ msgstr "無法連線伺服器，新增地理圍欄區域失敗。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4868
 msgid "URL to request when entering"
-msgstr "進入時請求的網址"
+msgstr "進入時打開的網址"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4872
 msgid "URL to request when leaving"
-msgstr "離開時請求的網址"
+msgstr "離開時打開的網址"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4875
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4879
@@ -997,7 +997,7 @@ msgstr "電子郵件信箱"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5011
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5032
 msgid "account mail address"
-msgstr ""
+msgstr "帳戶電子郵件信箱"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4935
 msgid "Failed to delete geofencing zone"
@@ -1027,12 +1027,12 @@ msgstr "無法連線伺服器，新增近接警報失敗。"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5003
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5020
 msgid "URL to request when devices get close"
-msgstr ""
+msgstr "裝置接近時打開的網址"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5006
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5024
 msgid "URL to request when devices get far"
-msgstr ""
+msgstr "裝置遠離時打開的網址"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5013
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5035
