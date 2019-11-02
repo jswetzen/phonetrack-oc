@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 16:59+0100\n"
-"PO-Revision-Date: 2019-11-02 16:10\n"
+"PO-Revision-Date: 2019-11-02 16:57\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -363,7 +363,7 @@ msgstr "Link OpenGTS"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr ""
+msgstr "Link Overland"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
@@ -1108,11 +1108,11 @@ msgstr "Copia l'URL seguente nel campo 'Indirizzo web di monitoraggio online'."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5371
 msgid "Go to 'settings' in the app."
-msgstr ""
+msgstr "Vai alle 'impostazioni' nell'app."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5372
 msgid "Copy the link below into the 'server address' field."
-msgstr ""
+msgstr "Copia il link qui sotto nel campo 'indirizzo server'."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5376
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
