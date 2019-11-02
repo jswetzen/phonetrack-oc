@@ -34,7 +34,7 @@ How to use PhoneTrack :
 
 公開的頁面和公開的經篩選頁面與主頁面有所不同，只顯示一段追踪任務，只能讀取，無法登入。
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+本應用在Nextcloud 17主機，配合客戶端瀏覽器Firefox 57+ 及 Chromium測試可運作。
 
 This app is compatible with theming colors and accessibility themes !
 
