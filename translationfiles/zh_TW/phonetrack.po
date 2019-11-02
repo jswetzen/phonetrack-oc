@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 04:08\n"
+"PO-Revision-Date: 2019-11-02 05:46\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1054,7 +1054,7 @@ msgstr "無法連線伺服器，刪除近接警報失敗。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5085
 msgid "Failed to add public share"
-msgstr ""
+msgstr "新增公開分享失敗"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5088
 msgid "Failed to contact server to add public share"
@@ -1062,11 +1062,11 @@ msgstr "無法連線伺服器"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5119
 msgid "Show this device only"
-msgstr ""
+msgstr "只顯示此裝置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5121
 msgid "Show last positions only"
-msgstr ""
+msgstr "只顯示最後位置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5123
 msgid "Simplify positions to nearest geofencing zone center"
@@ -1078,7 +1078,7 @@ msgstr "無篩選條件"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5166
 msgid "Failed to delete public share"
-msgstr ""
+msgstr "刪除公開分享失敗"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5169
 msgid "Failed to contact server to delete public share"
@@ -1090,7 +1090,7 @@ msgstr "無法連線伺服器"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5252
 msgid "device name"
-msgstr ""
+msgstr "裝置名稱"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5253
 msgid "distance (km)"
@@ -1098,15 +1098,15 @@ msgstr "距離(公里)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5254
 msgid "duration"
-msgstr ""
+msgstr "延時"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5255
 msgid "#points"
-msgstr ""
+msgstr "#個點"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5256
 msgid "avg speed (km/h)"
-msgstr ""
+msgstr "平均速度(km/h)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5257
 msgid "max speed (km/h)"
@@ -1215,19 +1215,19 @@ msgstr "選擇自動匯出路徑"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5864
 msgid "Select storage location for '{fname}'"
-msgstr ""
+msgstr "選擇'{fname}'的儲存位置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:6086
 msgid "Geo QRcode : last position of {dname}"
-msgstr ""
+msgstr "地理QRcode：{dname} 的最後位置"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:6208
 msgid "Are you sure you want to delete the device {device} ?"
-msgstr ""
+msgstr "確認要刪除追蹤任務{device}?"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:6211
 msgid "Confirm device deletion"
-msgstr ""
+msgstr "確認刪除追蹤任務"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:6264
 msgid "Failed to change session lock status"
@@ -1243,7 +1243,7 @@ msgstr "無法連線伺服器，無法變更追蹤任務公開狀態"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:6364
 msgid "Failed to set device shape"
-msgstr ""
+msgstr "設定裝置形狀失敗"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:6367
 msgid "Failed to contact server to set device shape"
@@ -1307,7 +1307,7 @@ msgstr "設定每位使用可記錄的大點數量"
 
 #: /var/www/html/n17/apps/phonetrack/templates/admin.php:10
 msgid "Each user can choose what happens when the quota is reached : block logging or delete oldest point."
-msgstr "每位使用者可設定當達到配額時採取的措施：停止記錄或刪除最舊點。"
+msgstr "每位使用者可設定當達到配額時採取的措施：停止記錄或覆蓋最舊點。"
 
 #: /var/www/html/n17/apps/phonetrack/templates/admin.php:11
 msgid "An empty value means no limit."
@@ -1402,11 +1402,11 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:88
 msgid "delete user's oldest point each time a new one is logged"
-msgstr "當1個新的點被記錄，刪除1個使用者最舊的記錄點。"
+msgstr "當1個新的點被記錄，覆蓋1個使用者最舊的記錄點。"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:89
 msgid "delete device's oldest point each time a new one is logged"
-msgstr "當1個新的點被記錄，刪除1個裝置最舊的記錄點。"
+msgstr "當1個新的點被記錄，覆蓋1個裝置最舊的記錄點。"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:93
 msgid "Display"
