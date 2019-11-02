@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-10-27 19:52+0100\n"
-"PO-Revision-Date: 2019-11-02 02:07\n"
+"PO-Revision-Date: 2019-11-02 02:17\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -475,7 +475,7 @@ msgstr "篩選點的統計"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2990
 msgid "Device's color successfully changed"
-msgstr ""
+msgstr "成功變更裝置色彩"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2993
 msgid "Failed to save device's color"
@@ -696,16 +696,16 @@ msgstr "軌跡線開關"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3222
 msgid "Follow this device (autozoom)"
-msgstr ""
+msgstr "跟隨裝置(自動縮放)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3235
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3242
 msgid "Center map on device"
-msgstr "圖依裝置置中"
+msgstr "地圖依裝置置中"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3663
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
-msgstr ""
+msgstr "編輯的地點不存在，或無權限編輯。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3667
 msgid "Failed to contact server to edit point"
@@ -713,7 +713,7 @@ msgstr "無法連線伺服器"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3785
 msgid "The point you want to delete does not exist or you're not allowed to delete it"
-msgstr ""
+msgstr "刪除的地點不存在，或無權限編輯。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3789
 msgid "Failed to contact server to delete point"
@@ -722,11 +722,11 @@ msgstr "無法連線伺服器"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3878
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3915
 msgid "Manually added"
-msgstr ""
+msgstr "手動新增"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3896
 msgid "Impossible to add this point"
-msgstr ""
+msgstr "無法新增記錄點"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3899
 msgid "User quota was reached"
@@ -747,57 +747,57 @@ msgstr "時間"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4048
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4130
 msgid "Altitude"
-msgstr ""
+msgstr "高程"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4051
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4135
 msgid "Precision"
-msgstr ""
+msgstr "精確度"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4054
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4142
 msgid "Speed"
-msgstr ""
+msgstr "速度"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4057
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4147
 msgid "Bearing"
-msgstr ""
+msgstr "方位"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4060
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4152
 msgid "Satellites"
-msgstr ""
+msgstr "衛星"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4063
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4157
 msgid "Battery"
-msgstr ""
+msgstr "電量"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4066
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4161
 msgid "User-agent"
-msgstr ""
+msgstr "程式-版本"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4069
 msgid "lat : lng"
-msgstr ""
+msgstr "經度 : 緯度"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4073
 msgid "DMS coords"
-msgstr ""
+msgstr "DMS 座標"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4078
 msgid "Save"
-msgstr ""
+msgstr "儲存"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4080
 msgid "Move"
-msgstr ""
+msgstr "移動"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4081
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4126
 msgid "Distance"
@@ -809,7 +809,7 @@ msgstr "無法縮放，追蹤任務中庶記錄點可供縮放。"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4330
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr ""
+msgstr "副檔名必需是 '.gpx' 或 '.kml' 才可以匯出"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4349
 msgid "Failed to create imported session"
@@ -824,7 +824,7 @@ msgstr "匯入追蹤任務失敗"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4354
 msgid "File is not readable"
-msgstr ""
+msgstr "檔案不可讀"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4360
 msgid "File does not exist"
