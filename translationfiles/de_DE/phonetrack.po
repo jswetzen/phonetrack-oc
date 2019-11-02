@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 16:59+0100\n"
-"PO-Revision-Date: 2019-11-02 16:39\n"
+"PO-Revision-Date: 2019-11-02 16:57\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -363,7 +363,7 @@ msgstr "OpenGTS-Link"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr "Overland Link"
+msgstr "Overland-Link"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
@@ -619,7 +619,7 @@ msgstr "Neuer Bereich"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3177
 msgid "Device proximity notifications"
-msgstr "Benachrichtigungen über die Nähe zum Gerät"
+msgstr "Benachrichtigungen über Geräteannäherungen"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3181
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
@@ -1112,7 +1112,7 @@ msgstr "Öffnen Sie die „Einstellungen” in der App."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5372
 msgid "Copy the link below into the 'server address' field."
-msgstr "Kopieren Sie den untenstehenden Link in das Feld „Serveradresse„."
+msgstr "Kopieren Sie den untenstehenden Link in das Feld „Serveradresse”."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5376
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
@@ -1302,15 +1302,15 @@ msgstr "Ein PhoneTrack-Client"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Filter.php:55
 msgid "Phonetrack"
-msgstr ""
+msgstr "PhoneTrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr "<strong>PhoneTrack Geofenzes</strong> Ereignisse"
+msgstr "<strong>PhoneTrack Geofences</strong> Ereignisse"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
-msgstr "Ereignisse zur <strong>PhoneTrack Gerätenähe</strong>"
+msgstr "Ereignisse zu <strong>PhoneTrack Geräteannäherung</strong>"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
@@ -1325,12 +1325,12 @@ msgstr "PhoneTrack Annäherungsalarm (%s und %s)"
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:402
 #, php-format
 msgid "PhoneTrack device %s is now closer than %s m to %s."
-msgstr "Das PhoneTrack-Gerät %s ist nun %sm näher als %s."
+msgstr "Das PhoneTrack-Gerät %s ist nun weniger als %sm von %s entfernt."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:539
 #, php-format
 msgid "PhoneTrack device %s is now farther than %s m from %s."
-msgstr "Das PhoneTrack-Gerät %s ist nun %sm weiter entfernt als %s."
+msgstr "Das PhoneTrack-Gerät %s ist nun mehr als %sm von %s entfernt."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:738
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:864
