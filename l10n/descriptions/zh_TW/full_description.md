@@ -16,14 +16,14 @@ How to use PhoneTrack :
 
 (\*) Don't forget to set the device name in the link (rather than in the logging app settings). 替換 ‘‘你的名稱’’ 只有在Owntracks, Traccar and OpenGTS這3款程式的設定中設定裝置名稱才有效。
 
-On PhoneTrack main page, while watching a session, you can :
+在手機追踪程式主畫面檢視一段追踪任務時，你可以：
 
-* 📍 Display location history
-* ⛛ Filter points
-* ✎ Manually edit/add/delete points
-* ✎ Edit devices (rename, change color/shape, move to another session)
-* ⛶ Define geofencing zones for devices
-* ⚇ Define proximity alerts for device pairs
+* 📍 顯示位置歷史記錄
+* ⛛ 篩選記錄點
+* ✎ 手動 編輯/新增/刪除 記錄點
+* ✎ 總輯裝置 (重新命名，變更色彩/形狀，移動到其他裝置)
+* ⛶ 定義裝置的地理圍欄區域
+* ⚇ 定義裝置間近接警報
 * 🖧 Share a session to other Nextcloud users or with a public link (read-only)
 * 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
 * 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
