@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 14:57+0100\n"
-"PO-Revision-Date: 2019-11-02 13:59\n"
+"PO-Revision-Date: 2019-11-02 14:10\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -466,7 +466,7 @@ msgstr "產生其他軟體可使用地理資訊的QRcode連結"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3077
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3079
 msgid "Get driving direction to this device with {s}"
-msgstr "得到開車到達此裝置的{s}導航"
+msgstr "得到開車到達此裝置的 {s} 導航"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3084
 msgid "Set device shape"
@@ -888,7 +888,7 @@ msgstr "無法連線伺服器"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4715
 msgid "Shared with {u}"
-msgstr "與{u}分享"
+msgstr "與 {u} 分享"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4740
 msgid "Failed to delete user share"
