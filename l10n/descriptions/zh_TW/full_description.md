@@ -29,10 +29,10 @@ How to use PhoneTrack :
 * 🖫 匯入/匯出GPX格式的追踪任務 (每個裝置具有一段任務的一個檔案，或每個裝置一個檔案)
 * 🗠 顯示追踪任務的統計資料
 * 🔒 [鎖定裝置名稱](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) 只有被授權才能使用鎖定的名稱
-* 🗓 Toggle session auto export and auto purge (daily/weekly/monthly)
-* ◔ Choose what to do when point number quota is reached (block logging or delete oldest point)
+* 🗓 設定追踪任務的自動匯出及自動清除 (每日/每週/每月)
+* ◔ 設定當記錄點數達到配額時，處理方式 (停止記錄或覆蓋最舊記錄)
 
-Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
+公開的頁面和公開的經篩選頁面與主頁面有所不同，只顯示一段追踪任務，只能讀取，無法登入。
 
 This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
 
