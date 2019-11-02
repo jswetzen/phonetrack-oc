@@ -14,7 +14,7 @@ How to use PhoneTrack :
 * Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
 * Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). 替換 ‘‘你的名稱’’ Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+(\*) Don't forget to set the device name in the link (rather than in the logging app settings). 替換 ‘‘你的名稱’’ 只有在Owntracks, Traccar and OpenGTS這3款程式的設定中設定裝置名稱才有效。
 
 On PhoneTrack main page, while watching a session, you can :
 
