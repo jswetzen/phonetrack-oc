@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 14:57+0100\n"
-"PO-Revision-Date: 2019-11-02 14:10\n"
+"PO-Revision-Date: 2019-11-02 15:08\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -1658,7 +1658,7 @@ msgstr "I tuoi server di tessere"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:308
 msgid "Custom mapbox tile servers"
-msgstr ""
+msgstr "Server mapbox personalizzati"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
@@ -1674,7 +1674,7 @@ msgstr "Token di accesso (chiave API)"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr ""
+msgstr "I tuoi mapbox server"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
