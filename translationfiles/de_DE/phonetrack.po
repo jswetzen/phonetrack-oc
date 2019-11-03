@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 16:59+0100\n"
-"PO-Revision-Date: 2019-11-02 16:57\n"
+"PO-Revision-Date: 2019-11-03 02:07\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1274,11 +1274,11 @@ msgstr "Das PhoneTrack-Gerät {device} der Sitzung {session} hat den Geofence-Be
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr "Das PhoneTrack-Gerät {device} der Sitzung {session} ist nun näher als {meters}m an {device2} der Sitzung {session2}"
+msgstr "Das PhoneTrack-Gerät {device} der Sitzung {session} ist nun näher als {meters} m an {device2} der Sitzung {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr "Das PhoneTrack-Gerät {device} der Sitzung {session} ist nun weiter als {meter}m von {device2} der Sitzung {session2} entfernt"
+msgstr "Das PhoneTrack-Gerät {device} der Sitzung {session} ist nun weiter als {meters} m von {device2} der Sitzung {session2} entfernt"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
