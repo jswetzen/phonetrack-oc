@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 16:59+0100\n"
-"PO-Revision-Date: 2019-11-03 10:36\n"
+"PO-Revision-Date: 2019-11-03 10:47\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -1278,43 +1278,43 @@ msgstr "PhoneTrack apparaat {device} van sessie {session} is nu minder dan {mete
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr ""
+msgstr "PhoneTrack apparaat {device} van sessie {session} is nu verder dan {meters} m verwijderd van {device2} van sessie {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Je hebt de PhoneTrack sessie {session} met {who} gedeeld"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "PhoneTrack sessie {session} is nu gedeeld met {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "Je bent gestopt met het delen van sessie {session} met {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
-msgstr ""
+msgstr "PhoneTrack sessie {session} wordt niet meer gedeeld met {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Een PhoneTrack client"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Filter.php:55
 msgid "Phonetrack"
-msgstr ""
+msgstr "Phonetrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr ""
+msgstr "<strong>PhoneTrack geofences</strong> gebeurtenissen"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
-msgstr ""
+msgstr "<strong>PhoneTrack apparaat nabijheid</strong> gebeurtenissen"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
-msgstr ""
+msgstr "Wijzigingen in de <strong>PhoneTrack app</strong>"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:398
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:535
@@ -1325,12 +1325,12 @@ msgstr "PhoneTrack nabijheidswaarschuwing (%s and %s)"
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:402
 #, php-format
 msgid "PhoneTrack device %s is now closer than %s m to %s."
-msgstr ""
+msgstr "PhoneTrack apparaat %s is nu minder dan %s m verwijderd van %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:539
 #, php-format
 msgid "PhoneTrack device %s is now farther than %s m from %s."
-msgstr ""
+msgstr "PhoneTrack apparaat %s is nu meer dan %s m verwijderd van %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:738
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:864
@@ -1340,12 +1340,12 @@ msgstr "Geofencing melding"
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:742
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr ""
+msgstr "In PhoneTrack sessie %s is apparaat %s geofence %s binnengekomen."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:868
 #, php-format
 msgid "In PhoneTrack session %s, device %s exited geofence %s."
-msgstr ""
+msgstr "In PhoneTrack sessie %s heeft apparaat %s geofence %s verlaten."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Notification/Notifier.php:86
 #, php-format
