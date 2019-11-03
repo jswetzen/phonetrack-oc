@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 16:59+0100\n"
-"PO-Revision-Date: 2019-11-03 10:28\n"
+"PO-Revision-Date: 2019-11-03 10:36\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -1274,7 +1274,7 @@ msgstr "PhoneTrack apparaat {device} van sessie {session} heeft geofence {geofen
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "PhoneTrack apparaat {device} van sessie {session} is nu minder dan {meters} m verwijderd van {device2} van sessie {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
