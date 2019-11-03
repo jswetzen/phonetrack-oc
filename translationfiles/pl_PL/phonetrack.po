@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 17:26\n"
+"PO-Revision-Date: 2019-11-03 17:38\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1298,11 +1298,11 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Klient PhoneTrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Filter.php:55
 msgid "Phonetrack"
-msgstr ""
+msgstr "PhoneTrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
@@ -1340,12 +1340,12 @@ msgstr "Powiadomienie o przekroczeniu wyznaczonej strefy"
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:742
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr ""
+msgstr "W sesji %s w PhoneTrack, urządzenie %s weszło w wyznaczoną strefę obszaru %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:868
 #, php-format
 msgid "In PhoneTrack session %s, device %s exited geofence %s."
-msgstr ""
+msgstr "W sesji %s w PhoneTrack, urządzenie %s wyszło z wyznaczonej strefy obszaru %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Notification/Notifier.php:86
 #, php-format
@@ -1670,23 +1670,23 @@ msgstr "Twoje serwery kafelki"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:308
 msgid "Custom mapbox tile servers"
-msgstr ""
+msgstr "Niestandardowe serwery kafelki mapbox"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
-msgstr ""
+msgstr "Adres URL Style.json"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:314
 msgid "For example : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
-msgstr ""
+msgstr "Na przykład: mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
-msgstr ""
+msgstr "Token dostępu (klucz API)"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr ""
+msgstr "Twoje serwery kafelki mapbox"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
