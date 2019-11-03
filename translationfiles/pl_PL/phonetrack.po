@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 13:51\n"
+"PO-Revision-Date: 2019-11-03 17:08\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -210,7 +210,7 @@ msgstr "Eksportuj do gpx"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Pliki są tworzone w '{exdir}'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
