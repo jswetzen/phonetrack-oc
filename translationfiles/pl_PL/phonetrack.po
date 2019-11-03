@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 17:38\n"
+"PO-Revision-Date: 2019-11-03 17:47\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1274,11 +1274,11 @@ msgstr "Urządzenie {device} z sesji {session} w PhoneTrack wyszło z wyznaczone
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "Urządzenie {device} z sesji {session} w PhoneTrack jest teraz bliżej niż {meters} m od {device2} z sesji {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr ""
+msgstr "Urządzenie {device} z sesji {session} w PhoneTrack jest teraz dalej niż {meters} m od {device2} z sesji {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
