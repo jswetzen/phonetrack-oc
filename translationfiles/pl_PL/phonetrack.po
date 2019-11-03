@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 17:08\n"
+"PO-Revision-Date: 2019-11-03 17:18\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -234,7 +234,7 @@ msgstr "miesięcznie"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1699
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "Automatyczne czyszczenie jest uruchamiane codziennie, które usunie punkty starsze od wybranego czasu trwania"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1700
 msgid "Automatic purge"
@@ -290,7 +290,7 @@ msgstr "Wpisz nazwę użytkownika i naciśnij 'Enter'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "nazwa użytkownika"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
@@ -363,7 +363,7 @@ msgstr "Link OpenGTS"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr ""
+msgstr "Link Overland"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
@@ -538,7 +538,7 @@ msgstr "Powiadomienie emailem"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3137
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3197
 msgid "Comma separated e-mail address list"
-msgstr ""
+msgstr "Lista adresów e-mail oddzielonych przecinkami"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3138
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3198
@@ -1108,11 +1108,11 @@ msgstr "Skopiuj poniższy link do pola 'Adres sieciowy nadzorowania online'."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5374
 msgid "Go to 'settings' in the app."
-msgstr ""
+msgstr "Przejdź do ustawień w aplikacji."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5375
 msgid "Copy the link below into the 'server address' field."
-msgstr ""
+msgstr "Skopiuj poniższy link do pola adresu serwera."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5379
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
@@ -1262,7 +1262,7 @@ msgstr "Importuj plik sesji gpx/kml"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:7125
 msgid "Close elevation chart"
-msgstr ""
+msgstr "Zamknij tabelę wysokości"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
