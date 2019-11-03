@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 17:47\n"
+"PO-Revision-Date: 2019-11-03 17:59\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -666,7 +666,7 @@ msgstr "Adres HTTP do żądania, kiedy urządzenia się oddalą"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3209
 msgid "Add proximity notification"
-msgstr "Dodaj komunikat"
+msgstr "Dodaj powiadomienie o zbliżanych urządzeniach"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3225
 msgid "Toggle lines"
@@ -1282,19 +1282,19 @@ msgstr "Urządzenie {device} z sesji {session} w PhoneTrack jest teraz dalej ni�
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Udostępniłeś sesję {session} w PhoneTrack dla {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "Sesja {session} w PhoneTrack jest teraz udostępniana dla {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "Przestałeś udostępniać sesję {session} dla {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
-msgstr ""
+msgstr "Sesja {session} w PhoneTrack nie jest już udostępniana dla {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
