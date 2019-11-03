@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-02 16:59+0100\n"
-"PO-Revision-Date: 2019-11-03 10:18\n"
+"PO-Revision-Date: 2019-11-03 10:28\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -538,7 +538,7 @@ msgstr "E-mail notificatie"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3137
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3197
 msgid "Coma separated e-email address list"
-msgstr ""
+msgstr "Kommagescheiden e-mailadreslijst"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3138
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3198
@@ -1266,11 +1266,11 @@ msgstr "Hoogtegrafiek sluiten"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr ""
+msgstr "PhoneTrack apparaat {device} van sessie {session} is geofence {geofence} binnengekomen"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr ""
+msgstr "PhoneTrack apparaat {device} van sessie {session} heeft geofence {geofence} verlaten"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
