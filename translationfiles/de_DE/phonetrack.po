@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 13:52\n"
+"PO-Revision-Date: 2019-11-03 14:08\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -538,7 +538,7 @@ msgstr "E-Mail-Benachrichtigung"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3137
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3197
 msgid "Comma separated e-mail address list"
-msgstr ""
+msgstr "Liste mit kommagetrennten E-Mail-Adressen"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3138
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3198
