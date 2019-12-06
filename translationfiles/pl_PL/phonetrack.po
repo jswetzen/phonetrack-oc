@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 18:02\n"
+"PO-Revision-Date: 2019-12-06 19:13\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -282,7 +282,7 @@ msgstr "Wpisz zarezerwowaną nazwę użytkownika i naciśnij 'Enter'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1735
 msgid "Share with user"
-msgstr "Udostępnij z użytkownikiem"
+msgstr "Udostępnij użytkownikowi"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1737
 msgid "Type user name and press 'Enter'"
@@ -470,7 +470,7 @@ msgstr "Link pozycji QRcode do otwarcia za pomocą skanera QRcode"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3084
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3086
 msgid "Get driving direction to this device with {s}"
-msgstr "Przekaż wskazówki dojazdu do tego urządzenia z {s}"
+msgstr "Nawiguj do tego urządzenia za pomocą {s}"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3091
 msgid "Set device shape"
@@ -533,7 +533,7 @@ msgstr "Powiadomienie Nextcloud"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5023
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5043
 msgid "Email notification"
-msgstr "Powiadomienie emailem"
+msgstr "Powiadomienie e-mailem"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3137
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3197
@@ -571,7 +571,7 @@ msgstr "Współrzędne wyznaczonej strefy"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3148
 msgid "leave blank to use current map bounds"
-msgstr "pomiń współrzędne aby użyć granic bieżącej mapy"
+msgstr "pozostaw puste, aby użyć bieżących granic mapy"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3150
 msgid "North"
@@ -892,7 +892,7 @@ msgstr "Nie udało się połączyć z serwerem, aby udostępnić użytkownika"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4725
 msgid "Shared with {u}"
-msgstr "Udostępnione z {u}"
+msgstr "Udostępnione dla {u}"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4750
 msgid "Failed to delete user share"
