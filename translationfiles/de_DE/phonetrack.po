@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-11-03 14:08\n"
+"PO-Revision-Date: 2019-12-06 19:14\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1325,7 +1325,7 @@ msgstr "PhoneTrack Annäherungsalarm (%s und %s)"
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:402
 #, php-format
 msgid "PhoneTrack device %s is now closer than %s m to %s."
-msgstr "Das PhoneTrack-Gerät %s ist nun weniger als %sm von %s entfernt."
+msgstr "Das PhoneTrack-Gerät %s ist nun näher als %sm an %s."
 
 #: /var/www/html/n17/apps/phonetrack/lib/Controller/LogController.php:539
 #, php-format
