@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-11-03 14:49+0100\n"
-"PO-Revision-Date: 2019-12-06 19:13\n"
+"PO-Revision-Date: 2019-12-07 22:29\n"
 "Last-Translator: Julien Veyssier (eneiluj)\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1310,7 +1310,7 @@ msgstr "Zdarzenia <strong>wyznaczonej strefy obszaru PhoneTrack</strong>"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
-msgstr "Wydarzenia <strong>zbliżeniowe urządzenia w PhoneTrack</strong> "
+msgstr "Wydarzenia <strong>zbliżeniowe urządzenia w PhoneTrack</strong>"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
