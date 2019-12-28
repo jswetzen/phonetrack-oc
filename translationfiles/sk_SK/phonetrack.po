@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2019-12-26 08:39\n"
+"PO-Revision-Date: 2019-12-28 15:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -1099,7 +1099,7 @@ msgstr "dní"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5369
 msgid "In OsmAnd, go to 'Plugins' in the main menu, then activate 'Trip recording' plugin and go to its settings."
-msgstr "V OsmAnde aktivujte zásuvný modul 'Zaznamenávanie výletov' a otvorte jeho nastavenia."
+msgstr "V OsmAnd aktivujte zásuvný modul 'Zaznamenávanie výletov' a otvorte jeho nastavenia."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5370
 msgid "Copy the link below into the 'Online tracking web address' field."
