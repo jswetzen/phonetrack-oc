@@ -12,7 +12,7 @@ How to use PhoneTrack :
 
 * Create a tracking session.
 * Hindi Hib
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Hindi 
 
 (\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
 
