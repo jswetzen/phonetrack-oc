@@ -1,8 +1,8 @@
 # PhoneTrack Nextcloud application
 
-📱 PhoneTrack is a Nextcloud application to track and store mobile devices locations.
+English
 
-🗺 It receives information from mobile phones logging apps and displays it dynamically on a map.
+English 
 
 🌍 Help us to translate this app on [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
 
