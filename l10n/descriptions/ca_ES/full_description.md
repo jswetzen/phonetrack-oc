@@ -1,26 +1,26 @@
-# PhoneTrack Nextcloud application
+# Aplicació PhoneTrack per Nextcloud
 
-📱 PhoneTrack is a Nextcloud application to track and store mobile devices locations.
+📱 PhoneTrack és una aplicació Nextcloud per rastrejar i emmagatzemar la posició dels dispositius mòbils.
 
-🗺 It receives information from mobile phones logging apps and displays it dynamically on a map.
+🗺 Rep informació de les aplicacions de registre de telefonia mòbil i la mostra en directe en un mapa.
 
-🌍 Help us to translate this app on [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
+🌍 Ajuda'ns a traduir aquesta aplicació a [el projecte Crowdin de PhoneTrack](https://crowdin.com/project/phonetrack).
 
-⚒ Check out other ways to help in the [contribution guidelines](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
+⚒ Trobeu altres maneres d’ajudar en les [indicacions de contribució](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
-How to use PhoneTrack :
+Com fer servir PhoneTrack :
 
-* Create a tracking session.
-* Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Crear una sessió de seguiment.
+* Doneu l'enllaç de registre \ * als dispositius mòbils. Trieu el [mètode de registre](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) que preferiu.
+* Consulteu la ubicació dels dispositius de sessió en temps real (o no) a PhoneTrack o compartiu-la amb enllaços públics.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+(\*) No oblideu establir el nom del dispositiu a l'enllaç (més que no pas a la configuració de l'aplicació de registre). Substituir "elvostrenom" amb el nom de dispositiu desitjat. L'establiment del nom del dispositiu a la configuració de l'aplicació de registre només funciona amb Owntracks, Traccar i OpenGTS.
 
-On PhoneTrack main page, while watching a session, you can :
+A la pàgina principal de PhoneTrack, en veure una sessió, podeu:
 
-* 📍 Display location history
-* ⛛ Filter points
-* ✎ Manually edit/add/delete points
+* 📍 Consultar l'historial d'ubicacions
+* ⛛ Filtrar punts
+* Manualment editar/afegir/esborrar punts
 * ✎ Edit devices (rename, change color/shape, move to another session)
 * ⛶ Define geofencing zones for devices
 * ⚇ Define proximity alerts for device pairs
