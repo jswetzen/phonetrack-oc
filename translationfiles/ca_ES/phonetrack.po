@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 16:38\n"
+"PO-Revision-Date: 2020-01-11 16:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -1518,47 +1518,47 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
-msgstr ""
+msgstr "Dibuixar linea amb degradació de color"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Mostrar distancia en marc emergent"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
-msgstr ""
+msgstr "Mostrar presició en marc emergent"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
-msgstr ""
+msgstr "Mostrar velocitat en marc emergent"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
-msgstr ""
+msgstr "Mostra azimut en marc emergent"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
-msgstr ""
+msgstr "Mostra satèl·lits als indicadors"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:142
 msgid "Show battery level in tooltips"
-msgstr ""
+msgstr "Mostra nivell de bateria als indicadors"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:146
 msgid "Show elevation in tooltips"
-msgstr ""
+msgstr "Mostra elevació als indicadors"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:150
 msgid "Show user-agent in tooltips"
-msgstr ""
+msgstr "Mostra l’agent d’usuari als indicadors"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:154
 msgid "Make points draggable in edition mode"
-msgstr ""
+msgstr "Activa \"l’arrossega i deixa anar\" en editar punts"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:158
 msgid "Show accuracy circle on hover"
-msgstr ""
+msgstr "Mostra un cercle de precisió al pas del ratolí"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:162
 msgid "Line width"
