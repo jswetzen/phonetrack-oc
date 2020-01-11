@@ -21,9 +21,9 @@ A la pàgina principal de PhoneTrack, en veure una sessió, podeu:
 * 📍 Consultar l'historial d'ubicacions
 * ⛛ Filtrar punts
 * Manualment editar/afegir/esborrar punts
-* ✎ Edit devices (rename, change color/shape, move to another session)
-* ⛶ Define geofencing zones for devices
-* ⚇ Define proximity alerts for device pairs
+* ✎ Edita els dispositius (canvia el nom, canvia el color / la forma, passa a una altra sessió)
+* Definir zones de geolocalització per dispositius
+* ⚇ Estableix alertes de proximitat per parells de dispositius
 * 🖧 Share a session to other Nextcloud users or with a public link (read-only)
 * 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
 * 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
