@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 16:00\n"
+"PO-Revision-Date: 2020-01-11 16:10\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -386,23 +386,23 @@ msgstr "No es pot contactar amb el servidor per esborrar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1967
 msgid "Device '{d}' of session '{s}' has been deleted"
-msgstr ""
+msgstr "El dispositiu '{d}' de la sessió '{s}' ha estat esborrat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1970
 msgid "Failed to delete device '{d}' of session '{s}'"
-msgstr ""
+msgstr "No es pot esborrar el dispositiu '{d}' de la sessió '{s}'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1974
 msgid "Failed to contact server to delete device"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per esborrar el dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2031
 msgid "Impossible to rename session"
-msgstr ""
+msgstr "Impossible renombrar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2035
 msgid "Failed to contact server to rename session"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per renombrar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2083
 msgid "Impossible to rename device"
