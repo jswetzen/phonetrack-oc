@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 16:48\n"
+"PO-Revision-Date: 2020-01-11 16:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -1562,55 +1562,55 @@ msgstr "Mostra un cercle de precisió al pas del ratolí"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:162
 msgid "Line width"
-msgstr ""
+msgstr "Ample de linea"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:167
 msgid "Point radius"
-msgstr ""
+msgstr "Radi de punts"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:172
 msgid "Points and lines opacity"
-msgstr ""
+msgstr "Transparència de punt i línies"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:177
 msgid "Theme"
-msgstr ""
+msgstr "Estil"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:179
 msgid "bright"
-msgstr ""
+msgstr "Brillantor"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:180
 msgid "pastel"
-msgstr ""
+msgstr "pastel"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:181
 msgid "dark"
-msgstr ""
+msgstr "fosc"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:187
 msgid "Show lines in public pages"
-msgstr ""
+msgstr "Mostrar linees a pàgines públiques"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:189
 msgid "reload page to make changes effective"
-msgstr ""
+msgstr "recarrega la pàgina per fer efectius els canvis"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:193
 msgid "File export"
-msgstr ""
+msgstr "Exportar arxiu"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:196
 msgid "Auto export path"
-msgstr ""
+msgstr "Ruta per l'exportació automàtica"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:202
 msgid "Export one file per device"
-msgstr ""
+msgstr "Exportar un arxiu per dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:217
 msgid "Tracking sessions"
-msgstr ""
+msgstr "Sessions de seguiment"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:268
 msgid "Custom tile servers"
