@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 19:15\n"
+"PO-Revision-Date: 2020-01-11 19:19\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -790,43 +790,43 @@ msgstr "L'extensió del fitxer ha de ser \".gpx\", \".kml\" o \".json\" per ser 
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4360
 msgid "Failed to create imported session"
-msgstr ""
+msgstr "No s'ha pogut crear sessió importada"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4364
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4370
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4376
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4382
 msgid "Failed to import session"
-msgstr ""
+msgstr "No s'ha pogut importar sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4365
 msgid "File is not readable"
-msgstr ""
+msgstr "Arxiu il·legible"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4371
 msgid "File does not exist"
-msgstr ""
+msgstr "El fitxer no existeix"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4377
 msgid "Malformed XML file"
-msgstr ""
+msgstr "Fitxer XML corrupte"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4383
 msgid "There is no device to import in submitted file"
-msgstr ""
+msgstr "No hi ha cap dispositiu per importar en el fitxer suministrat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4389
 msgid "Failed to contact server to import session"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el sevidor per importar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4410
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4417
 msgid "Session successfully exported in"
-msgstr ""
+msgstr "Sessió exportada amb èxit a"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4414
 msgid "There is no point to export for this session"
-msgstr ""
+msgstr "No hi ha punts per exportar en aquesta sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4418
 msgid "but there was no point to export for some devices"
