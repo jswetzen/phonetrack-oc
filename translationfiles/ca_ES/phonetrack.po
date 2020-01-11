@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 19:28\n"
+"PO-Revision-Date: 2020-01-11 19:31\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -871,23 +871,23 @@ msgstr "Aquest dispositiu no existeix"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4686
 msgid "This device name is not reserved, please reload this page"
-msgstr ""
+msgstr "Aquest nom de dispositiu no està reservat, si us plau recarregueu la pàgina"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4689
 msgid "Failed to contact server to delete reserved name"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per esborrar el nom reservat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4709
 msgid "User does not exist"
-msgstr ""
+msgstr "L'usuari no existeix"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4712
 msgid "Failed to add user share"
-msgstr ""
+msgstr "No s'ha pogut afegir compartir"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4715
 msgid "Failed to contact server to add user share"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per afegir compartir"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4725
 msgid "Shared with {u}"
@@ -986,35 +986,35 @@ msgstr "No s'ha pogut contactar amb el servidor per eliminar la zona de geoperim
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4982
 msgid "Warning : User email and server admin email must be set to receive proximity alerts."
-msgstr ""
+msgstr "Alerta: La direcció de correu electrònic i el servidor del correu administrador han de ser configurada per rebre alertes de proximitat."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4986
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4990
 msgid "Failed to add proximity alert"
-msgstr ""
+msgstr "No s'ha pogut afegir l'alerta de proximitat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4987
 msgid "Device or session does not exist"
-msgstr ""
+msgstr "El dispositiu o la sessió no existeixen"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4993
 msgid "Failed to contact server to add proximity alert"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per afegir l'alerta de proximitat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5017
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5034
 msgid "URL to request when devices get close"
-msgstr ""
+msgstr "URL per sol·licitar quan els dispositius s’acostin"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5020
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5038
 msgid "URL to request when devices get far"
-msgstr ""
+msgstr "URL per sol·licitar quan els dispositius s’allunyin"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5027
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5049
 msgid "Low distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Límit de distància baixa: {nbmeters}m"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5028
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5051
