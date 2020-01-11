@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 10:18\n"
+"PO-Revision-Date: 2020-01-11 10:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -144,7 +144,7 @@ msgstr "No es pot contactar el servidor per tal de guardar les opcions"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1430
 msgid "Failed to contact server to delete filters bookmark"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per esborrar el filtre d'adreces d'interès"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1472
 msgid "Session name should not be empty"
@@ -297,35 +297,35 @@ msgstr "Una sessió privada no és visible a la pàgina de registre del navegado
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1747
 msgid "Public session"
-msgstr ""
+msgstr "Sessió pública"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1754
 msgid "Public watch link"
-msgstr ""
+msgstr "Enllaç per visualització pública"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1756
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "API URL (JSON, últimes posicions)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1758
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "API URL (JSON, totes les posicions)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1764
 msgid "Current active filters will be applied on shared view"
-msgstr ""
+msgstr "Els filtres actius s’aplicaran a la vista compartida"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1766
 msgid "Add public filtered share"
-msgstr ""
+msgstr "Afegiu parcicipació pública filtrada"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1775
 msgid "Session token"
-msgstr ""
+msgstr "Token de sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1781
 msgid "List of links to configure logging apps server settings."
-msgstr ""
+msgstr "Llista d'enllaços per configurar les opcions de registre del servidor d'aplicacions."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1782
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:225
