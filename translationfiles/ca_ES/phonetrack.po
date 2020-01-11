@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 16:10\n"
+"PO-Revision-Date: 2020-01-11 16:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -410,15 +410,15 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2087
 msgid "Failed to contact server to rename device"
-msgstr ""
+msgstr "No es pot conectar amb el servidor per renombrar el dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2159
 msgid "Impossible to set device alias for {n}"
-msgstr ""
+msgstr "Impossible definir un alias pel dispositiu {n}"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2163
 msgid "Failed to contact server to set device alias"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per configurar l'àlies del dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2233
 msgid "Device already exists in target session"
