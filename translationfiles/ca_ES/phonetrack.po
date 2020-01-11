@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 09:58\n"
+"PO-Revision-Date: 2020-01-11 10:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -136,11 +136,11 @@ msgstr "No es pot contactar el servidor per enregistrar les opcions"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1359
 msgid "Filter bookmark should have a name"
-msgstr ""
+msgstr "El filtre d'opcions ha de tenir un nom"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1387
 msgid "Failed to contact server to save filters bookmark"
-msgstr ""
+msgstr "No es pot contactar el servidor per tal de guardar les opcions"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1430
 msgid "Failed to contact server to delete filters bookmark"
@@ -148,120 +148,120 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1472
 msgid "Session name should not be empty"
-msgstr ""
+msgstr "El nom d'usuari no es pot deixar buit"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1489
 msgid "Session name already used"
-msgstr ""
+msgstr "Ja existeix aquest nom"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1493
 msgid "Failed to contact server to create session"
-msgstr ""
+msgstr "No es pot contactar el servidor per tal de crear sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1529
 msgid "yourname"
-msgstr ""
+msgstr "el teu nom"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1617
 msgid "Watch this session"
-msgstr ""
+msgstr "Veure aquesta sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1623
 msgid "shared by {u}"
-msgstr ""
+msgstr "compartit per {u}"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1632
 msgid "Forbid devices to log to this session"
-msgstr ""
+msgstr "Prohibir els dispositius per iniciar aquesta sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1639
 msgid "Reserve device names"
-msgstr ""
+msgstr "Reservar nom de dispositius"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1646
 msgid "Links for logging apps"
-msgstr ""
+msgstr "Links per logejar-se a aplicacions"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1653
 msgid "Link to share session"
-msgstr ""
+msgstr "Link per compartir sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1663
 msgid "Zoom on this session"
-msgstr ""
+msgstr "Ampliar aquesta sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1666
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3087
 msgid "More actions"
-msgstr ""
+msgstr "Més accions"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1678
 msgid "Delete session"
-msgstr ""
+msgstr "Esborrar sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1680
 msgid "Rename session"
-msgstr ""
+msgstr "Renombrar sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1683
 msgid "Export to gpx"
-msgstr ""
+msgstr "Exportar a gpx"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Els arxius s'han creat a '{exdir}'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
-msgstr ""
+msgstr "Exportar automàticament"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1691
 msgid "never"
-msgstr ""
+msgstr "mai"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1692
 msgid "daily"
-msgstr ""
+msgstr "diariament"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1693
 msgid "weekly"
-msgstr ""
+msgstr "semanalment"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1694
 msgid "monthly"
-msgstr ""
+msgstr "mensualment"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1699
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "La purga automàtica s'activa diàriament i eliminarà els punts anteriors a la durada seleccionada"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1700
 msgid "Automatic purge"
-msgstr ""
+msgstr "Purga automàtica"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1702
 msgid "don't purge"
-msgstr ""
+msgstr "no purgar"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1703
 msgid "a day"
-msgstr ""
+msgstr "un dia"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1704
 msgid "a week"
-msgstr ""
+msgstr "una setmana"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1705
 msgid "a month"
-msgstr ""
+msgstr "un mes"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1714
 msgid "Name reservation is optional."
-msgstr ""
+msgstr "La reserva de nom és opcinal."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1715
 msgid "Name can be set directly in logging link if it is not reserved."
-msgstr ""
+msgstr "El nom es pot escriure directament en el link d'autenticació si no està reservat."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1716
 msgid "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
