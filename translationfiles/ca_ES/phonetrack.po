@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 14:20\n"
+"PO-Revision-Date: 2020-01-11 16:00\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -382,7 +382,7 @@ msgstr "No s'ha pogut suprimir la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1947
 msgid "Failed to contact server to delete session"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per esborrar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1967
 msgid "Device '{d}' of session '{s}' has been deleted"
