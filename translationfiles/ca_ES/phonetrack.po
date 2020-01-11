@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 16:18\n"
+"PO-Revision-Date: 2020-01-11 16:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -406,7 +406,7 @@ msgstr "No es pot contactar amb el servidor per renombrar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2083
 msgid "Impossible to rename device"
-msgstr ""
+msgstr "Impossible renombrar el dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2087
 msgid "Failed to contact server to rename device"
@@ -422,15 +422,15 @@ msgstr "No es pot contactar amb el servidor per configurar l'àlies del disposit
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2233
 msgid "Device already exists in target session"
-msgstr ""
+msgstr "El dispositiu ja existeix a la sessió de destí"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2236
 msgid "Impossible to move device to another session"
-msgstr ""
+msgstr "No es pot moure el dispositiu a una altra sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2240
 msgid "Failed to contact server to move device"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per moure el dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2310
 msgid "Failed to contact server to get sessions"
@@ -1749,113 +1749,113 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:488
 msgid "Manually add a point"
-msgstr ""
+msgstr "Afegiu un punt manualment"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:494
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:512
 msgid "Device"
-msgstr ""
+msgstr "Dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:496
 msgid "Add a point"
-msgstr ""
+msgstr "Afegir un punt"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:497
 msgid "Now, click on the map to add a point (if session is not activated, you won't see added point)"
-msgstr ""
+msgstr "Ara, podeu fer clic al mapa per afegir un punt (si la sessió no està activada, no veureu el punt afegit)"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:498
 msgid "Cancel add point"
-msgstr ""
+msgstr "Cancelar afegir punt"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:503
 msgid "Delete multiple points"
-msgstr ""
+msgstr "Suprimeix diversos punts"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:506
 msgid "Choose a session, a device and adjust the filters. All displayed points for selected device will be deleted. An empty device name selects them all."
-msgstr ""
+msgstr "Trieu una sessió, un dispositiu i ajusteu els filtres. Tots els punts que es mostren en aquest dispositiu se suprimeixen. Un nom de dispositiu buit els selecciona tots."
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:514
 msgid "Delete points"
-msgstr ""
+msgstr "Suprimir punts"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:515
 msgid "Delete only visible points"
-msgstr ""
+msgstr "Suprimir només punts visibles"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:522
 msgid "Filter points"
-msgstr ""
+msgstr "Filtrar punts"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:529
 msgid "Apply filters"
-msgstr ""
+msgstr "Aplicar filtres"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:534
 msgid "Begin date"
-msgstr ""
+msgstr "Data d'inici"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:541
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:559
 msgid "today"
-msgstr ""
+msgstr "avui"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:546
 msgid "Begin time"
-msgstr ""
+msgstr "Hora d'inici"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:552
 msgid "End date"
-msgstr ""
+msgstr "Data de fí"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:564
 msgid "End time"
-msgstr ""
+msgstr "Hora de fí"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:571
 msgid "Min-- and Max--"
-msgstr ""
+msgstr "Min-- i Max--"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:574
 msgid "Min++ and Max++"
-msgstr ""
+msgstr "Min++ i Max++"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:578
 msgid "Last day:hour:min"
-msgstr ""
+msgstr "Últim dia:hora:min"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:585
 msgid "Minimum accuracy"
-msgstr ""
+msgstr "Precisió mínima"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:593
 msgid "Maximum accuracy"
-msgstr ""
+msgstr "Presició màxima"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:601
 msgid "Minimum elevation"
-msgstr ""
+msgstr "Elevació mínima"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:609
 msgid "Maximum elevation"
-msgstr ""
+msgstr "Elevació màxima"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:617
 msgid "Minimum battery level"
-msgstr ""
+msgstr "Nivell mínim de bateria"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:625
 msgid "Maximum battery level"
-msgstr ""
+msgstr "Nivell màxim de bateria"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:633
 msgid "Minimum speed"
-msgstr ""
+msgstr "Velocitat mínima"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:641
 msgid "Maximum speed"
-msgstr ""
+msgstr "Velocitat màxima"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:649
 msgid "Minimum bearing"
