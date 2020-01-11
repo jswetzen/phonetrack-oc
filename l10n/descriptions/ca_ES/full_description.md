@@ -24,32 +24,32 @@ A la pàgina principal de PhoneTrack, en veure una sessió, podeu:
 * ✎ Edita els dispositius (canvia el nom, canvia el color / la forma, passa a una altra sessió)
 * Definir zones de geolocalització per dispositius
 * ⚇ Estableix alertes de proximitat per parells de dispositius
-* 🖧 Share a session to other Nextcloud users or with a public link (read-only)
-* 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
-* 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
-* 🗠 Display sessions statistics
-* 🔒 [Reserve a device name](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) to make sure only authorized user can log with this name
-* 🗓 Toggle session auto export and auto purge (daily/weekly/monthly)
-* ◔ Choose what to do when point number quota is reached (block logging or delete oldest point)
+* 🖧 Compartiu una sessió amb altres usuaris Nextcloud o amb un enllaç públic (només de lectura)
+* 🔗 Generar enllaços públic per compartir amb restriccions opcionals (filtres, nom del dispositiu, només darreres posicions, simplificació de geolocalització)
+* 🖫 Importeu / exporteu una sessió en format GPX (un fitxer amb una pista per dispositiu o un fitxer per dispositiu)
+* 🗠 Veure estadístiques de sessió
+* 🔒 [Reserva un nom de dispositiu](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation)per assegurar-se que només l’usuari autoritzat pot iniciar la sessió amb aquest nom
+* 🗓 Activa l'exportació automàtica de sessions i la purga automàtica (diària / setmanal / mensual)
+* ◔ Trieu què passa quan s’arriba a la quota de número de punts (bloquejar el registre o eliminar el punt més antic)
 
-Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
+Les pàgines públiques i les pàgines públiques filtrades funcionen com la pàgina principal, excepte que només es mostra una sessió, tot és de només lectura i no cal connectar-se.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+Aquesta aplicació està provada a Nextcloud 17 amb Firefox 57+ i Chromium.
 
-This app is compatible with theming colors and accessibility themes !
+Aquesta aplicació és compatible amb temes de color i temes d’accessibilitat !
 
-This app is under development.
+Aquesta aplicació està en desenvolupament.
 
-## Install
+## Instalació
 
-See the [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) for installation details.
+Consulteu [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) per obtenir més informació.
 
-Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
+Mireu el fitxer [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) per veure què hi ha de nou i què passa a la següent versió.
 
-Check [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) file to see complete list of authors.
+Consulteu el fitxer [AUTORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) per veure la llista completa d’autors.
 
-## Known issues
+## Problemes comuns
 
-* PhoneTrack **now works** with Nextcloud group restriction activated. See [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
+* PhoneTrack **ara funciona** amb la restricció de grup Nextcloud habilitada. Veure [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
 
-Any feedback will be appreciated.
+Qualsevol feedback serà apreciat.
