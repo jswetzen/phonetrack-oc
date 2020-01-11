@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 10:12\n"
+"PO-Revision-Date: 2020-01-11 10:18\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -261,39 +261,39 @@ msgstr "La reserva de nom és opcinal."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1715
 msgid "Name can be set directly in logging link if it is not reserved."
-msgstr "El nom es pot escriure directament en el link d'autenticació si no està reservat."
+msgstr "El nom es pot escriure directament en el link de registre si no està reservat."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1716
 msgid "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
-msgstr ""
+msgstr "Per iniciar la sessió amb un nom reservat, utilitzeu el \"token de nom\" en l'enllaç de registre (o en el camp \"nom de dispositiu\" al procés de registre al Phone Track-Android)."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1717
 msgid "If a name is reserved, the only way to log with this name is with its token."
-msgstr ""
+msgstr "Si el nom està reservat, la única manera d'enregistrar-se amb aquest nom és amb el seu token (finestra de registre)."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1720
 msgid "Reserve this device name"
-msgstr ""
+msgstr "Reservar aquest nom de dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1722
 msgid "Type reserved name and press 'Enter'"
-msgstr ""
+msgstr "Introduïu el nom reservat i premeu 'Enter'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1735
 msgid "Share with user"
-msgstr ""
+msgstr "Compartir amb l'usuari"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1737
 msgid "Type user name and press 'Enter'"
-msgstr ""
+msgstr "Introduïu el nom d'usuari i premeu 'Enter'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "nom d'usuari"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
-msgstr ""
+msgstr "Una sessió privada no és visible a la pàgina de registre del navegador públic"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1747
 msgid "Public session"
