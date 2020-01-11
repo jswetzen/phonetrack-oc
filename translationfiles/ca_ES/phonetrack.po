@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 17:35\n"
+"PO-Revision-Date: 2020-01-11 18:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -434,16 +434,16 @@ msgstr "No es pot contactar amb el servidor per moure el dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2310
 msgid "Failed to contact server to get sessions"
-msgstr ""
+msgstr "No es pot contactar el servidor per tal d'obtenir sessions"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2732
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2759
 msgid "Stats of all points"
-msgstr ""
+msgstr "Estadístiques de tots els punts"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2756
 msgid "Stats of filtered points"
-msgstr ""
+msgstr "Estadístiques dels punts filtrats"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:2999
 msgid "Device's color successfully changed"
