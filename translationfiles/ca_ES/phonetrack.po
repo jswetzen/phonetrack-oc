@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 18:56\n"
+"PO-Revision-Date: 2020-01-11 19:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -606,187 +606,187 @@ msgstr "Oest"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3169
 msgid "Fence name"
-msgstr ""
+msgstr "Nom de la zona"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3170
 msgid "Use current map view as geofencing zone"
-msgstr ""
+msgstr "Fer servir la vista del mapa actual com a zona de geolocalització"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3171
 msgid "Add zone"
-msgstr ""
+msgstr "Afegir zona"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3177
 msgid "Device proximity notifications"
-msgstr ""
+msgstr "Notificacions de proximitat del dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3181
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
-msgstr ""
+msgstr "Seleccioneu una sessió, un nom de dispositiu i una distància, configureu els paràmetres de notificació, després validi."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3182
 msgid "You will be notified when distance between devices gets bigger than high limit or smaller than low limit."
-msgstr ""
+msgstr "Se li notificarà quan la distància entre els dispositius es fa més gran que límit alt o menor que el límit baix."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3183
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:490
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:508
 msgid "Session"
-msgstr ""
+msgstr "Sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3185
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:210
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:495
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:513
 msgid "Device name"
-msgstr ""
+msgstr "Nom del dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3186
 msgid "Low distance limit"
-msgstr ""
+msgstr "Límit baix de distància"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3188
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3191
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:77
 msgid "meters"
-msgstr ""
+msgstr "metres"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3189
 msgid "High distance limit"
-msgstr ""
+msgstr "Límit alt de distància"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3200
 msgid "HTTP address to request when devices get close"
-msgstr ""
+msgstr "Adreça HTTP per demanar quan els dispositius s’acosten"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3204
 msgid "HTTP address to request when devices get far"
-msgstr ""
+msgstr "Direcció HTTP a demanar quan els dispositius s'allunyen"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3209
 msgid "Add proximity notification"
-msgstr ""
+msgstr "Afegir notificació de proximitat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3225
 msgid "Toggle lines"
-msgstr ""
+msgstr "Activar/desactivar línies"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3233
 msgid "Follow this device (autozoom)"
-msgstr ""
+msgstr "Seguir aquest dispositiu (autozoom)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3246
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3253
 msgid "Center map on device"
-msgstr ""
+msgstr "Centrar el mapa sobre el dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3674
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
-msgstr ""
+msgstr "El punt que voleu editar no existeix o no permet ser editat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3678
 msgid "Failed to contact server to edit point"
-msgstr ""
+msgstr "No s'ha pogut contactar el servidor per editar el punt"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3796
 msgid "The point you want to delete does not exist or you're not allowed to delete it"
-msgstr ""
+msgstr "El punt que voleu esborrar no existeix o no teniu permís per esborrar-lo"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3800
 msgid "Failed to contact server to delete point"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per esborrar el punt"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3889
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3926
 msgid "Manually added"
-msgstr ""
+msgstr "Afegit manualment"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3907
 msgid "Impossible to add this point"
-msgstr ""
+msgstr "No és possible afegir aquest punt"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3910
 msgid "User quota was reached"
-msgstr ""
+msgstr "S'ha assolit la quota d'usuari"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3914
 msgid "Failed to contact server to add point"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per afegir el punt"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4051
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4054
 msgid "Time"
-msgstr ""
+msgstr "Hora"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4059
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4141
 msgid "Altitude"
-msgstr ""
+msgstr "Altitud"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4062
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4146
 msgid "Precision"
-msgstr ""
+msgstr "Precisió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4065
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4153
 msgid "Speed"
-msgstr ""
+msgstr "Velocitat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4068
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4158
 msgid "Bearing"
-msgstr ""
+msgstr "Azimut"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4071
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4163
 msgid "Satellites"
-msgstr ""
+msgstr "Satèl·lits"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4074
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4168
 msgid "Battery"
-msgstr ""
+msgstr "Bateria"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4077
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4172
 msgid "User-agent"
-msgstr ""
+msgstr "User-agent"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4080
 msgid "lat : lng"
-msgstr ""
+msgstr "lat : lng"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4084
 msgid "DMS coords"
-msgstr ""
+msgstr "Coordenades DMS"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4089
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4091
 msgid "Move"
-msgstr ""
+msgstr "Moure"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4092
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel·lar"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4137
 msgid "Distance"
-msgstr ""
+msgstr "Distància"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4306
 msgid "Impossible to zoom, there is no point to zoom on for this session"
-msgstr ""
+msgstr "Zoom impossible, no hi ha cap punt en aquest sessió per fer un zoom"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4341
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "L'extensió del fitxer ha de ser \".gpx\", \".kml\" o \".json\" per ser importats"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4360
 msgid "Failed to create imported session"
