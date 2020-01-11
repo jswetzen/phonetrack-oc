@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 19:19\n"
+"PO-Revision-Date: 2020-01-11 19:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -830,44 +830,44 @@ msgstr "No hi ha punts per exportar en aquesta sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4418
 msgid "but there was no point to export for some devices"
-msgstr ""
+msgstr "però alguns dispositius no tenien punts per exportar"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4422
 msgid "Failed to export session"
-msgstr ""
+msgstr "No s'ha pogut exportar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4427
 msgid "Failed to contact server to export session"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per exportar la sessió"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4458
 msgid "Failed to contact server to log position"
-msgstr ""
+msgstr "No s'ha pogut contactar el servidor per registrar la posició"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4552
 msgid "Impossible to zoom, there is no point to zoom on for this device"
-msgstr ""
+msgstr "Impossible fer zoom, no hi ha cap punt on fer zoom en aquest dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4644
 msgid "'{n}' is already reserved"
-msgstr ""
+msgstr "'{n}' ja està reservat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4647
 msgid "Failed to reserve '{n}'"
-msgstr ""
+msgstr "No s'ha pogut reservar '{n}'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4650
 msgid "Failed to contact server to reserve device name"
-msgstr ""
+msgstr "No es pot contactar amb el servidor per reservar nom de dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4681
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4685
 msgid "Failed to delete reserved name"
-msgstr ""
+msgstr "No s'ha pogut esborrar el nom reservat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4682
 msgid "This device does not exist"
-msgstr ""
+msgstr "Aquest dispositiu no existeix"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4686
 msgid "This device name is not reserved, please reload this page"
@@ -953,36 +953,36 @@ msgstr ""
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5006
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5010
 msgid "no"
-msgstr ""
+msgstr "no"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4891
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4895
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5008
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5012
 msgid "yes"
-msgstr ""
+msgstr "sí"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4905
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4922
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5025
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5046
 msgid "Email address(es)"
-msgstr ""
+msgstr "Adreça de correu electrònic(es)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4905
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4923
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5025
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5046
 msgid "account mail address"
-msgstr ""
+msgstr "compte de correu electrònic"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4949
 msgid "Failed to delete geofencing zone"
-msgstr ""
+msgstr "Error al eliminar la zona de geoperimetraje"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4952
 msgid "Failed to contact server to delete geofencing zone"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per eliminar la zona de geoperimetraje"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4982
 msgid "Warning : User email and server admin email must be set to receive proximity alerts."
