@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 11:28\n"
+"PO-Revision-Date: 2020-01-11 13:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -330,51 +330,51 @@ msgstr "Llista d'enllaços per configurar les opcions de registre del servidor d
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1782
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:225
 msgid "Replace 'yourname' with the desired device name or with the name reservation token"
-msgstr ""
+msgstr "Substitueix 'elteunom' pel nom del dispositiu desitjat o amb el nom reservat al token"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1784
 msgid "Public browser logging link"
-msgstr ""
+msgstr "Enllaç públic de registre del navegador"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1789
 msgid "OsmAnd link"
-msgstr ""
+msgstr "Enllaç OsmAnd"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1794
 msgid "GpsLogger GET and POST link"
-msgstr ""
+msgstr "Enllaç GpsLogger GET i POST"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1798
 msgid "Owntracks (HTTP mode) link"
-msgstr ""
+msgstr "Enllaç Owntracks (format HTTP)"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1802
 msgid "Ulogger link"
-msgstr ""
+msgstr "Enllaç Ulogger"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1806
 msgid "Traccar link"
-msgstr ""
+msgstr "Enllaç Traccar"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1810
 msgid "OpenGTS link"
-msgstr ""
+msgstr "Enllanç OpenGTS"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr ""
+msgstr "Enllanç Overland"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
-msgstr ""
+msgstr "Enllanç Locus Map"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1822
 msgid "HTTP GET link"
-msgstr ""
+msgstr "Enllanç HTTP GET"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1940
 msgid "The session you want to delete does not exist"
-msgstr ""
+msgstr "La sessió que pretens esborrar no existeix"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1943
 msgid "Failed to delete session"
