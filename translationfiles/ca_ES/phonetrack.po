@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 19:31\n"
+"PO-Revision-Date: 2020-01-11 19:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -891,25 +891,25 @@ msgstr "No es pot contactar amb el servidor per afegir compartir"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4725
 msgid "Shared with {u}"
-msgstr ""
+msgstr "Compartit amb {u}"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4750
 msgid "Failed to delete user share"
-msgstr ""
+msgstr "No s'ha pogut esborrar compartir"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4753
 msgid "Failed to contact server to delete user share"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per esborrar compartir"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4771
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4795
 msgid "Public share has been successfully modified"
-msgstr ""
+msgstr "Compartir públicament ha estat modificat amb èxit"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4774
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4798
 msgid "Failed to modify public share"
-msgstr ""
+msgstr "No s'ha pogut modificar compartir públicament"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4777
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4801
@@ -1019,39 +1019,39 @@ msgstr "Límit de distància baixa: {nbmeters}m"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5028
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5051
 msgid "High distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Límit de distància alta: {nbmeters}m"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5077
 msgid "Failed to delete proximity alert"
-msgstr ""
+msgstr "No s'han pogut eliminar l'alerta de proximitat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5080
 msgid "Failed to contact server to delete proximity alert"
-msgstr ""
+msgstr "No s'ha pogut contactar amb el servidor per eliminar l'alerta de proximitat"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5099
 msgid "Failed to add public share"
-msgstr ""
+msgstr "No s'ha pogut afegir compartir públicament"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5102
 msgid "Failed to contact server to add public share"
-msgstr ""
+msgstr "Error al contactar amb el servidor per afegir compartir públicament"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5133
 msgid "Show this device only"
-msgstr ""
+msgstr "Mostra només aquest dispositiu"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5135
 msgid "Show last positions only"
-msgstr ""
+msgstr "Mostra només les últimes posicions"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5137
 msgid "Simplify positions to nearest geofencing zone center"
-msgstr ""
+msgstr "Simplifica les posicions al centre de geolocalització més proper"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5156
 msgid "No filters"
-msgstr ""
+msgstr "Sense filtres"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5180
 msgid "Failed to delete public share"
@@ -1494,15 +1494,15 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:89
 msgid "delete device's oldest point each time a new one is logged"
-msgstr ""
+msgstr "esborrar punts antics del dispositiu cada cop que es registri un de nou"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:93
 msgid "Display"
-msgstr ""
+msgstr "Mostrar"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:98
 msgid "Auto zoom"
-msgstr ""
+msgstr "Auto zoom"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:106
 msgid "Show tooltips"
@@ -1510,11 +1510,11 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:110
 msgid "Display first letter of device name on last position"
-msgstr ""
+msgstr "Mostrar la primera lletra del dispositiu a l'última posició"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:114
 msgid "Show direction arrows along lines"
-msgstr ""
+msgstr "Mostra les fletxes de direcció sobre les línies"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
