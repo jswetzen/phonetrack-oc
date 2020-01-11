@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-11 16:28\n"
+"PO-Revision-Date: 2020-01-11 16:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
@@ -1859,53 +1859,53 @@ msgstr "Velocitat màxima"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:649
 msgid "Minimum bearing"
-msgstr ""
+msgstr "Mínim azimut"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:657
 msgid "Maximum bearing"
-msgstr ""
+msgstr "Màxim azimut"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:665
 msgid "Minimum satellites"
-msgstr ""
+msgstr "Satèl·lits mínims"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:673
 msgid "Maximum satellites"
-msgstr ""
+msgstr "Satèl·lits màxims"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:683
 msgid "bookmark name"
-msgstr ""
+msgstr "Nom del marcador"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:685
 msgid "Save filter bookmark"
-msgstr ""
+msgstr "Guardar el filtre de marcadors"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:718
 msgid "Statistics"
-msgstr ""
+msgstr "Estadístiques"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:722
 msgid "Show stats"
-msgstr ""
+msgstr "Mostra estadístiques"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:732
 msgid "Shortcuts"
-msgstr ""
+msgstr "Dreceres"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:734
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Ocultar/mostrar barra lateral"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:738
 msgid "Documentation"
-msgstr ""
+msgstr "Documentació"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:746
 msgid "Source management"
-msgstr ""
+msgstr "Gestió de fonts"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:760
 msgid "Authors"
-msgstr ""
+msgstr "Autors"
 
