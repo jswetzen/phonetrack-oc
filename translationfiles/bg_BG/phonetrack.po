@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2019-12-16 13:12\n"
+"PO-Revision-Date: 2020-01-15 13:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -289,7 +289,7 @@ msgstr "Напишете име на ползвателя и натиснете 
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "потребителско име"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
@@ -362,7 +362,7 @@ msgstr "OpenGTS линк"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr ""
+msgstr "Overland линк"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
@@ -537,7 +537,7 @@ msgstr "Е-мейл известяване"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3137
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3197
 msgid "Comma separated e-mail address list"
-msgstr ""
+msgstr "Имейлите се разделят със запетая"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3138
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3198
@@ -786,7 +786,7 @@ msgstr "Невъзможно е да увеличите, няма точка з�
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4341
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "Файлово разширение трябва да е \".gpx\" или \".kml\" за да бъде импортирано"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4360
 msgid "Failed to create imported session"
