@@ -1,4 +1,4 @@
-# Aplicativo Nextcloud para TelefoneTrack
+# Aplicativo Nextcloud PhoneTrack
 
 📱 PhoneTrack é um aplicativo para Nextcloud para localizar e salvar a localização de dispositivos móveis.
 
