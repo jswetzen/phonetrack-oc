@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2019-12-16 13:13\n"
+"PO-Revision-Date: 2020-01-19 12:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -209,7 +209,7 @@ msgstr "Ekspor ke gpx"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Berkas dibuat di '{exdir}'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
@@ -233,7 +233,7 @@ msgstr "bulanan"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1699
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "Pembersihan otomatis dilakukan harian dan akan menghapus poin yang lebih tua dari durasi yang dipilih"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1700
 msgid "Automatic purge"
