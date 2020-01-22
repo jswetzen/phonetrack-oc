@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-22 12:12\n"
+"PO-Revision-Date: 2020-01-22 12:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1107,11 +1107,11 @@ msgstr "Αντιγράψτε το παρακάτω σύνδεσμο στο πε�
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5374
 msgid "Go to 'settings' in the app."
-msgstr ""
+msgstr "Μετάβαση στις 'ρυθμίσεις' στην εφαρμογή."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5375
 msgid "Copy the link below into the 'server address' field."
-msgstr ""
+msgstr "Αντιγραφή του παρακάτω συνδέσμου, στο πεδίο 'διεύθυνση εξυπηρετητή'."
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:5379
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
@@ -1257,27 +1257,27 @@ msgstr "Αποτυχία επικοινωνίας με το διακομιστή
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:6527
 msgid "Import gpx/kml/json session file"
-msgstr ""
+msgstr "Εισαγωγή αρχείου συνεδρίας gpx/kml/json"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:7125
 msgid "Close elevation chart"
-msgstr ""
+msgstr "Κλείσιμο γραφήματος υψομέτρου"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr ""
+msgstr "Η συσκευή PhoneTrack {device} της συνεδρίας {session} εισήλθε στον γεωφράχτη {geofence}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr ""
+msgstr "Η συσκευή PhoneTrack {device} της συνεδρίας {session} εξήλθε από τον γεωφράχτη {geofence}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "Η συσκευή PhoneTrack {device} της συνεδρίας {session} είναι εγγύτερα από {meters} m στο {device2} της συνεδρίας {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr ""
+msgstr "Η συσκευή PhoneTrack {device} της συνεδρίας {session} είναι μακρύτερα από {meters} m από {device2} της συνεδρίας {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
