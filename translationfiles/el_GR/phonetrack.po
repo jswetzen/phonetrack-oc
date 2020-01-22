@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2019-12-16 13:13\n"
+"PO-Revision-Date: 2020-01-22 12:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -209,7 +209,7 @@ msgstr "Εξαγωγή σε gpx"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Τα αρχεία δημιουργήθηκαν στο '{exdir}'"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
@@ -233,7 +233,7 @@ msgstr "μηνιαία"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1699
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "Η αυτόματη εκκαθάριση ενεργοποιείται καθημερινά και θα διαγράφει τα σημεία παλαιότερα της επιλεγμένης διάρκειας"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1700
 msgid "Automatic purge"
@@ -289,7 +289,7 @@ msgstr "Πληκτρολογήστε το όνομα χρήστη και πατ�
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "όνομα χρήστη"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
@@ -362,7 +362,7 @@ msgstr "Σύνδεσμος OpenGTS"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr ""
+msgstr "Σύνδεσμος Overland"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
@@ -537,7 +537,7 @@ msgstr "Ειδοποίηση Email"
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3137
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3197
 msgid "Comma separated e-mail address list"
-msgstr ""
+msgstr "Λίστα διευθύνσεων e-mail διαχωρισμένες με κόμμα"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3138
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:3198
@@ -786,7 +786,7 @@ msgstr "Αδυναμία μεγέθυνσης, δεν υπάρχει σημεί�
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4341
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "Η επέκταση αρχείου πρέπει να είναι '.gpx', '.kml' ή '.json' για να εισαχθεί"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:4360
 msgid "Failed to create imported session"
