@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-22 12:30\n"
+"PO-Revision-Date: 2020-01-22 12:34\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1673,19 +1673,19 @@ msgstr "Προσαρμοσμένοι εξυπηρετητές πλακιδίων
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
-msgstr ""
+msgstr "Style.json url"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:314
 msgid "For example : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
-msgstr ""
+msgstr "Για παράδειγμα : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
-msgstr ""
+msgstr "Access token (API key)"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr ""
+msgstr "Οι εξυπηρετητές σας για πλακίδια mapbox"
 
 #: /var/www/html/n17/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
