@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-22 12:21\n"
+"PO-Revision-Date: 2020-01-22 12:24\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1277,31 +1277,31 @@ msgstr "Η συσκευή PhoneTrack {device} της συνεδρίας {session
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr "Η συσκευή PhoneTrack {device} της συνεδρίας {session} είναι μακρύτερα από {meters} m από {device2} της συνεδρίας {session2}"
+msgstr "Η συσκευή PhoneTrack {device} της συνεδρίας {session} είναι μακρύτερα από {meters} m από το {device2} της συνεδρίας {session2}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Η κοινόχρηστη συνεδρία PhoneTrack {session} με {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "Η συνεδρία PhoneTrack {session} είναι τώρα κοινόχρηστη με {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "Σταματήσατε την κοινή χρήση της συνεδρίας {session} με {who}"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
-msgstr ""
+msgstr "Η συνεδρία PhoneTrack {session} δεν είναι κοινόχρηστη με {who} πια"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Πελάτης PhoneTrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/Filter.php:55
 msgid "Phonetrack"
-msgstr ""
+msgstr "Phonetrack"
 
 #: /var/www/html/n17/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
