@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-12-16 14:04+0100\n"
-"PO-Revision-Date: 2020-01-24 08:52\n"
+"PO-Revision-Date: 2020-01-24 09:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -201,11 +201,11 @@ msgstr "Apagar sessão"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1680
 msgid "Rename session"
-msgstr ""
+msgstr "Renomear sessão"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1683
 msgid "Export to gpx"
-msgstr ""
+msgstr "Exportar para gpx"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
@@ -213,15 +213,15 @@ msgstr ""
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
-msgstr ""
+msgstr "Exportação automática"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1691
 msgid "never"
-msgstr ""
+msgstr "nunca"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1692
 msgid "daily"
-msgstr ""
+msgstr "diariamente"
 
 #: /var/www/html/n17/apps/phonetrack/js/phonetrack.js:1693
 msgid "weekly"
