@@ -19,8 +19,8 @@ Cómo usar PhoneTrack:
 On PhoneTrack main page, while watching a session, you can :
 
 * 📍 Display location history
-* ⛛ Filter points
-* ✎ Manually edit/add/delete points
+* ⛛ Filtrar puntos
+* ► Editar/añadir/borrar puntos manualmente
 * ✎ Edit devices (rename, change color/shape, move to another session)
 * ⛶ Define geofencing zones for devices
 * ⚇ Define proximity alerts for device pairs
