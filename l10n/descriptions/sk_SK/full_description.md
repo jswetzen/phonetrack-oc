@@ -10,9 +10,9 @@
 
 Ako používať PhoneTrack :
 
-* Vytvoriť sledovaciu reláciu.
-* Give the logging link\* to the mobile devices. Vyberte si preferovanú [metódu záznamu](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods).
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Vytvorte sledovaciu reláciu.
+* Zadajte sledovací odkaz\* do mobilných zariadení. Vyberte si preferovanú [metódu záznamu](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods).
+* Pozerajte si polohu zariadení v relácii v reálnom čase (alebo aj nie) v PhoneTracku a zdieľajte ich na verejných stránkach.
 
 (\*) Nezabudnite nastaviť názov zariadenia v odkaze (radšej ako v nastaveniach logovacej aplikácie). Nahraďte "yourname" zvoleným názvom zariadenia. Nastavenie názvu zariadenia v nastaveniach logovacej aplikácie funguje len s Owntracks, Traccar a OpenGTS.
 
@@ -25,14 +25,14 @@ Na hlavnej stránke PhoneTrack môžeš počas sledovania sedenia:
 * ⛶ Definovať geofence zóny pre zariadenia
 * ⚇ Zadávať výstrahy vzdialenia pre páry zariadení
 * 🖧 Zdieľať sedenie s ďalšími Nextcloud používateľmi alebo pomocou verejných odkazov (len na čítanie)
-* 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
-* 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
-* 🗠 Display sessions statistics
+* 🔗 Generujte odkazy verejného zdieľania s voliteľnými obmedzeniami (filtre, názov zariadenia, len posledná pozícia, zjednodušený geofence)
+* 🖫 Importujte/exportujte záznamy v GPX formáte (jeden súbor s jedným záznamom alebo jeden súbor s jedným zariadením)
+* 🗠 Zobraziť štatistiky záznamu
 * 🔒 [Rezervovať názov zariadenia](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) pre uistenie sa, že len autorizovaný používateľ sa môže prihlásiť s týmto menom
-* 🗓 Toggle session auto export and auto purge (daily/weekly/monthly)
-* ◔ Choose what to do when point number quota is reached (block logging or delete oldest point)
+* 🗓 Zapínať automatické exportovanie záznamu a automatické mazanie (denne/týždenne/mesačne)
+* ◔ Vyberať, čo sa stane, keď je dosiahnutý limit počtu bodov (zablokovať záznam alebo vymazať najstarší bod)
 
-Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
+Verejná stránka a verejná filtrovaná stránka funguje ako hlavná stránka okrem situácie, keď je zobrazený len jeden záznam, všetko je len na čítanie a nie je potrebné prihlasovať sa.
 
 Táto aplikáca je testovaná na Nextcloud 17 s Firefox 57+ a Chromium.
 
