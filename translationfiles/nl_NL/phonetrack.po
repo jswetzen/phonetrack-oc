@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-10 20:11\n"
+"PO-Revision-Date: 2020-02-10 21:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
@@ -243,7 +243,7 @@ msgstr "Exporteren naar gpx"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1636
 msgid "The automatic export runs daily and saves/updates files in '{exdir}' for selected interval (today is ignored)"
-msgstr ""
+msgstr "De automatische export wordt dagelijks uitgevoerd en bewaart/update bestanden in '{exdir}' voor het geselecteerde interval (vandaag wordt genegeerd)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1637
 msgid "Automatic export"
@@ -268,7 +268,8 @@ msgstr "maandelijks"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1647
 msgid "The automatic purge runs daily and deletes old points, it keeps \"auto export\" interval plus \"auto purge\" interval\n"
 "(If \"auto export\" is set to \"never\", consider it as set to \"monthly\")"
-msgstr ""
+msgstr "Het automatisch opruimen werkt dagelijks en verwijdert oude punten, het bewaart \"auto export\" interval plus \"auto-purge\" interval\n"
+"(Als \"auto-export\" is ingesteld op \"nooit\", beschouw het dan als ingesteld op \"maandelijks\")"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1648
 msgid "Automatic purge"
