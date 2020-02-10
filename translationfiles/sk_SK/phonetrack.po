@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-10 20:34\n"
+"PO-Revision-Date: 2020-02-10 20:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -1170,7 +1170,7 @@ msgstr "Môžete sa prihlásiť s ďalším klientom pomocou jednoduchej HTTP po
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5215
 msgid "Make sure the logging system sets values for at least 'timestamp', 'lat' and 'lon' GET parameters."
-msgstr ""
+msgstr "Uistite sa, že systém záznamu nastavil hodnoty minimálne na GET parametre 'timestamp', 'lat' a 'lon'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5218
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
