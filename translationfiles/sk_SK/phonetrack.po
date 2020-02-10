@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-10 20:10\n"
+"PO-Revision-Date: 2020-02-10 20:34\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -43,19 +43,19 @@ msgstr "Zariadenie \"%s\" je teraz ďalej ako %sm k \"%s\"."
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:675
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:787
 msgid "Geofencing alert"
-msgstr "Výstraha geo-fence"
+msgstr "Výstraha geoplot"
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:678
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:67
 #, php-format
 msgid "In session \"%s\", device \"%s\" entered geofencing zone \"%s\"."
-msgstr "V relácii \"%s\", zariadenie \"%s\" vstúpilo do geofencing zóny \"%s\"."
+msgstr "V relácii \"%s\", zariadenie \"%s\" vstúpilo do zóny geoplota \"%s\"."
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:790
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:74
 #, php-format
 msgid "In session \"%s\", device \"%s\" exited geofencing zone \"%s\"."
-msgstr "V relácii \"%s\", zariadenie \"%s\" vystúpilo z geofencing zóny \"%s\"."
+msgstr "V relácii \"%s\", zariadenie \"%s\" vystúpilo zo zóny geoplota \"%s\"."
 
 #: /var/www/html/n16/apps/phonetrack/js/admin.js:19
 msgid "Quota was successfully saved"
@@ -243,7 +243,7 @@ msgstr "Export do gpx"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1636
 msgid "The automatic export runs daily and saves/updates files in '{exdir}' for selected interval (today is ignored)"
-msgstr ""
+msgstr "Automatický export sa spúšťa denne a ukladá/aktualizuje súbory v '{exdir}' vo zvolenom intervale (dnešok je ignorovaný)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1637
 msgid "Automatic export"
@@ -268,7 +268,8 @@ msgstr "mesačne"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1647
 msgid "The automatic purge runs daily and deletes old points, it keeps \"auto export\" interval plus \"auto purge\" interval\n"
 "(If \"auto export\" is set to \"never\", consider it as set to \"monthly\")"
-msgstr ""
+msgstr "Automatické mazanie sa spúšťa denne a maže staré body, ponecháva interval \"automatického exportu\" a interval \"automatického mazania\" \n"
+"(Ak je \"automatický export\" nastavený na \"nikdy\", správa sa ako keby bol nastavený na \"mesačne\")"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1648
 msgid "Automatic purge"
@@ -537,11 +538,11 @@ msgstr "Ok"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3045
 msgid "Device geofencing zones"
-msgstr ""
+msgstr "Zóny geoplota pre zariadenie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3049
 msgid "Zoom on geofencing area, then set values, then validate."
-msgstr ""
+msgstr "Priblížte na oblasť geoplota, potom nastavte hodnoty a následne overte."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3050
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3109
@@ -804,7 +805,7 @@ msgstr "Nie je možné zväčšiť, v tomto sedení nie je bod, na ktorý by bol
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4216
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr ""
+msgstr "Súbor musí mať príponu '.gpx' alebo '.kml' aby sa dal importovať"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4235
 msgid "Failed to create imported session"
@@ -1165,7 +1166,7 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5214
 msgid "You can log with any other client with a simple HTTP request."
-msgstr ""
+msgstr "Môžete sa prihlásiť s ďalším klientom pomocou jednoduchej HTTP požiadavky."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5215
 msgid "Make sure the logging system sets values for at least 'timestamp', 'lat' and 'lon' GET parameters."
@@ -1206,7 +1207,7 @@ msgstr "Potvrďte vymazanie relácie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5507
 msgid "Choose auto export target path"
-msgstr ""
+msgstr "Vyberte cieľovú cestu automatického exportu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5687
 msgid "Select storage location for '{fname}'"
@@ -1214,7 +1215,7 @@ msgstr "Vyberte si miesto uloženia pre '{fname}'"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5909
 msgid "Geo QRcode : last position of {dname}"
-msgstr ""
+msgstr "Geo QRcode: posledná poloha {dname}"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6031
 msgid "Are you sure you want to delete the device {device} ?"
@@ -1226,7 +1227,7 @@ msgstr "Potvrďte odstránenie zariadenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6087
 msgid "Failed to change session lock status"
-msgstr ""
+msgstr "Zlyhala zmena stavu uzamknutia záznamu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6115
 msgid "Failed to toggle session public status, session does not exist"
@@ -1238,11 +1239,11 @@ msgstr "Nepodarilo sa kontaktovať server na prepnutie stavu verejnej relácie,"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6187
 msgid "Failed to set device shape"
-msgstr ""
+msgstr "Zlyhalo nastavenie tvaru zariadenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6190
 msgid "Failed to contact server to set device shape"
-msgstr ""
+msgstr "Zlyhalo spojenie so serverom na nastavenie tvaru zariadenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6212
 msgid "Failed to set session auto export value"
@@ -1259,15 +1260,15 @@ msgstr "Nepodarilo sa kontaktovať server pre nastavenie hodnoty automatického 
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6239
 msgid "Failed to set session auto purge value"
-msgstr ""
+msgstr "Zlyhalo nastavenie hodnoty automatického mazania záznamu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6244
 msgid "Failed to contact server to set session auto purge value"
-msgstr ""
+msgstr "Nepodarilo sa kontaktovať server pre nastavenie hodnoty automatického vymazania záznamu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6331
 msgid "Import gpx/kml session file"
-msgstr ""
+msgstr "Importovať gpx/kml súbor záznamu"
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
@@ -1369,15 +1370,15 @@ msgstr "body"
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:74
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:79
 msgid "Cutting lines only affects map view and stats table"
-msgstr ""
+msgstr "Vystrihovanie čiar má vplyv len na zobrazenie v mape a štatistickú tabuľku"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
-msgstr ""
+msgstr "Minimálna vzdialenosť na vystrihnutie medzi dvomi bodmi"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
-msgstr ""
+msgstr "Minimálny čas na vystrihnutie medzi dvomi bodmi"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
@@ -1493,7 +1494,7 @@ msgstr "Zobraziť čiary na verejných stránkach"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:186
 msgid "Show points in public pages"
-msgstr ""
+msgstr "Zobraziť body na verejných stránkach"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:188
 msgid "reload page to make changes effective"
