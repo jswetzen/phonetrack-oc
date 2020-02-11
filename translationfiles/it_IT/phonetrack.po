@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-10 20:10\n"
+"PO-Revision-Date: 2020-02-11 14:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -243,7 +243,7 @@ msgstr "Esporta gpx"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1636
 msgid "The automatic export runs daily and saves/updates files in '{exdir}' for selected interval (today is ignored)"
-msgstr ""
+msgstr "L'esportazione automatica viene eseguita giornalmente e salva/aggiorna file in '{exdir}' per l'intervallo selezionato (oggi è ignorato)"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1637
 msgid "Automatic export"
@@ -268,7 +268,8 @@ msgstr "mensile"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1647
 msgid "The automatic purge runs daily and deletes old points, it keeps \"auto export\" interval plus \"auto purge\" interval\n"
 "(If \"auto export\" is set to \"never\", consider it as set to \"monthly\")"
-msgstr ""
+msgstr "La pulizia automatica viene eseguita giornalmente ed elimina i punti vecchi, mantiene l'intervallo \"auto export\" più l'intervallo \"auto purge\"\n"
+"(se \"auto export\" è impostato su \"mai\", considera impostato come \"mensile\")"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1648
 msgid "Automatic purge"
@@ -804,7 +805,7 @@ msgstr "Impossibile zoomare, non c'è alcun punto da zoomare per questa sessione
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4216
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr ""
+msgstr "L'estensione del file deve essere \".gpx\" o \".kml\" per essere importato"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4235
 msgid "Failed to create imported session"
@@ -1267,7 +1268,7 @@ msgstr "Impossibile contattare il server per impostare il valore di eliminazione
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6331
 msgid "Import gpx/kml session file"
-msgstr ""
+msgstr "Importa il file di sessione gpx/kml"
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
@@ -1493,7 +1494,7 @@ msgstr "Mostra linee nelle pagine pubbliche"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:186
 msgid "Show points in public pages"
-msgstr ""
+msgstr "Mostra i punti nelle pagine pubbliche"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:188
 msgid "reload page to make changes effective"
