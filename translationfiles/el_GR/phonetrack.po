@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-11 06:31\n"
+"PO-Revision-Date: 2020-02-11 06:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -268,7 +268,8 @@ msgstr "μηνιαία"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1647
 msgid "The automatic purge runs daily and deletes old points, it keeps \"auto export\" interval plus \"auto purge\" interval\n"
 "(If \"auto export\" is set to \"never\", consider it as set to \"monthly\")"
-msgstr ""
+msgstr "Η αυτόματη εκκαθάριση εκτελείται καθημερινά και διαγράφει παλιά σημεία, διατηρεί τα διαστήματα για \"αυτόματη εξαγωγή\" και για \"αυτόματη εκκαθάριση\"\n"
+"(Αν η \"αυτόματη εξαγωγή\" οριστεί σε \"ποτέ\", θα θεωρείται ως \"μηνιαία\")"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1648
 msgid "Automatic purge"
@@ -804,7 +805,7 @@ msgstr "Αδυναμία μεγέθυνσης, δεν υπάρχει σημεί�
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4216
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr ""
+msgstr "Η επέκταση αρχείου πρέπει να είναι '.gpx' ή '.kml' για να εισαχθεί"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4235
 msgid "Failed to create imported session"
@@ -1267,7 +1268,7 @@ msgstr "Αποτυχία επικοινωνίας με το διακομιστή
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6331
 msgid "Import gpx/kml session file"
-msgstr ""
+msgstr "Εισαγωγή αρχείου συνεδρίας gpx/kml"
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
@@ -1493,7 +1494,7 @@ msgstr "Εμφάνιση γραμμών σε δημόσιες σελίδες"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:186
 msgid "Show points in public pages"
-msgstr ""
+msgstr "Εμφάνιση σημείων σε δημόσιες σελίδες"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:188
 msgid "reload page to make changes effective"
