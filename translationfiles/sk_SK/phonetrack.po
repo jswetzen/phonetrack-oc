@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-10 20:39\n"
+"PO-Revision-Date: 2020-02-11 07:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -43,7 +43,7 @@ msgstr "Zariadenie \"%s\" je teraz ďalej ako %sm k \"%s\"."
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:675
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:787
 msgid "Geofencing alert"
-msgstr "Výstraha geoplot"
+msgstr "Výstraha geoplota"
 
 #: /var/www/html/n16/apps/phonetrack/controller/logcontroller.php:678
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:67
@@ -1126,7 +1126,7 @@ msgstr "Skopírujte nižšie uvedený odkaz do poľa 'Webová adresa stopovania 
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5189
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
-msgstr ""
+msgstr "V GpsLogger choďte v menu bočného panela do položky 'Detaily záznamu', potom aktivujte 'Zaznamenávať na vlastnú URL'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5190
 msgid "Copy the link below into the 'URL' field."
@@ -1146,11 +1146,11 @@ msgstr ""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5200
 msgid "In Ulogger, go to settings menu and copy the link below into the 'Server URL' field."
-msgstr ""
+msgstr "V Uloggeri choďte do menu nastavení a skopírujte odkaz nižšie do poľa 'URL servera'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5201
 msgid "Set 'User name' and 'Password' mandatory fields to any value as they will be ignored by PhoneTrack."
-msgstr ""
+msgstr "Nastavte povinné polia 'Meno používateľa' a 'Heslo' na akúkoľvek hodnotu, nakoľko budú PhoneTrackom ignorované."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5202
 msgid "Activate 'Live synchronization'."
@@ -1158,11 +1158,11 @@ msgstr "Aktivovať \"Live synchronizáciu\"."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5206
 msgid "In Traccar client, copy the link below into the 'server URL' field."
-msgstr ""
+msgstr "V klientovi Traccar skopírujte odkaz nižšie do poľa 'URL servera'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5210
 msgid "In LocusMap, copy the link below into the 'server URL' field. It works with POST and GET methods."
-msgstr ""
+msgstr "V LocusMap skopírujte odkaz nižšie do poľa 'URL servera'. Funguje to pomocou metód POST a GET."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5214
 msgid "You can log with any other client with a simple HTTP request."
@@ -1174,11 +1174,11 @@ msgstr "Uistite sa, že systém záznamu nastavil hodnoty minimálne na GET para
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5218
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
-msgstr ""
+msgstr "Použite tento odkaz ako URL servera vo vašej OpenGTS kompatibilnej aplikácii."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5219
 msgid "OpenGTS compatible logger"
-msgstr ""
+msgstr "OpenGTS kompatibilný záznam"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5222
 msgid "the browser"
@@ -1191,11 +1191,11 @@ msgstr "Zaznamenať moju pozíciu v tejto relácii"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5224
 msgid "Visit this link with a web browser and check \"{loglabel}\"."
-msgstr ""
+msgstr "Navštívte tento odkaz pomocou webového prehliadača a zakliknite \"{loglabel}\"."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5227
 msgid "Configure {loggingApp} for logging to session '{sessionName}'"
-msgstr ""
+msgstr "Nastavte {loggingApp} pre záznam do sedenia '{sessionName}'"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5448
 msgid "Are you sure you want to delete the session {session} ?"
