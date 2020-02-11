@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-11 13:38\n"
+"PO-Revision-Date: 2020-02-11 14:04\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -268,7 +268,8 @@ msgstr "miesięcznie"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1647
 msgid "The automatic purge runs daily and deletes old points, it keeps \"auto export\" interval plus \"auto purge\" interval\n"
 "(If \"auto export\" is set to \"never\", consider it as set to \"monthly\")"
-msgstr ""
+msgstr "Automatyczne czyszczenie jest wykonywane codziennie i usuwa stare punkty, zachowuje interwał \"automatycznego eksportu\" oraz interwał \"automatycznego czyszczenia\"\n"
+"(Jeśli \"automatyczny eksport\" jest ustawiony na \"nigdy\", należy traktować go jako \"miesięczny\")"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1648
 msgid "Automatic purge"
@@ -804,7 +805,7 @@ msgstr "Powiększenie jest niemożliwe, ponieważ brak punktu do powiększenia d
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4216
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr ""
+msgstr "Aby plik został zaimportowany, musi mieć rozszerzenie '.gpx' lub '.kml'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4235
 msgid "Failed to create imported session"
@@ -1267,7 +1268,7 @@ msgstr "Błąd połączenia z serwerem podczas ustawienia auto czyszczenia sesji
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6331
 msgid "Import gpx/kml session file"
-msgstr ""
+msgstr "Zaimportuj plik sesji gpx/kml"
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
@@ -1493,7 +1494,7 @@ msgstr "Pokaż linie na stronach publicznych"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:186
 msgid "Show points in public pages"
-msgstr ""
+msgstr "Pokaż punkty na stronach publicznych"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:188
 msgid "reload page to make changes effective"
