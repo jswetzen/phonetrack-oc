@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-11 07:40\n"
+"PO-Revision-Date: 2020-02-11 07:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
@@ -1134,15 +1134,15 @@ msgstr "Skopírujte nižšie uvedený odkaz do poľa 'URL'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5194
 msgid "In the Owntracks preferences menu, go to 'Connections'."
-msgstr ""
+msgstr "V menu nastavení Owntrack choďte do položky 'Spojenia'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5195
 msgid "Change the connection Mode to 'Private HTTP', Copy the link below into the 'Host' field."
-msgstr ""
+msgstr "Zmeňte režim prepojenia na 'Súkromná HTTP', skopírujte odkaz nižšie do poľa 'Hostiteľ'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5196
 msgid "Leave settings under 'Identification' blank as they are not required."
-msgstr ""
+msgstr "Nechajte nastavenia v položke 'Identifikácia' prázdne, nakoľko nie sú požadované."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5200
 msgid "In Ulogger, go to settings menu and copy the link below into the 'Server URL' field."
@@ -1570,7 +1570,7 @@ msgstr "Váš mapový server"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:307
 msgid "Custom overlay tile servers"
-msgstr "Vlastné servery vrstiev máp"
+msgstr "Vlastné servery vrstiev prekryvných máp"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:312
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:355
@@ -1595,7 +1595,7 @@ msgstr "Nepriehľadnosť (0,0-1,0)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:325
 msgid "Your overlay tile servers"
-msgstr "Vlastný server vrstiev máp"
+msgstr "Vlastný server prekryvných vrstiev máp"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:350
 msgid "Custom WMS tile servers"
@@ -1622,11 +1622,11 @@ msgstr "Váš webový mapový server"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:395
 msgid "Custom WMS overlay servers"
-msgstr "Vlastné WMS servery vrstiev"
+msgstr "Vlastné WMS servery prekryvných vrstiev"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:419
 msgid "Your WMS overlay tile servers"
-msgstr "Vlastný WMS server vrstiev"
+msgstr "Vlastný WMS server prekryvných vrstiev"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:448
 msgid "Manually add a point"
