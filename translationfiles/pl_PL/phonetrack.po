@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 12:34\n"
+"PO-Revision-Date: 2020-02-12 12:58\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1042,19 +1042,19 @@ msgstr "Maksymalna odległość : {nbmeters}m"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4897
 msgid "Failed to delete proximity alert"
-msgstr "Nie udało się skasować komunikatu"
+msgstr "Nie udało się usunąć alertu zbliżeniowego"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4900
 msgid "Failed to contact server to delete proximity alert"
-msgstr "Nie udało się połączyć z serwerem, aby skasować komunikat"
+msgstr "Nie udało się połączyć z serwerem, aby usunąć alert zbliżeniowy"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4919
 msgid "Failed to add public share"
-msgstr "Nie udało się dodać udostępniania publicznego"
+msgstr "Nie udało się dodać udostępnienia publicznego"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4922
 msgid "Failed to contact server to add public share"
-msgstr "Nie udało się połączyć z serwerem, aby dodać udostępnianie publiczne"
+msgstr "Nie udało się połączyć z serwerem, aby dodać udostępnienie publiczne"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4954
 msgid "Show this device only"
@@ -1066,7 +1066,7 @@ msgstr "Pokaż tylko ostatnie lokalizacje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4958
 msgid "Simplify positions to nearest geofencing zone center"
-msgstr "Zawęź pozycje do najbliższego centrum wyznaczonej strefy obszaru"
+msgstr "Zawęź pozycje do najbliższego centrum wyznaczonej strefy"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4977
 msgid "No filters"
@@ -1074,15 +1074,15 @@ msgstr "Brak filtrów"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5001
 msgid "Failed to delete public share"
-msgstr "Nie udało się usunąć udostępniania publicznego"
+msgstr "Nie udało się usunąć udostępnienia publicznego"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5004
 msgid "Failed to contact server to delete public share"
-msgstr "Nie udało się połączyć z serwerem, aby usunąć udostępnianie publiczne"
+msgstr "Nie udało się połączyć z serwerem, aby usunąć udostępnienie publiczne"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5038
 msgid "Failed to contact server to get user list"
-msgstr "Nie udało się połączyć z serwerem, aby zdobyć listę użytkowników"
+msgstr "Nie udało się połączyć z serwerem, aby uzyskać listę użytkowników"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5081
 msgid "device name"
@@ -1118,15 +1118,15 @@ msgstr "dni"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5184
 msgid "In OsmAnd, go to 'Plugins' in the main menu, then activate 'Trip recording' plugin and go to its settings."
-msgstr "W głównym menu OsmAnd przejdź do 'Wtyczki', a następnie aktywuj wtyczkę 'Nagrywanie trasy' i przejdź do jej ustawień."
+msgstr "W głównym menu OsmAnd przejdź do 'Wtyczek', a następnie aktywuj wtyczkę 'Nagrywanie trasy' i przejdź do jej ustawień."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5185
 msgid "Copy the link below into the 'Online tracking web address' field."
-msgstr "Skopiuj poniższy link do pola 'Adres sieciowy nadzorowania online'."
+msgstr "Skopiuj poniższy link do pola 'Adres internetowy śledzenia online'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5189
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
-msgstr "W GpsLogger przejdź do 'Rejestrowanie szczegółów' w menu bocznym, a następnie aktywuj 'Rejestruj w niestandardowym URL'."
+msgstr "W GpsLogger przejdź do „Szczegóły logowania” w menu paska bocznego, a następnie aktywuj „Rejestruj do niestandardowego adresu URL”."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5190
 msgid "Copy the link below into the 'URL' field."
@@ -1142,7 +1142,7 @@ msgstr "Zmień tryb połączenia na 'Prywatny HTTP', skopiuj poniższy link do p
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5196
 msgid "Leave settings under 'Identification' blank as they are not required."
-msgstr "W ustawieniach 'Identyfikacji' pozostaw puste, ponieważ nie są wymagane."
+msgstr "W ustawieniach 'Identyfikacji' pozostaw puste pole, ponieważ nie są wymagane."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5200
 msgid "In Ulogger, go to settings menu and copy the link below into the 'Server URL' field."
@@ -1170,7 +1170,7 @@ msgstr "Możesz rejestrować z innego klienta przy użyciu prostego żądania HT
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5215
 msgid "Make sure the logging system sets values for at least 'timestamp', 'lat' and 'lon' GET parameters."
-msgstr "Upewnij się, że system logowania ustawia wartości co najmniej parametrów GET 'timestamp', 'lat' i 'lon'."
+msgstr "Upewnij się, że system rejestrujący ustawia co najmniej wartości dla parametrów GET 'timestamp', 'lat' i 'lon'."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5218
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
@@ -1207,7 +1207,7 @@ msgstr "Potwierdź usunięcie sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5507
 msgid "Choose auto export target path"
-msgstr "Wybierz obiekt docelowy ścieżki automatycznego eksportu"
+msgstr "Wybierz ścieżkę docelową automatycznego eksportu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5687
 msgid "Select storage location for '{fname}'"
