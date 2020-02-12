@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 08:32\n"
+"PO-Revision-Date: 2020-02-12 08:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1235,7 +1235,7 @@ msgstr "Nie można przełączyć statusu publicznego sesji, sesja nie istnieje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6118
 msgid "Failed to contact server to toggle session public status"
-msgstr "Nie udało się połączyć z serwerem, aby pokazać status publiczny"
+msgstr "Nie udało się połączyć z serwerem, aby pokazać status publiczny sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6187
 msgid "Failed to set device shape"
@@ -1247,7 +1247,7 @@ msgstr "Nie udało się połączyć z serwerem, aby ustawić kształt urządzeni
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6212
 msgid "Failed to set session auto export value"
-msgstr "Nie można ustawić wartości auto-eksportu sesji"
+msgstr "Nie udało się ustawić wartości automatycznego eksportu sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6213
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6240
@@ -1256,7 +1256,7 @@ msgstr "sesja nie istnieje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6217
 msgid "Failed to contact server to set session auto export value"
-msgstr "Nie udało połączyć się z serwerem aby ustawić wartości auto-eksportu sesji"
+msgstr "Nie udało się połączyć z serwerem, aby ustawić wartość automatycznego eksportu sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6239
 msgid "Failed to set session auto purge value"
@@ -1264,7 +1264,7 @@ msgstr "Nie udało się ustawić automatycznego czyszczenia sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6244
 msgid "Failed to contact server to set session auto purge value"
-msgstr "Błąd połączenia z serwerem podczas ustawienia auto czyszczenia sesji"
+msgstr "Nie udało się połączyć z serwerem, aby ustawić wartość automatycznego czyszczenia sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6331
 msgid "Import gpx/kml session file"
