@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 12:33\n"
+"PO-Revision-Date: 2020-02-12 12:34\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1023,12 +1023,12 @@ msgstr "Nie udało się połączyć z serwerem, aby dodać alert zbliżeniowy"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4837
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4854
 msgid "URL to request when devices get close"
-msgstr "URL uruchamiany, kiedy urządzenia się zbliżą"
+msgstr "Uruchamiany adres URL, kiedy urządzenia się zbliżą"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4840
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4858
 msgid "URL to request when devices get far"
-msgstr "URL uruchamiany, kiedy urządzenia się oddalą"
+msgstr "Uruchamiany adres URL, kiedy urządzenia się oddalą"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4847
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4869
