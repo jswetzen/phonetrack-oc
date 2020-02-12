@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-11 14:04\n"
+"PO-Revision-Date: 2020-02-12 08:15\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1199,7 +1199,7 @@ msgstr "Skonfiguruj {loggingApp} do logowania się do sesji '{sessionName}'"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5448
 msgid "Are you sure you want to delete the session {session} ?"
-msgstr "Czy na pewno chcesz usunąć tą sesje {session}?"
+msgstr "Czy na pewno chcesz usunąć sesję {session}?"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5451
 msgid "Confirm session deletion"
@@ -1329,11 +1329,11 @@ msgstr "O PhoneTrack"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:32
 msgid "Import session"
-msgstr "Importuj sesje"
+msgstr "Importuj sesję"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:36
 msgid "Create session"
-msgstr "Utwórz sesje"
+msgstr "Utwórz sesję"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:40
 msgid "Session name"
