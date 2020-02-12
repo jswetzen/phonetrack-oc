@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 08:15\n"
+"PO-Revision-Date: 2020-02-12 08:25\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -402,7 +402,7 @@ msgstr "Link HTTP GET"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1866
 msgid "The session you want to delete does not exist"
-msgstr "Sesje, którą chcesz usunąć nie istnieje"
+msgstr "Sesja, którą chcesz usunąć, nie istnieje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1869
 msgid "Failed to delete session"
@@ -410,11 +410,11 @@ msgstr "Nie można usunąć sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1873
 msgid "Failed to contact server to delete session"
-msgstr "Nie udało się połączyć z serwerem, aby usunąć sesje"
+msgstr "Nie udało się połączyć z serwerem, aby usunąć sesję"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1893
 msgid "Device '{d}' of session '{s}' has been deleted"
-msgstr "Urządzenie '{d}', sesji '{s}' zostało usunięte"
+msgstr "Urządzenie '{d}' sesji '{s}' zostało usunięte"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1896
 msgid "Failed to delete device '{d}' of session '{s}'"
@@ -426,7 +426,7 @@ msgstr "Nie udało się połączyć z serwerem, aby usunąć urządzenie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1957
 msgid "Impossible to rename session"
-msgstr "Niemożliwe, aby zmienić nazwę sesji"
+msgstr "Nie można zmienić nazwy sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1961
 msgid "Failed to contact server to rename session"
@@ -454,7 +454,7 @@ msgstr "Urządzenie już istnieje w sesji docelowej"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:2162
 msgid "Impossible to move device to another session"
-msgstr "Niemożliwe przeniesienie urządzenia do innej sesji"
+msgstr "Nie można przenieść urządzenia do innej sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:2166
 msgid "Failed to contact server to move device"
@@ -565,7 +565,7 @@ msgstr "Powiadomienie e-mail"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3055
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3114
 msgid "An empty value means the session owner's email address."
-msgstr "Pusta wartość oznacza adres email właściciela sesji."
+msgstr "Pusta wartość oznacza adres e-mail właściciela sesji."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3056
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3115
@@ -645,7 +645,7 @@ msgstr "Komunikaty o zbliżanych urządzeniach"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3098
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
-msgstr "Wybierz sesje, nazwę urządzenia i odległość oraz komunikaty i dodaj."
+msgstr "Wybierz sesję, nazwę urządzenia i odległość, ustaw powiadomienia, a następnie sprawdź poprawność."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3099
 msgid "You will be notified when distance between devices gets bigger than high limit or smaller than low limit."
