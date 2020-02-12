@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 13:01\n"
+"PO-Revision-Date: 2020-02-12 13:17\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1370,7 +1370,7 @@ msgstr "punkty"
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:74
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:79
 msgid "Cutting lines only affects map view and stats table"
-msgstr "Wycięcie linii wpływa na widok mapy i statystyki"
+msgstr "Wycinanie linii wpływa tylko na widok mapy i tabelę statystyk"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
@@ -1446,7 +1446,7 @@ msgstr "Pokaż poziom baterii w podpowiedziach"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:142
 msgid "Show elevation in tooltips"
-msgstr "Pokaż elewacje w podpowiedziach"
+msgstr "Pokaż wysokość w podpowiedziach"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:146
 msgid "Show user-agent in tooltips"
@@ -1462,7 +1462,7 @@ msgstr "Pokaż okrąg dokładności przy aktywowaniu"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:158
 msgid "Line width"
-msgstr "Szerekość linii"
+msgstr "Szerokość linii"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:163
 msgid "Point radius"
@@ -1548,14 +1548,14 @@ msgstr "Na przykład: http://tile.server.org/cycle/{z}/{x}/{y}.png"
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:357
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:402
 msgid "Min zoom (1-20)"
-msgstr "Powiększenie min (1-20)"
+msgstr "Powiększenie min. (1-20)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:276
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:316
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:359
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:404
 msgid "Max zoom (1-20)"
-msgstr "Powiększenie max (1-20)"
+msgstr "Powiększenie maks. (1-20)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:278
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:322
@@ -1614,7 +1614,7 @@ msgstr "Wersja WMS"
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:365
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:414
 msgid "Layers to display"
-msgstr "Warstwy, do wyświetlenia"
+msgstr "Warstwy do wyświetlenia"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:370
 msgid "Your WMS tile servers"
@@ -1655,7 +1655,7 @@ msgstr "Usuń wiele punktów"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:466
 msgid "Choose a session, a device and adjust the filters. All displayed points for selected device will be deleted. An empty device name selects them all."
-msgstr "Wybierz sesję i urządzenie oraz ustaw filtry. Wszystkie wyświetlone punkty dla wybranego urządzenia zostaną usunięte. Brak nazwy urządzenia wybiera je wszystkie."
+msgstr "Wybierz sesję i urządzenie oraz ustaw filtry. Wszystkie wyświetlone punkty dla wybranego urządzenia zostaną usunięte. Brak nazwy urządzenia wybiera wszystkie."
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:474
 msgid "Delete points"
@@ -1680,7 +1680,7 @@ msgstr "Data rozpoczęcia"
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:501
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:519
 msgid "today"
-msgstr "dziś"
+msgstr "dzisiaj"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:506
 msgid "Begin time"
@@ -1696,11 +1696,11 @@ msgstr "Czas zakończenia"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:531
 msgid "Min-- and Max--"
-msgstr "Min-- i Max--"
+msgstr "Min.-- i Maks.--"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:534
 msgid "Min++ and Max++"
-msgstr "Min++ i Max++"
+msgstr "Min.++ i Maks.++"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:538
 msgid "Last day:hour:min"
