@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 09:45\n"
+"PO-Revision-Date: 2020-02-12 10:25\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -430,7 +430,7 @@ msgstr "Nie można zmienić nazwy sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1961
 msgid "Failed to contact server to rename session"
-msgstr "Nie udało się połączyć do serwera, aby zmienić nazwę sesji"
+msgstr "Nie udało się połączyć z serwerem, aby zmienić nazwę sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:2009
 msgid "Impossible to rename device"
@@ -438,7 +438,7 @@ msgstr "Niemożliwe, aby zmienić nazwę urządzenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:2013
 msgid "Failed to contact server to rename device"
-msgstr "Nie udało się połączyć do serwera, aby zmienić nazwę urządzenia"
+msgstr "Nie udało się połączyć z serwerem, aby zmienić nazwę urządzenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:2085
 msgid "Impossible to set device alias for {n}"
