@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 11:23\n"
+"PO-Revision-Date: 2020-02-12 11:42\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -941,11 +941,11 @@ msgstr "Pomyślnie zarezerwowano nazwę urządzenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4642
 msgid "Failed to set public share device name restriction"
-msgstr "Nie udało się zarezerwować publicznej nazwy urządzenia"
+msgstr "Nie udało się ustawić ograniczenia nazwy urządzenia udostępnionego publicznie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4645
 msgid "Failed to contact server to set public share device name restriction"
-msgstr "Nie udało się połączyć z serwerem, aby zarezerwować publiczną nazwę urządzenia"
+msgstr "Nie udało się połączyć z serwerem, aby ustawić ograniczenia nazwy urządzenia udostępnionego publicznie"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4680
 msgid "Warning : User email and server admin email must be set to receive geofencing alerts."
@@ -986,7 +986,7 @@ msgstr "tak"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4845
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4866
 msgid "Email address(es)"
-msgstr "Adres(y) email"
+msgstr "Adres(y) e-mail"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4725
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4743
@@ -997,11 +997,11 @@ msgstr "adres mailowy konta"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4769
 msgid "Failed to delete geofencing zone"
-msgstr "Nie udało się skasować wyznaczonej strefy obszaru"
+msgstr "Nie udało się usunąć wyznaczonej strefy obszaru"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4772
 msgid "Failed to contact server to delete geofencing zone"
-msgstr "Nie udało się połączyć z serwerem, aby skasować wyznaczoną strefę obszaru"
+msgstr "Nie udało się połączyć z serwerem, aby usunąć wyznaczoną strefę obszaru"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4802
 msgid "Warning : User email and server admin email must be set to receive proximity alerts."
