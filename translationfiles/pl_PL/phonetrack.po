@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 11:06\n"
+"PO-Revision-Date: 2020-02-12 11:23\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -705,7 +705,7 @@ msgstr "Wyśrodkowanie mapy na urządzeniu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3575
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
-msgstr "Punkt, który chcesz z edytować, nie możesz go edytować lub nie istnieje"
+msgstr "Punkt, który chcesz edytować, nie istnieje lub nie możesz go edytować"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3579
 msgid "Failed to contact server to edit point"
@@ -726,7 +726,7 @@ msgstr "Ręcznie dodany"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3808
 msgid "Impossible to add this point"
-msgstr "Niemożliwe, aby dodać ten punkt"
+msgstr "Nie można dodać tego punktu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3811
 msgid "User quota was reached"
@@ -902,11 +902,11 @@ msgstr "Użytkownik nie istnieje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4532
 msgid "Failed to add user share"
-msgstr "Nie udało się dodać udostępnienia użytkownika"
+msgstr "Nie udało się dodać użytkownika do udostępnienia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4535
 msgid "Failed to contact server to add user share"
-msgstr "Nie udało się połączyć z serwerem, aby udostępnić użytkownika"
+msgstr "Nie udało się połączyć z serwerem, aby dodać użytkownika do udostępnienia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4545
 msgid "Shared with {u}"
@@ -914,26 +914,26 @@ msgstr "Udostępnione dla {u}"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4570
 msgid "Failed to delete user share"
-msgstr "Nie udało się usunąć udostępnionego użytkownika"
+msgstr "Nie udało się usunąć użytkownika z udostępnienia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4573
 msgid "Failed to contact server to delete user share"
-msgstr "Nie udało się połączyć z serwerem, aby usunąć udostępnionego użytkownika"
+msgstr "Nie udało się połączyć z serwerem, aby usunąć użytkownika z udostępnienia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4591
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4615
 msgid "Public share has been successfully modified"
-msgstr "Pomyślnie zmodyfikowano udostępnianie"
+msgstr "Udostępnianie publiczne zostało pomyślnie zmodyfikowane"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4594
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4618
 msgid "Failed to modify public share"
-msgstr "Nie wprowadzono zmian w udostępnieniu"
+msgstr "Nie udało się zmodyfikować udostępnienia publicznego"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4597
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4621
 msgid "Failed to contact server to modify public share"
-msgstr "Podczas wprowadzania zmian udostępniania nie udało się połączyć z serwerem"
+msgstr "Nie udało się połączyć z serwerem, aby zmodyfikować udostępnianie publiczne"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4639
 msgid "Device name restriction has been successfully set"
