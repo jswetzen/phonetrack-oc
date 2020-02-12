@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 08:46\n"
+"PO-Revision-Date: 2020-02-12 09:14\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -138,7 +138,7 @@ msgstr "Nie udało się dodać serwera kafelki \"{ts}\""
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1023
 msgid "Failed to contact server to add tile server"
-msgstr "Nie udało się połączyć z serwerem, aby dodać kafelek serwera"
+msgstr "Nie udało się połączyć z serwerem, aby dodać serwer kafelki"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1057
 msgid "Tile server \"{ts}\" has been deleted"
@@ -206,11 +206,11 @@ msgstr "udostępnione przez {u}"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1580
 msgid "Forbid devices to log to this session"
-msgstr "Zabroń urządzeniom logowania się do tej sesji"
+msgstr "Zablokuj urządzeniom logowania się do tej sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1587
 msgid "Reserve device names"
-msgstr "Zarezerwuj nazwy urządzeń"
+msgstr "Zarezerwuj nazwę urządzenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1594
 msgid "Links for logging apps"
@@ -902,7 +902,7 @@ msgstr "Użytkownik nie istnieje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4532
 msgid "Failed to add user share"
-msgstr "Nie udało się dodać udostępnionego użytkownika"
+msgstr "Nie udało się dodać udostępnienia użytkownika"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4535
 msgid "Failed to contact server to add user share"
@@ -1273,17 +1273,17 @@ msgstr "Zaimportuj plik sesji gpx/kml"
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
 msgid "Point number quota (%s) was reached with a point of \"%s\" in session \"%s\"."
-msgstr "Limit ilości punktu (%s) został osiągnięty z punktem \"%s\" w sesji \"%s\"."
+msgstr "Limit ilości punktu (%s) został osiągnięty dla urządzenia \"%s\" w sesji \"%s\"."
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
 msgid "User \"%s\" shared PhoneTrack session \"%s\" with you."
-msgstr "Użytkownik \"%s\" udostępnił Ci sesję PhoneTrack \"%s\"."
+msgstr "Użytkownik \"%s\" udostępnił Ci sesję \"%s\" w PhoneTrack."
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:113
 #, php-format
 msgid "User \"%s\" stopped sharing PhoneTrack session \"%s\" with you."
-msgstr "Użytkownik \"%s\" przestał udostępniać Tobie sesję PhoneTrack \"%s\"."
+msgstr "Użytkownik \"%s\" przestał udostępniać Ci sesję \"%s\" w PhoneTrack."
 
 #: /var/www/html/n16/apps/phonetrack/specialAppInfoFakeDummyForL10nScript.php:3
 msgid " "
@@ -1295,7 +1295,7 @@ msgstr "Limit ilości punktu"
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:9
 msgid "Set the maximum number of points each user can store/log."
-msgstr "Ustaw maksymalną liczbę punktów, które każdy użytkownik może zapisać/zalogować."
+msgstr "Ustaw maksymalną liczbę punktów, które każdy użytkownik może przechowywać/rejestrować."
 
 #: /var/www/html/n16/apps/phonetrack/templates/admin.php:10
 msgid "Each user can choose what happens when the quota is reached : block logging or delete oldest point."
@@ -1643,7 +1643,7 @@ msgstr "Dodaj punkt"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:457
 msgid "Now, click on the map to add a point (if session is not activated, you won't see added point)"
-msgstr "Teraz, kliknij na mapę, aby dodać punkt (Jeśli sesja nie jest aktywowana, nie zobaczysz dodanego punktu)"
+msgstr "Teraz, kliknij na mapę, aby dodać punkt (jeśli sesja nie jest aktywowana, nie zobaczysz dodanego punktu)"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:458
 msgid "Cancel add point"
