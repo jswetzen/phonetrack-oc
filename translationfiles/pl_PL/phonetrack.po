@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 11:42\n"
+"PO-Revision-Date: 2020-02-12 12:33\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -374,7 +374,7 @@ msgstr "Link OsmAnd"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1740
 msgid "GpsLogger GET and POST link"
-msgstr "Link GpsLogger GET i POST URL"
+msgstr "Link GpsLogger GET i POST"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:1744
 msgid "Owntracks (HTTP mode) link"
@@ -1005,12 +1005,12 @@ msgstr "Nie udało się połączyć z serwerem, aby usunąć wyznaczoną strefę
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4802
 msgid "Warning : User email and server admin email must be set to receive proximity alerts."
-msgstr "Ostrzeżenie: Adres email użytkownika i administratora musi być ustawiony do otrzymywania powiadomień o zbliżaniu."
+msgstr "Ostrzeżenie: Adres e-mail użytkownika i administratora musi być ustawiony do otrzymywania alertów zbliżeniowych."
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4806
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4810
 msgid "Failed to add proximity alert"
-msgstr "Nie udało się dodać komunikatu"
+msgstr "Nie udało się dodać alertu zbliżeniowego"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4807
 msgid "Device or session does not exist"
@@ -1018,7 +1018,7 @@ msgstr "Urządzenie lub sesja nie istnieje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4813
 msgid "Failed to contact server to add proximity alert"
-msgstr "Nie udało się połączyć z serwerem, aby dodać komunikat"
+msgstr "Nie udało się połączyć z serwerem, aby dodać alert zbliżeniowy"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4837
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4854
@@ -1576,7 +1576,7 @@ msgstr "Niestandardowe serwery kafelki z nakładką"
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:355
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:400
 msgid "Server url"
-msgstr "Adres url serwera"
+msgstr "Adres URL serwera"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:313
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:401
