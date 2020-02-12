@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 08:25\n"
+"PO-Revision-Date: 2020-02-12 08:32\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -801,7 +801,7 @@ msgstr "Anuluj"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4181
 msgid "Impossible to zoom, there is no point to zoom on for this session"
-msgstr "Powiększenie jest niemożliwe, ponieważ brak punktu do powiększenia dla sesji"
+msgstr "Powiększenie jest niemożliwe, ponieważ brak punktu do powiększenia dla tej sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4216
 msgid "File extension must be '.gpx' or '.kml' to be imported"
@@ -809,7 +809,7 @@ msgstr "Aby plik został zaimportowany, musi mieć rozszerzenie '.gpx' lub '.kml
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4235
 msgid "Failed to create imported session"
-msgstr "Nie udało się utworzyć zaimportowanej sesji"
+msgstr "Nie udało się utworzyć importowanej sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4239
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4245
@@ -836,7 +836,7 @@ msgstr "W przesłanym pliku nie ma urządzenia do importu"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4264
 msgid "Failed to contact server to import session"
-msgstr "Nie udało się połączyć z serwerem, aby importować sesje"
+msgstr "Nie udało się połączyć z serwerem, aby importować sesję"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4285
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4292
@@ -853,11 +853,11 @@ msgstr "ale nie było żadnych punktów do wyeksportowania dla niektórych urzą
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4297
 msgid "Failed to export session"
-msgstr "Nie udało się eksportować sesji"
+msgstr "Nie udało się wyeksportować sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4302
 msgid "Failed to contact server to export session"
-msgstr "Nie udało się połączyć z serwerem, aby eksportować sesje"
+msgstr "Nie udało się połączyć z serwerem, aby wyeksportować sesję"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4333
 msgid "Failed to contact server to log position"
@@ -1187,7 +1187,7 @@ msgstr "przeglądarka"
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5223
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:211
 msgid "Log my position in this session"
-msgstr "Rejestruj moją pozycje podczas tej sesji"
+msgstr "Rejestruj moją pozycję w tej sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:5224
 msgid "Visit this link with a web browser and check \"{loglabel}\"."
@@ -1231,7 +1231,7 @@ msgstr "Nie można zmienić statusu blokady sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6115
 msgid "Failed to toggle session public status, session does not exist"
-msgstr "Nie udało się pokazać statusu publicznego, sesja nie istnieje"
+msgstr "Nie można przełączyć statusu publicznego sesji, sesja nie istnieje"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6118
 msgid "Failed to contact server to toggle session public status"
