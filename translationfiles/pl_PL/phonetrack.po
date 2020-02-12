@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 10:37\n"
+"PO-Revision-Date: 2020-02-12 11:06\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -529,7 +529,7 @@ msgstr "Ustaw alias urządzenia"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3025
 msgid "Move to another session"
-msgstr "Przenieść do innej sesji"
+msgstr "Przenieś do innej sesji"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3028
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:44
@@ -641,7 +641,7 @@ msgstr "Dodaj strefę"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3094
 msgid "Device proximity notifications"
-msgstr "Komunikaty o zbliżanych urządzeniach"
+msgstr "Powiadomienia o zbliżanych urządzeniach"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:3098
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
