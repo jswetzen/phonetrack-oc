@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-10 20:10\n"
+"PO-Revision-Date: 2020-02-13 17:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1267,7 +1267,7 @@ msgstr "No se pudo en contacto con servidor para sesión de auto purga valor"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:6331
 msgid "Import gpx/kml session file"
-msgstr ""
+msgstr "Importar archivo de sesión gpx/kml"
 
 #: /var/www/html/n16/apps/phonetrack/lib/Notification/Notifier.php:97
 #, php-format
@@ -1493,7 +1493,7 @@ msgstr "Mostrar líneas en páginas publicas"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:186
 msgid "Show points in public pages"
-msgstr ""
+msgstr "Mostrar puntos en páginas públicas"
 
 #: /var/www/html/n16/apps/phonetrack/templates/maincontent.php:188
 msgid "reload page to make changes effective"
