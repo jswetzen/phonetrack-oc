@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-18 00:39+0100\n"
-"PO-Revision-Date: 2020-02-17 23:47\n"
+"PO-Revision-Date: 2020-02-17 23:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1281,39 +1281,39 @@ msgstr "L'appareil PhoneTrack {device} de la session {session} est maintenant à
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Vous avez partagé la session PhoneTrack {session} avec {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "La session PhoneTrack {session} est maintenant partagée avec {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "Vous avez arrêté de partager la session {session} avec {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
-msgstr ""
+msgstr "La session PhoneTrack {session} n'est plus partagée avec {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Un client PhoneTrack"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/Filter.php:55
 msgid "Phonetrack"
-msgstr ""
+msgstr "Phonetrack"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr ""
+msgstr "Événements de <strong>zones de géorepérage PhoneTrack</strong>"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
-msgstr ""
+msgstr "Événements de <strong>proximité d'appareils PhoneTrack</strong>"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
-msgstr ""
+msgstr "Changements dans l'<strong>appli PhoneTrack</strong>"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:398
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:535
@@ -1324,12 +1324,12 @@ msgstr "Alerte de proximité sur PhoneTrack (%s et %s)"
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:402
 #, php-format
 msgid "PhoneTrack device %s is now closer than %s m to %s."
-msgstr ""
+msgstr "L'appareil PhoneTrack %s est maintenant à moins de %s m de %s."
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:539
 #, php-format
 msgid "PhoneTrack device %s is now farther than %s m from %s."
-msgstr ""
+msgstr "L'appareil PhoneTrack %s est maintenant à plus de %s m de %s."
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:738
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:864
@@ -1339,26 +1339,26 @@ msgstr "Alerte de géorepérage"
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:742
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr ""
+msgstr "Dans la session PhoneTrack %s, l'appareil %s est entré dans la zone de géorepérage %s."
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:868
 #, php-format
 msgid "In PhoneTrack session %s, device %s exited geofence %s."
-msgstr ""
+msgstr "Dans la session PhoneTrack %s, l'appareil %s est sorti de la zone de géorepérage %s."
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2568
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2595
 msgid "Watch session"
-msgstr ""
+msgstr "Voir la session"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2663
 msgid "PhoneTrack public access"
-msgstr ""
+msgstr "Accès public à PhoneTrack"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2664
 #, php-format
 msgid "Log to session %s"
-msgstr ""
+msgstr "Loguer dans la session %s"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Notification/Notifier.php:86
 #, php-format
@@ -1536,7 +1536,7 @@ msgstr "Dessiner les lignes avec un gradient de couleur"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Afficher la distance dans les tooltips"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
@@ -1683,23 +1683,23 @@ msgstr "Vos serveurs de tuiles"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:308
 msgid "Custom mapbox tile servers"
-msgstr ""
+msgstr "Serveurs de tuiles Mapbox personnels"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
-msgstr ""
+msgstr "Url du style.json"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:314
 msgid "For example : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
-msgstr ""
+msgstr "Par exemple : mapbox://styles/mapbox/bright-v8 ou https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
-msgstr ""
+msgstr "Jeton d'accès (clé API)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr ""
+msgstr "Vos serveur de tuiles Mapbox"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
