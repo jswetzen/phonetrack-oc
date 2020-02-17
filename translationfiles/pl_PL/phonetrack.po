@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2019-04-28 17:45+0200\n"
-"PO-Revision-Date: 2020-02-12 13:17\n"
+"PO-Revision-Date: 2020-02-17 23:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -805,7 +805,7 @@ msgstr "Powiększenie jest niemożliwe, ponieważ brak punktu do powiększenia d
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4216
 msgid "File extension must be '.gpx' or '.kml' to be imported"
-msgstr "Aby plik został zaimportowany, musi mieć rozszerzenie '.gpx' lub '.kml'."
+msgstr "Aby plik został zaimportowany, musi mieć rozszerzenie '.gpx' lub '.kml'"
 
 #: /var/www/html/n16/apps/phonetrack/js/phonetrack.js:4235
 msgid "Failed to create imported session"
