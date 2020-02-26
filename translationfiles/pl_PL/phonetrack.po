@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-26 08:48\n"
+"PO-Revision-Date: 2020-02-26 09:05\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -666,7 +666,7 @@ msgstr "Adres HTTP do żądania, kiedy urządzenia się oddalą"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3216
 msgid "Add proximity notification"
-msgstr "Dodaj powiadomienie o zbliżanych urządzeniach"
+msgstr "Dodaj powiadomienie o bliskości"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3232
 msgid "Toggle lines"
