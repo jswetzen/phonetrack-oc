@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:03\n"
+"PO-Revision-Date: 2020-02-26 08:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -619,7 +619,7 @@ msgstr "Dodaj strefę"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3184
 msgid "Device proximity notifications"
-msgstr "Powiadomienia o zbliżanych urządzeniach"
+msgstr "Powiadomienia o bliskości urządzenia"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3188
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
