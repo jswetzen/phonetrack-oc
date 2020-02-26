@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:03\n"
+"PO-Revision-Date: 2020-02-26 10:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -210,7 +210,7 @@ msgstr "Exportar a GPX"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Los archivos se crean en '{exdir}'"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
@@ -234,7 +234,7 @@ msgstr "cada mes"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1699
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "La purga automática se activa diariamente y borra los puntos más antiguos que la duración seleccionada"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1700
 msgid "Automatic purge"
@@ -787,7 +787,7 @@ msgstr "Zoom imposible, no hay ningún punto en este sesión para hacer un zoom"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4348
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "Para la importación, la extensión del archivo debe ser '.gpx', '.kml' o '.json'"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4367
 msgid "Failed to create imported session"
@@ -1108,7 +1108,7 @@ msgstr "Copia el enlace a continuación en el campo 'Dirección web de seguimien
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5381
 msgid "Go to 'settings' in the app."
-msgstr ""
+msgstr "Ve a la configuración en la app."
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5382
 msgid "Copy the link below into the 'server address' field."
@@ -1258,7 +1258,7 @@ msgstr "No se pudo en contacto con servidor para sesión de auto purga valor"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6534
 msgid "Import gpx/kml/json session file"
-msgstr ""
+msgstr "Importar archivo de sesión gpx/kml/json"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:7132
 msgid "Close elevation chart"
