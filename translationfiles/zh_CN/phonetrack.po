@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-27 14:30\n"
+"PO-Revision-Date: 2020-02-27 14:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -515,7 +515,7 @@ msgstr "设备 geofencing 区域"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3138
 msgid "Zoom on geofencing area, then set values, then validate."
-msgstr ""
+msgstr "缩放地理围栏区域，然后设定数值，然后验证。"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3139
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3199
