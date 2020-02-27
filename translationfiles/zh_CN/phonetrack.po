@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:01\n"
+"PO-Revision-Date: 2020-02-27 14:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1529
 msgid "yourname"
-msgstr ""
+msgstr "您的姓名"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1617
 msgid "Watch this session"
@@ -173,7 +173,7 @@ msgstr "由 {u} 分享"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1632
 msgid "Forbid devices to log to this session"
-msgstr ""
+msgstr "禁止设备登录到此会话"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1639
 msgid "Reserve device names"
@@ -185,7 +185,7 @@ msgstr "用于位置记录应用程序的地址"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1653
 msgid "Link to share session"
-msgstr ""
+msgstr "链接到共享会话"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1663
 msgid "Zoom on this session"
@@ -210,7 +210,7 @@ msgstr "导出到 gpx"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "文件创建于 '{exdir}'"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
@@ -399,7 +399,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2031
 msgid "Impossible to rename session"
-msgstr ""
+msgstr "无法重命名会话"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2035
 msgid "Failed to contact server to rename session"
@@ -486,7 +486,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3102
 msgid "Triangle"
-msgstr ""
+msgstr "三角形"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3106
 msgid "Delete this device"
@@ -498,7 +498,7 @@ msgstr "重命名此设备"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3111
 msgid "Set device alias"
-msgstr ""
+msgstr "设置设备别名"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3114
 msgid "Move to another session"
