@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-26 09:05\n"
+"PO-Revision-Date: 2020-03-18 12:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1116,7 +1116,7 @@ msgstr "Skopiuj poniższy link do pola adresu serwera."
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5386
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
-msgstr "W GpsLogger przejdź do „Szczegóły logowania” w menu paska bocznego, a następnie aktywuj „Rejestruj do niestandardowego adresu URL”."
+msgstr "W GpsLogger przejdź do „Szczegóły logowania” w menu paska bocznego, a następnie aktywuj „Zapisuj do niestandardowego URL-a”."
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5387
 msgid "Copy the link below into the 'URL' field."
