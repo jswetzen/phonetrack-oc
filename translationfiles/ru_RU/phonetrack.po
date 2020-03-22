@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:03\n"
+"PO-Revision-Date: 2020-03-22 18:56\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -787,7 +787,7 @@ msgstr "Невозможно масштабировать, т. к. нет точ
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4348
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "Расширение импортируемого файла должно быть '.gpx', '.kml' или '.json'"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4367
 msgid "Failed to create imported session"
@@ -1108,7 +1108,7 @@ msgstr "Скопируйте URL расположенный ниже в поле
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5381
 msgid "Go to 'settings' in the app."
-msgstr ""
+msgstr "Перейдите в «Настройки» в приложении."
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5382
 msgid "Copy the link below into the 'server address' field."
@@ -1258,7 +1258,7 @@ msgstr "Ошибка подключения к серверу при устан�
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6534
 msgid "Import gpx/kml/json session file"
-msgstr ""
+msgstr "Импорт сессии gpx/kml/json"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:7132
 msgid "Close elevation chart"
@@ -1266,23 +1266,23 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr ""
+msgstr "Устройство {device} сессии {session} вошел в зону {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr ""
+msgstr "Устройство {device} сессии {session} вышел из зоны {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "Устройство {device} сессии {session} находится ближе чем {meters} м от устройства {device2} сессии {session2}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr ""
+msgstr "Устройство {device} сеанса {session} находится дальше чем {meters} м от устройства {device2} сессии {session2}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Вы поделились сеансом PhoneTrack {session} с {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
@@ -1298,7 +1298,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Клиент PhoneTrack"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
