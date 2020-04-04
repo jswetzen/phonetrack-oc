@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:02\n"
+"PO-Revision-Date: 2020-04-04 00:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
@@ -290,7 +290,7 @@ msgstr "Kullanıcı adını yazın ve 'Enter' tuşuna basın"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "Kullanıcı Adı"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
@@ -575,11 +575,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3157
 msgid "North"
-msgstr ""
+msgstr "Kuzey"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3159
 msgid "South"
-msgstr ""
+msgstr "Güney"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3163
 msgid "Set North/East corner by clicking on the map"
@@ -735,7 +735,7 @@ msgstr "Hassasiyet"
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4072
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4160
 msgid "Speed"
-msgstr ""
+msgstr "Hız"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4075
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4165
@@ -779,7 +779,7 @@ msgstr "İptal"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4144
 msgid "Distance"
-msgstr ""
+msgstr "Mesafe"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4313
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -954,28 +954,28 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5013
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5017
 msgid "no"
-msgstr ""
+msgstr "hayır"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4898
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4902
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5015
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5019
 msgid "yes"
-msgstr ""
+msgstr "evet"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4912
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4929
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5032
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5053
 msgid "Email address(es)"
-msgstr ""
+msgstr "E-posta adresleri"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4912
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4930
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5032
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5053
 msgid "account mail address"
-msgstr ""
+msgstr "hesap e-posta adresi"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4956
 msgid "Failed to delete geofencing zone"
