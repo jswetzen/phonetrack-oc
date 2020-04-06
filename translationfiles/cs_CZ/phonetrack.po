@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:01\n"
+"PO-Revision-Date: 2020-04-06 00:37\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -234,7 +234,7 @@ msgstr "každý měsíc"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1699
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "Automatické čištění je spuštěno denně a odstraní body starší než zvolená doba trvání"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1700
 msgid "Automatic purge"
@@ -290,7 +290,7 @@ msgstr "Zadejte uživatelské jméno a stiskněte \"Enter\""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "uživatelské jméno"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
@@ -363,7 +363,7 @@ msgstr "Odkaz pro OpenGTS"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr ""
+msgstr "Pozemní spojení"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
@@ -460,33 +460,33 @@ msgstr "Chyba kontaktování serveru při změně barvy zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3085
 msgid "Geo link to open position in other app/software"
-msgstr ""
+msgstr "Geo odkaz na otevření pozice v jiné aplikaci/software"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3087
 msgid "Geo link QRcode to open position with a QRcode scanner"
-msgstr ""
+msgstr "Geo odkaz QRcode pro otevření pozice se skenerem QRcode"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3089
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3091
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3093
 msgid "Get driving direction to this device with {s}"
-msgstr ""
+msgstr "Směr jízdy tohoto zařízení s {s}"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3098
 msgid "Set device shape"
-msgstr ""
+msgstr "Nastavit tvar zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3100
 msgid "Round"
-msgstr ""
+msgstr "Kruh"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3101
 msgid "Square"
-msgstr ""
+msgstr "Čtverec"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3102
 msgid "Triangle"
-msgstr ""
+msgstr "Trojúhelník"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3106
 msgid "Delete this device"
@@ -502,7 +502,7 @@ msgstr "Nastavit zařízení alias"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3114
 msgid "Move to another session"
-msgstr ""
+msgstr "Přesunout do jiné relace"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3117
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:44
@@ -511,7 +511,7 @@ msgstr "Ok"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3134
 msgid "Device geofencing zones"
-msgstr ""
+msgstr "Zóny geofencingu zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3138
 msgid "Zoom on geofencing area, then set values, then validate."
@@ -575,11 +575,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3157
 msgid "North"
-msgstr ""
+msgstr "Sever"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3159
 msgid "South"
-msgstr ""
+msgstr "Jih"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3163
 msgid "Set North/East corner by clicking on the map"
@@ -599,15 +599,15 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3171
 msgid "East"
-msgstr ""
+msgstr "Východ"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3173
 msgid "West"
-msgstr ""
+msgstr "Západ"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3176
 msgid "Fence name"
-msgstr ""
+msgstr "Jméno plotu"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3177
 msgid "Use current map view as geofencing zone"
