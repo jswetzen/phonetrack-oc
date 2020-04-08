@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-26 10:40\n"
+"PO-Revision-Date: 2020-04-08 09:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -1266,31 +1266,31 @@ msgstr "Cerrar tabla de elevación"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr ""
+msgstr "El dispositivo PhoneTrack {device} de la sesión {session} ha entrado en el geovallado {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr ""
+msgstr "El dispositivo PhoneTrack {device} de la sesión {session} ha salido del geovallado {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "Dispositivo PhoneTrack {device} de la sesión {session} está ahora a menos de {meters} m de {device2} de la sesión {session2}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr ""
+msgstr "Dispositivo PhoneTrack {device} de la sesión {session} está ahora a más de {meters} m de {device2} de la sesión {session2}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Has compartido la sesión PhoneTrack {session} con {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "La sesión PhoneTrack {session} ha sido compartida con {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "Has dejado de compartir la sesión {session} con {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
