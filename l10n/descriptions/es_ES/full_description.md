@@ -11,17 +11,17 @@
 Cómo usar PhoneTrack:
 
 * Crea una sesión de rastreo.
-* Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Da el enlace de registro\* a los dispositivos móviles. Elija el [método de seguimiento](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) que prefiera.
+* Vea la ubicación de los dispositivos de la sesión en tiempo real (o no) en PhoneTrack o compártela con páginas públicas.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). Sustituye "tunombre" con el nombre que desees del dispositivo. Configurar el nombre del dispositivo en la app de registro solo funciona con Owntracks, Traccar y OpenGTS.
+(\*) No olvide establecer el nombre del dispositivo en el enlace (en lugar de en la configuración de la aplicación de seguimiento). Sustituye "tunombre" con el nombre que desees del dispositivo. Configurar el nombre del dispositivo en la app de registro solo funciona con Owntracks, Traccar y OpenGTS.
 
 En la página principal de PhoneTrack, mientras vigilas una sesión, puedes:
 
 * 📍 Mostrar el historial de localizaciones
 * ⛛ Filtrar puntos
 * ► Editar/añadir/borrar puntos manualmente
-* ✎ Edit devices (rename, change color/shape, move to another session)
+* ✓ Editar dispositivos (cambiar nombre, cambiar color/forma, ir a otra sesión)
 * ⛶ Define geofencing zones for devices
 * ⚇ Define proximity alerts for device pairs
 * 🖧 Share a session to other Nextcloud users or with a public link (read-only)
@@ -34,11 +34,11 @@ En la página principal de PhoneTrack, mientras vigilas una sesión, puedes:
 
 Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+Esta aplicación está probada en Nextcloud 17 con Firefox 57+ y Chromium.
 
-This app is compatible with theming colors and accessibility themes !
+¡Esta aplicación es compatible con colores temáticos y temas de accesibilidad!
 
-This app is under development.
+Esta aplicación está en desarrollo.
 
 ## Install
 
