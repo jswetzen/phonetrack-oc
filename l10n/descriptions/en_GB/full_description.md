@@ -36,7 +36,7 @@ Public page and public filtered page work like main page except there is only on
 
 This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
 
-This app is compatible with theming colors and accessibility themes !
+This app is compatible with theming colours and accessibility themes !
 
 This app is under development.
 
