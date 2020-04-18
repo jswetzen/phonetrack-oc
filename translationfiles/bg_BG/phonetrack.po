@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:02\n"
+"PO-Revision-Date: 2020-04-18 16:20\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -42,31 +42,31 @@ msgstr "дясно"
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:627
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:102
 msgid "Show lines"
-msgstr "Покажи линии"
+msgstr "Показване на линии"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:635
 msgid "Hide lines"
-msgstr "Скрий линии"
+msgstr "Скриване на линии"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:656
 msgid "Activate automatic zoom"
-msgstr "Вклюви автоматично приближаване"
+msgstr "Задействане на автоматично приближаване"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:664
 msgid "Disable automatic zoom"
-msgstr "Изключи автоматично приближаване"
+msgstr "Изключване на автоматично приближаване"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:685
 msgid "Show last point tooltip"
-msgstr "Покажи информация за последната точка"
+msgstr "Показване на подсказка за последната точка"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:693
 msgid "Hide last point tooltip"
-msgstr "Скрий информация за последната точка"
+msgstr "Скриване на подсказка за последната точка"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:714
 msgid "Zoom on all devices"
-msgstr "Приближи всички устройства"
+msgstr "Приближаване на всички устройства"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:727
 msgid "Click on the map to move the point, press ESC to cancel"
@@ -210,7 +210,7 @@ msgstr "Експортирай в gpx"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Файловете са създадени в '{exdir}'"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1689
 msgid "Automatic export"
@@ -290,7 +290,7 @@ msgstr "Напишете име на ползвателя и натиснете 
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "потребителско име"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
@@ -538,7 +538,7 @@ msgstr "Е-мейл известяване"
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3144
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3204
 msgid "Comma separated e-mail address list"
-msgstr ""
+msgstr "Списък с имейл адреси, разделени със запетая"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3145
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3205
@@ -779,7 +779,7 @@ msgstr "Откажи"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4144
 msgid "Distance"
-msgstr ""
+msgstr "Разстояние"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4313
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -1108,7 +1108,7 @@ msgstr "Копирайте връзката по-долу в полето „У�
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5381
 msgid "Go to 'settings' in the app."
-msgstr ""
+msgstr "Към 'настройки' в приложението."
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5382
 msgid "Copy the link below into the 'server address' field."
@@ -1684,11 +1684,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
-msgstr ""
+msgstr "URL адрес на Style.json"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:314
 msgid "For example : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
-msgstr ""
+msgstr "Например: mapbox://styles/mapbox/bright-v8 или https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
