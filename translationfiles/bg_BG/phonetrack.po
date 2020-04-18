@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-04-18 16:45\n"
+"PO-Revision-Date: 2020-04-18 16:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -1894,7 +1894,7 @@ msgstr "Запазване на маркера на филтъра"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:718
 msgid "Statistics"
-msgstr "Статистики"
+msgstr "Статистика"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:722
 msgid "Show stats"
