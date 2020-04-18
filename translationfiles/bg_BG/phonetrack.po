@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-04-18 16:26\n"
+"PO-Revision-Date: 2020-04-18 16:45\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -286,7 +286,7 @@ msgstr "Сподели с друг потребител"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1737
 msgid "Type user name and press 'Enter'"
-msgstr "Напишете име на ползвателя и натиснете \"Продължи\""
+msgstr "Напишете потребителско име и натиснете 'Enter'"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
@@ -474,11 +474,11 @@ msgstr "Получи упътване за шофиране на това уст
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3098
 msgid "Set device shape"
-msgstr "Задай формата на устройството"
+msgstr "Задаване на форма на устройството"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3100
 msgid "Round"
-msgstr "Кръгъл"
+msgstr "Кръг"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3101
 msgid "Square"
@@ -490,11 +490,11 @@ msgstr "Триъгълник"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3106
 msgid "Delete this device"
-msgstr "Изтриване на това устройство"
+msgstr "Изтриване на устройството"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3108
 msgid "Rename this device"
-msgstr "Преименуване на това устройство"
+msgstr "Преименуване на устройството"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3111
 msgid "Set device alias"
@@ -700,7 +700,7 @@ msgstr "Грешка при връзка със сървъра, за изтри�
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3896
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3933
 msgid "Manually added"
-msgstr "Ръчно добавен"
+msgstr "Ръчно добавено"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3914
 msgid "Impossible to add this point"
@@ -725,7 +725,7 @@ msgstr "Час"
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4066
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4148
 msgid "Altitude"
-msgstr "Височина"
+msgstr "Надморска висина"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4069
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4153
@@ -735,7 +735,7 @@ msgstr "Точност"
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4072
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4160
 msgid "Speed"
-msgstr "Скорост"
+msgstr "Бързина"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4075
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4165
@@ -745,7 +745,7 @@ msgstr "Посока"
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4078
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4170
 msgid "Satellites"
-msgstr "Сателити"
+msgstr "Спътници"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4081
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4175
@@ -767,15 +767,15 @@ msgstr "DMS кординати"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4096
 msgid "Save"
-msgstr "Запази"
+msgstr "Запазване"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4098
 msgid "Move"
-msgstr "Премести"
+msgstr "Преместване"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4099
 msgid "Cancel"
-msgstr "Откажи"
+msgstr "Отказ"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4144
 msgid "Distance"
@@ -1213,7 +1213,7 @@ msgstr "Наистина ли искате да изтриете устройс�
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6237
 msgid "Confirm device deletion"
-msgstr "Потвърдете изтриването на устройството"
+msgstr "Потвърждаване на изтриването на устройството"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6290
 msgid "Failed to change session lock status"
@@ -1410,7 +1410,7 @@ msgstr "Всеки потребител може да избере какво щ
 
 #: /var/www/html/n18/apps/phonetrack/templates/admin.php:11
 msgid "An empty value means no limit."
-msgstr "Празна стойност означава без ограничение."
+msgstr "Празната стойност означава без ограничение."
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:4
 msgid "Main tab"
@@ -1452,7 +1452,7 @@ msgstr "Опции"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:61
 msgid "General"
-msgstr "Основни"
+msgstr "Общи"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:64
 msgid "Refresh each (sec)"
@@ -1460,7 +1460,7 @@ msgstr "Обновяване на всеки (сек)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:67
 msgid "Refresh"
-msgstr "Обновяване"
+msgstr "Опресняване"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:69
 msgid "An empty value means no limit"
@@ -1517,7 +1517,7 @@ msgstr "Автоматично мащабиране"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:106
 msgid "Show tooltips"
-msgstr "Показвай съветите"
+msgstr "Показване на подсказки"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:110
 msgid "Display first letter of device name on last position"
@@ -1589,15 +1589,15 @@ msgstr "Тема"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:179
 msgid "bright"
-msgstr "яркост"
+msgstr "ярка"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:180
 msgid "pastel"
-msgstr "пастел"
+msgstr "пастелна"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:181
 msgid "dark"
-msgstr "тъмно"
+msgstr "тъмна"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:187
 msgid "Show lines in public pages"
@@ -1672,7 +1672,7 @@ msgstr "Макс. увеличение (1-20)"
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:407
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:456
 msgid "Add"
-msgstr "Добави"
+msgstr "Добавяне"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:282
 msgid "Your tile servers"
