@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-05-07 18:47\n"
+"PO-Revision-Date: 2020-05-07 19:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovenian\n"
 "Language: sl_SI\n"
@@ -700,11 +700,11 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3896
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3933
 msgid "Manually added"
-msgstr ""
+msgstr "Ročno dodano"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3914
 msgid "Impossible to add this point"
-msgstr ""
+msgstr "Te točke ni mogoče dodati"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3917
 msgid "User quota was reached"
