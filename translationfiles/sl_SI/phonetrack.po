@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-02-24 20:58+0100\n"
-"PO-Revision-Date: 2020-02-24 20:02\n"
+"PO-Revision-Date: 2020-05-07 18:47\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovenian\n"
 "Language: sl_SI\n"
@@ -25,11 +25,11 @@ msgstr "PhoneTrack"
 
 #: /var/www/html/n18/apps/phonetrack/js/admin.js:19
 msgid "Quota was successfully saved"
-msgstr ""
+msgstr "Količinska omejitev je uspešno shranjena"
 
 #: /var/www/html/n18/apps/phonetrack/js/admin.js:23
 msgid "Failed to save quota"
-msgstr ""
+msgstr "Shranjevanje količinske omejitve je spodletelo"
 
 #: /var/www/html/n18/apps/phonetrack/js/leaflet.js:5
 msgid "left"
@@ -50,31 +50,31 @@ msgstr "Skrij črte"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:656
 msgid "Activate automatic zoom"
-msgstr ""
+msgstr "Omogoči samodejno približanje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:664
 msgid "Disable automatic zoom"
-msgstr ""
+msgstr "Onemogoči samodejno približanje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:685
 msgid "Show last point tooltip"
-msgstr ""
+msgstr "Pokaži podatke zadnje točke"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:693
 msgid "Hide last point tooltip"
-msgstr ""
+msgstr "Skrij podatke zadnje točke"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:714
 msgid "Zoom on all devices"
-msgstr ""
+msgstr "Približaj na vse naprave"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:727
 msgid "Click on the map to move the point, press ESC to cancel"
-msgstr ""
+msgstr "Klik na zemljevid omogoča premikanje točke, ubežna tipka ESC dejanje prekliče."
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:974
 msgid "Server name or server address should not be empty"
-msgstr ""
+msgstr "Ime oziroma naslov strežnika ne more biti prazno polje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:977
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:986
@@ -83,7 +83,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:983
 msgid "A server with this name already exists"
-msgstr ""
+msgstr "Strežnik s tem imenom že obstaja"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1021
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4097
@@ -97,7 +97,7 @@ msgstr "Izbriši"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1066
 msgid "Tile server \"{ts}\" has been added"
-msgstr ""
+msgstr "Dodan je strežnik »{ts}«"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1069
 msgid "Failed to add tile server \"{ts}\""
@@ -129,7 +129,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6291
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6322
 msgid "Reload this page"
-msgstr ""
+msgstr "Osveži stran"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1347
 msgid "Failed to contact server to save options values"
@@ -149,23 +149,23 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1472
 msgid "Session name should not be empty"
-msgstr ""
+msgstr "Ime seje ne more biti prazno polje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1489
 msgid "Session name already used"
-msgstr ""
+msgstr "Ime seje je že v uporabi"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1493
 msgid "Failed to contact server to create session"
-msgstr ""
+msgstr "Povezava s strežnikom za ustvarjanje seje je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1529
 msgid "yourname"
-msgstr ""
+msgstr "vašeime"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1617
 msgid "Watch this session"
-msgstr ""
+msgstr "Sledi seji"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1623
 msgid "shared by {u}"
@@ -173,19 +173,19 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1632
 msgid "Forbid devices to log to this session"
-msgstr ""
+msgstr "Zavrni beleženje naprav v tej seji"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1639
 msgid "Reserve device names"
-msgstr ""
+msgstr "Ohrani imena naprav"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1646
 msgid "Links for logging apps"
-msgstr ""
+msgstr "Povezave za programe"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1653
 msgid "Link to share session"
-msgstr ""
+msgstr "Povezava za beleženje seje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1663
 msgid "Zoom on this session"
@@ -194,7 +194,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1666
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3094
 msgid "More actions"
-msgstr ""
+msgstr "Več dejanj"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1678
 msgid "Delete session"
@@ -206,7 +206,7 @@ msgstr "Preimenuj sejo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1683
 msgid "Export to gpx"
-msgstr "Izvozi v GPX"
+msgstr "Izvozi GPX"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1688
 msgid "Files are created in '{exdir}'"
@@ -238,23 +238,23 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1700
 msgid "Automatic purge"
-msgstr ""
+msgstr "Samodejno brisanje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1702
 msgid "don't purge"
-msgstr ""
+msgstr "ne briši"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1703
 msgid "a day"
-msgstr ""
+msgstr "dnevno"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1704
 msgid "a week"
-msgstr ""
+msgstr "tedensko"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1705
 msgid "a month"
-msgstr ""
+msgstr "mesečno"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1714
 msgid "Name reservation is optional."
@@ -290,7 +290,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1738
 msgid "user name"
-msgstr ""
+msgstr "uporabniško ime"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1745
 msgid "A private session is not visible on public browser logging page"
@@ -302,15 +302,15 @@ msgstr "Javna seja"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1754
 msgid "Public watch link"
-msgstr ""
+msgstr "Javna povezava ogleda"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1756
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "Naslov URL vmesnika API (JSON, zadnji položaji)"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1758
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "Naslov URL vmesnika API (JSON, vsi položaji)"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1764
 msgid "Current active filters will be applied on shared view"
@@ -322,20 +322,20 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1775
 msgid "Session token"
-msgstr ""
+msgstr "Žeton seje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1781
 msgid "List of links to configure logging apps server settings."
-msgstr ""
+msgstr "Seznam povezav za nastavljanje povezave programov s strežnikom."
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1782
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:225
 msgid "Replace 'yourname' with the desired device name or with the name reservation token"
-msgstr ""
+msgstr "Zamenjajte »vašeime«> z imenom naprave ali z žetonom"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1784
 msgid "Public browser logging link"
-msgstr ""
+msgstr "Povezava za javni brskalnik"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1789
 msgid "OsmAnd link"
@@ -343,11 +343,11 @@ msgstr "Povezava OsmAnd"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1794
 msgid "GpsLogger GET and POST link"
-msgstr ""
+msgstr "Povezava GpsLogger GET in POST"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1798
 msgid "Owntracks (HTTP mode) link"
-msgstr ""
+msgstr "Povezava Owntracks (način HTTP)"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1802
 msgid "Ulogger link"
@@ -363,27 +363,27 @@ msgstr "Povezava OpenGTS"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1814
 msgid "Overland link"
-msgstr ""
+msgstr "Povezava Overland"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1818
 msgid "Locus Map link"
-msgstr ""
+msgstr "Povezava Locus Map"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1822
 msgid "HTTP GET link"
-msgstr ""
+msgstr "Povezava HTTP GET"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1940
 msgid "The session you want to delete does not exist"
-msgstr ""
+msgstr "Seja, ki jo poskušate izbrisati, ne obstaja"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1943
 msgid "Failed to delete session"
-msgstr ""
+msgstr "Brisanje seje je spodletelo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1947
 msgid "Failed to contact server to delete session"
-msgstr ""
+msgstr "Povezava s strežnikom za brisanje seje je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:1967
 msgid "Device '{d}' of session '{s}' has been deleted"
@@ -399,64 +399,64 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2031
 msgid "Impossible to rename session"
-msgstr ""
+msgstr "Seje ni mogoče preimenovati"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2035
 msgid "Failed to contact server to rename session"
-msgstr ""
+msgstr "Povezava s strežnikom za preimenovanje seje je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2083
 msgid "Impossible to rename device"
-msgstr ""
+msgstr "Ni mogoče preimenovati naprave"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2087
 msgid "Failed to contact server to rename device"
-msgstr ""
+msgstr "Povezava s strežnikom za preimenovanje naprave je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2159
 msgid "Impossible to set device alias for {n}"
-msgstr ""
+msgstr "Ni mogoče nastaviti imena naprave za {n}"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2163
 msgid "Failed to contact server to set device alias"
-msgstr ""
+msgstr "Povezava s strežnikom za spremembo imena naprave je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2233
 msgid "Device already exists in target session"
-msgstr ""
+msgstr "Naprava v ciljni seji že obstaja"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2236
 msgid "Impossible to move device to another session"
-msgstr ""
+msgstr "Ni mogoče premakniti naprave v drugo sejo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2240
 msgid "Failed to contact server to move device"
-msgstr ""
+msgstr "Povezava s strežnikom za premikanje naprave je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2310
 msgid "Failed to contact server to get sessions"
-msgstr ""
+msgstr "Povezava s strežnikom za pridobivanje sej je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2739
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2766
 msgid "Stats of all points"
-msgstr ""
+msgstr "Statistika vseh točk"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:2763
 msgid "Stats of filtered points"
-msgstr ""
+msgstr "Statistika filtriranih točk"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3006
 msgid "Device's color successfully changed"
-msgstr ""
+msgstr "Barva oznake naprave je uspešno spremenjena"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3009
 msgid "Failed to save device's color"
-msgstr ""
+msgstr "Shranjevanje barve naprave je spodletelo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3013
 msgid "Failed to contact server to change device's color"
-msgstr ""
+msgstr "Povezava s strežnikom za spreminjanje barve oznake naprave je spodletela"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3085
 msgid "Geo link to open position in other app/software"
@@ -494,20 +494,20 @@ msgstr "Izbriši napravo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3108
 msgid "Rename this device"
-msgstr ""
+msgstr "Preimenuj napravo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3111
 msgid "Set device alias"
-msgstr ""
+msgstr "Nastavi ime naprave"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3114
 msgid "Move to another session"
-msgstr ""
+msgstr "Premakni v drugo sejo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3117
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:44
 msgid "Ok"
-msgstr ""
+msgstr "V redu"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3134
 msgid "Device geofencing zones"
@@ -524,7 +524,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5029
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5048
 msgid "Nextcloud notification"
-msgstr ""
+msgstr "Obvestila Nextcloud"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3141
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3201
@@ -533,7 +533,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5030
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5050
 msgid "Email notification"
-msgstr ""
+msgstr "Obvestila po elektronski pošti"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3144
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3204
@@ -559,7 +559,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3208
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3212
 msgid "Use POST method"
-msgstr ""
+msgstr "Uporabi metodo POST"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3151
 msgid "HTTP address to request when leaving (\"%loc\" will be replaced by \"latitude:longitude\")"
@@ -615,11 +615,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3178
 msgid "Add zone"
-msgstr ""
+msgstr "Dodaj območje"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3184
 msgid "Device proximity notifications"
-msgstr ""
+msgstr "Obvestila bližine naprave"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3188
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
@@ -650,7 +650,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3198
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:77
 msgid "meters"
-msgstr ""
+msgstr "metri"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3196
 msgid "High distance limit"
@@ -670,16 +670,16 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3232
 msgid "Toggle lines"
-msgstr ""
+msgstr "Preklopi črte"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3240
 msgid "Follow this device (autozoom)"
-msgstr ""
+msgstr "Sledi napravi (samodejno približanje)"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3253
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3260
 msgid "Center map on device"
-msgstr ""
+msgstr "Postavi napravo v središče zemljevida"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:3681
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
@@ -730,7 +730,7 @@ msgstr "Nadmorska višina"
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4069
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4153
 msgid "Precision"
-msgstr ""
+msgstr "Natančnost"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4072
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4160
@@ -771,15 +771,15 @@ msgstr "Shrani"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4098
 msgid "Move"
-msgstr ""
+msgstr "Premakni"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4099
 msgid "Cancel"
-msgstr ""
+msgstr "Prekliči"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4144
 msgid "Distance"
-msgstr ""
+msgstr "Razdalja"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4313
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -798,7 +798,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4383
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4389
 msgid "Failed to import session"
-msgstr ""
+msgstr "Uvoz seje je spodletel"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4372
 msgid "File is not readable"
@@ -806,11 +806,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4378
 msgid "File does not exist"
-msgstr ""
+msgstr "Datoteka ne obstaja"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4384
 msgid "Malformed XML file"
-msgstr ""
+msgstr "Napačno oblikovana datoteka XML"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4390
 msgid "There is no device to import in submitted file"
@@ -835,7 +835,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4429
 msgid "Failed to export session"
-msgstr ""
+msgstr "Izvoz seje je spodletel"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:4434
 msgid "Failed to contact server to export session"
@@ -1040,11 +1040,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5140
 msgid "Show this device only"
-msgstr ""
+msgstr "Pokaži le to napravo"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5142
 msgid "Show last positions only"
-msgstr ""
+msgstr "Pokaži le zadnji položaj"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5144
 msgid "Simplify positions to nearest geofencing zone center"
@@ -1068,11 +1068,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5273
 msgid "device name"
-msgstr ""
+msgstr "ime naprave"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5274
 msgid "distance (km)"
-msgstr ""
+msgstr "razdalja (km)"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:5275
 msgid "duration"
@@ -1242,7 +1242,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6416
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6443
 msgid "session does not exist"
-msgstr ""
+msgstr "seja ne obstaja"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6420
 msgid "Failed to contact server to set session auto export value"
@@ -1258,7 +1258,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:6534
 msgid "Import gpx/kml/json session file"
-msgstr ""
+msgstr "Uvozi datoteko seje gpx/kml/json"
 
 #: /var/www/html/n18/apps/phonetrack/js/phonetrack.js:7132
 msgid "Close elevation chart"
@@ -1346,7 +1346,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2568
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2595
 msgid "Watch session"
-msgstr ""
+msgstr "Seja za spremljanje"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2663
 msgid "PhoneTrack public access"
@@ -1427,20 +1427,20 @@ msgstr "Statistika"
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:15
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:263
 msgid "Settings and extra actions"
-msgstr ""
+msgstr "Nastavitve in dodatne možnosti"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:16
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:730
 msgid "About PhoneTrack"
-msgstr ""
+msgstr "O programu"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:32
 msgid "Import session"
-msgstr ""
+msgstr "Uvozi sejo"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:36
 msgid "Create session"
-msgstr ""
+msgstr "Ustvari sejo"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:40
 msgid "Session name"
@@ -1468,11 +1468,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:71
 msgid "Max number of points per device to load on refresh"
-msgstr ""
+msgstr "Največje število točk za nalaganje med osvežitvijo naprave"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:72
 msgid "points"
-msgstr ""
+msgstr "točke"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:74
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:79
@@ -1481,51 +1481,51 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
-msgstr ""
+msgstr "Najmanjša razdalja za rez med dvema točkama"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
-msgstr ""
+msgstr "Najmanjši čas za rez med dvema točkama"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
-msgstr ""
+msgstr "sekunde"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:85
 msgid "When point quota is reached"
-msgstr ""
+msgstr "Ko je dosežena količinska omejitev"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:87
 msgid "block logging"
-msgstr ""
+msgstr "zaustavi beleženje"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:88
 msgid "delete user's oldest point each time a new one is logged"
-msgstr ""
+msgstr "izbriši uporabnikovo najstarejšo točko vsakič, ko je zabeležena nova"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:89
 msgid "delete device's oldest point each time a new one is logged"
-msgstr ""
+msgstr "izbriši najstarejšo točko naprave vsakič, ko je zabeležena nova"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:93
 msgid "Display"
-msgstr ""
+msgstr "Prikaz"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:98
 msgid "Auto zoom"
-msgstr ""
+msgstr "Samodejno približaj"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:106
 msgid "Show tooltips"
-msgstr ""
+msgstr "Pokaži podatke"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:110
 msgid "Display first letter of device name on last position"
-msgstr ""
+msgstr "Prikaži prvo črko imena naprave na zadnjem mestu"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:114
 msgid "Show direction arrows along lines"
-msgstr ""
+msgstr "Pokaži smerne puščice na črtah"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
@@ -1533,39 +1533,39 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Pokaži razdaljo med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
-msgstr ""
+msgstr "Pokaži natančnost med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
-msgstr ""
+msgstr "Pokaži hitrost med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
-msgstr ""
+msgstr "Pokaži smer med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
-msgstr ""
+msgstr "Pokaži satelite med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:142
 msgid "Show battery level in tooltips"
-msgstr ""
+msgstr "Pokaži polnost baterije med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:146
 msgid "Show elevation in tooltips"
-msgstr ""
+msgstr "Pokaži nadmorsko višino med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:150
 msgid "Show user-agent in tooltips"
-msgstr ""
+msgstr "Pokaži odjemalca med podatki"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:154
 msgid "Make points draggable in edition mode"
-msgstr ""
+msgstr "Točke naj bodo premakljive v načinu urejanja"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:158
 msgid "Show accuracy circle on hover"
@@ -1573,15 +1573,15 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:162
 msgid "Line width"
-msgstr ""
+msgstr "Širina črt"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:167
 msgid "Point radius"
-msgstr ""
+msgstr "Radij točke"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:172
 msgid "Points and lines opacity"
-msgstr ""
+msgstr "Prosojnost točk in črt"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:177
 msgid "Theme"
@@ -1601,11 +1601,11 @@ msgstr "temna"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:187
 msgid "Show lines in public pages"
-msgstr ""
+msgstr "Pokaži črte na javnih straneh"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:189
 msgid "reload page to make changes effective"
-msgstr ""
+msgstr "za uveljavitev je treba osvežiti stran"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:193
 msgid "File export"
@@ -1613,15 +1613,15 @@ msgstr "Izvoz datoteke"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:196
 msgid "Auto export path"
-msgstr ""
+msgstr "Pot za samodejen izvoz"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:202
 msgid "Export one file per device"
-msgstr ""
+msgstr "Izvozi eno datoteko za napravo"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:217
 msgid "Tracking sessions"
-msgstr ""
+msgstr "Seje sledenja"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:268
 msgid "Custom tile servers"
@@ -1744,7 +1744,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:405
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:454
 msgid "Layers to display"
-msgstr ""
+msgstr "Plasti za prikaz"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:410
 msgid "Your WMS tile servers"
@@ -1760,7 +1760,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:488
 msgid "Manually add a point"
-msgstr ""
+msgstr "Ročno dodaj točko"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:494
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:512
@@ -1769,15 +1769,15 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:496
 msgid "Add a point"
-msgstr ""
+msgstr "Dodaj točko"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:497
 msgid "Now, click on the map to add a point (if session is not activated, you won't see added point)"
-msgstr ""
+msgstr "Sedaj kliknite na zemljevid za dodajanje točke (če seja ni dejavna, točka ne bo vidna)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:498
 msgid "Cancel add point"
-msgstr ""
+msgstr "Prekliči dodajanje točke"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:503
 msgid "Delete multiple points"
@@ -1789,7 +1789,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:514
 msgid "Delete points"
-msgstr ""
+msgstr "Izbriši točke"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:515
 msgid "Delete only visible points"
@@ -1801,11 +1801,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:529
 msgid "Apply filters"
-msgstr ""
+msgstr "Uveljavi filtre"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:534
 msgid "Begin date"
-msgstr ""
+msgstr "Začetni datum"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:541
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:559
@@ -1814,23 +1814,23 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:546
 msgid "Begin time"
-msgstr ""
+msgstr "Začetni čas"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:552
 msgid "End date"
-msgstr ""
+msgstr "Končni datum"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:564
 msgid "End time"
-msgstr ""
+msgstr "Končni čas"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:571
 msgid "Min-- and Max--"
-msgstr ""
+msgstr "Min-- in Max--"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:574
 msgid "Min++ and Max++"
-msgstr ""
+msgstr "Min++ in Max++"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:578
 msgid "Last day:hour:min"
@@ -1838,59 +1838,59 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:585
 msgid "Minimum accuracy"
-msgstr ""
+msgstr "Najmanjša natančnost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:593
 msgid "Maximum accuracy"
-msgstr ""
+msgstr "Največja natančnost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:601
 msgid "Minimum elevation"
-msgstr ""
+msgstr "Najmanjša nadmorska višina"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:609
 msgid "Maximum elevation"
-msgstr ""
+msgstr "Največja nadmorska višina"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:617
 msgid "Minimum battery level"
-msgstr ""
+msgstr "Najmanjša raven baterije"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:625
 msgid "Maximum battery level"
-msgstr ""
+msgstr "Največja raven baterije"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:633
 msgid "Minimum speed"
-msgstr ""
+msgstr "Najmanjša hitrost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:641
 msgid "Maximum speed"
-msgstr ""
+msgstr "Največja hitrost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:649
 msgid "Minimum bearing"
-msgstr ""
+msgstr "Najmanjša smer"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:657
 msgid "Maximum bearing"
-msgstr ""
+msgstr "Največja smer"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:665
 msgid "Minimum satellites"
-msgstr ""
+msgstr "Najmanjše število satelitov"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:673
 msgid "Maximum satellites"
-msgstr ""
+msgstr "Največje število satelitov"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:683
 msgid "bookmark name"
-msgstr ""
+msgstr "ime zaznamka"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:685
 msgid "Save filter bookmark"
-msgstr ""
+msgstr "Shrani ime zaznamka"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:718
 msgid "Statistics"
@@ -1898,19 +1898,19 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:722
 msgid "Show stats"
-msgstr ""
+msgstr "Pokaži statistiko"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:732
 msgid "Shortcuts"
-msgstr ""
+msgstr "Tipkovne bližnjice"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:734
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Preklopi bočno okno"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:738
 msgid "Documentation"
-msgstr ""
+msgstr "Dokumentacija"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:746
 msgid "Source management"
