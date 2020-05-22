@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-05-19 19:41\n"
+"PO-Revision-Date: 2020-05-22 13:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Slovenian\n"
 "Language: sl_SI\n"
@@ -1525,35 +1525,35 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr "Pokaži razdaljo med podatki"
+msgstr "Pokaži razdaljo"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
-msgstr "Pokaži natančnost med podatki"
+msgstr "Pokaži natančnost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
-msgstr "Pokaži hitrost med podatki"
+msgstr "Pokaži hitrost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
-msgstr "Pokaži smer med podatki"
+msgstr "Pokaži smer"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
-msgstr "Pokaži satelite med podatki"
+msgstr "Pokaži podatke satelitov"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:142
 msgid "Show battery level in tooltips"
-msgstr "Pokaži polnost baterije med podatki"
+msgstr "Pokaži polnost baterije"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:146
 msgid "Show elevation in tooltips"
-msgstr "Pokaži nadmorsko višino med podatki"
+msgstr "Pokaži nadmorsko višino"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:150
 msgid "Show user-agent in tooltips"
-msgstr "Pokaži odjemalca med podatki"
+msgstr "Pokaži odjemalca"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:154
 msgid "Make points draggable in edition mode"
@@ -1789,7 +1789,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:522
 msgid "Filter points"
-msgstr ""
+msgstr "Filtriraj točke"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:529
 msgid "Apply filters"
@@ -1886,7 +1886,7 @@ msgstr "Shrani ime zaznamka"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:718
 msgid "Statistics"
-msgstr ""
+msgstr "Statistika"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:722
 msgid "Show stats"
