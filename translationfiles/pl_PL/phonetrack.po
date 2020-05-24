@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-05-19 19:42\n"
+"PO-Revision-Date: 2020-05-24 14:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -313,7 +313,7 @@ msgstr "Link do sesji udostępniania"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1700
 msgid "Zoom on this session"
-msgstr "Zbliżenie na tą sesję"
+msgstr "Zbliżenie na sesję"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1703
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3142
@@ -455,7 +455,7 @@ msgstr "Lista linków do konfiguracji ustawień rejestracji serwera dla aplikacj
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1819
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:225
 msgid "Replace 'yourname' with the desired device name or with the name reservation token"
-msgstr "Zastąp 'yourname' na nazwę wybranego urządzenia lub na token zarezerwowanej nazwy"
+msgstr "Zastąp 'yourname' na nazwę wybranego urządzenia lub na token zarezerwowanej nazwy."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1821
 msgid "Public browser logging link"
