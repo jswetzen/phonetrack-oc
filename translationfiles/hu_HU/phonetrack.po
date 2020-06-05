@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-06-05 20:27\n"
+"PO-Revision-Date: 2020-06-05 20:39\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -434,15 +434,15 @@ msgstr "API URL (JSON, utolsó pozíció)"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1795
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "API URL (JSON, összes pozíció)"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1801
 msgid "Current active filters will be applied on shared view"
-msgstr ""
+msgstr "Jelenlegi szűrők alkalmazva lesznek a megosztott nézeten"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1803
 msgid "Add public filtered share"
-msgstr ""
+msgstr "Szűrt nyilvános megosztás"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1812
 msgid "Session token"
