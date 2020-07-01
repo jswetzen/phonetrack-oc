@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-01 14:32\n"
+"PO-Revision-Date: 2020-07-01 14:36\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1507,7 +1507,7 @@ msgstr "Zobrazení"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:98
 msgid "Auto zoom"
-msgstr ""
+msgstr "Automatické přiblížení"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:106
 msgid "Show tooltips"
@@ -1579,19 +1579,19 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:177
 msgid "Theme"
-msgstr ""
+msgstr "Vzhled"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:179
 msgid "bright"
-msgstr ""
+msgstr "světlý"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:180
 msgid "pastel"
-msgstr ""
+msgstr "pastelový"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:181
 msgid "dark"
-msgstr ""
+msgstr "tmavý"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:187
 msgid "Show lines in public pages"
@@ -1603,15 +1603,15 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:193
 msgid "File export"
-msgstr ""
+msgstr "Export souboru"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:196
 msgid "Auto export path"
-msgstr ""
+msgstr "Popis umístění pro automatický export"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:202
 msgid "Export one file per device"
-msgstr ""
+msgstr "Pro každé zařízení exportovat zvlášť soubor"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:217
 msgid "Tracking sessions"
@@ -1627,7 +1627,7 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:393
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:438
 msgid "Server name"
-msgstr ""
+msgstr "Název serveru"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:272
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:312
@@ -1635,30 +1635,30 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:394
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:439
 msgid "For example : my custom server"
-msgstr ""
+msgstr "Například: můj vlastní server"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:273
 msgid "Server address"
-msgstr ""
+msgstr "Adresa serveru"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:274
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:396
 msgid "For example : http://tile.server.org/cycle/{z}/{x}/{y}.png"
-msgstr ""
+msgstr "Například: http://tile.server.org/cycle/{z}/{x}/{y}.png"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:275
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:354
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:397
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:442
 msgid "Min zoom (1-20)"
-msgstr ""
+msgstr "Nejmenší přiblížení (1-20)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:277
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:356
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:399
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:444
 msgid "Max zoom (1-20)"
-msgstr ""
+msgstr "Nejvyšší přiblížení (1-20)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:279
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:317
@@ -1666,11 +1666,11 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:407
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:456
 msgid "Add"
-msgstr ""
+msgstr "Přidat"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:282
 msgid "Your tile servers"
-msgstr ""
+msgstr "Vaše servery s mapovými podklady"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:308
 msgid "Custom mapbox tile servers"
@@ -1686,7 +1686,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
-msgstr ""
+msgstr "Přístupový token (klíč k aplikačnímu program. rozhraní)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
@@ -1700,12 +1700,12 @@ msgstr ""
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:395
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:440
 msgid "Server url"
-msgstr ""
+msgstr "Url adresa serveru"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:353
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:441
 msgid "For example : http://overlay.server.org/cycle/{z}/{x}/{y}.png"
-msgstr ""
+msgstr "Například: http://overlay.server.org/cycle/{z}/{x}/{y}.png"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:358
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:446
@@ -1795,20 +1795,20 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:529
 msgid "Apply filters"
-msgstr ""
+msgstr "Použít filtry"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:534
 msgid "Begin date"
-msgstr ""
+msgstr "Datum začátku"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:541
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:559
 msgid "today"
-msgstr ""
+msgstr "dnes"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:546
 msgid "Begin time"
-msgstr ""
+msgstr "Čas začátku"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:552
 msgid "End date"
