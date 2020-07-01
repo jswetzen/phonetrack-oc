@@ -1242,7 +1242,7 @@ msgstr "Zkopírujte níže uvedený odkaz do kolonky „adresa serveru“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5455
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
-msgstr ""
+msgstr "V GpsLogger, jděte do „Podrobnosti zaznamenávání“ v postranní nabídce, pak aktivujte „Zaznamenávat na uživatelsky určenou URL“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5456
 msgid "Copy the link below into the 'URL' field."
@@ -1466,7 +1466,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:72
 msgid "points"
-msgstr ""
+msgstr "body"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:74
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:79
