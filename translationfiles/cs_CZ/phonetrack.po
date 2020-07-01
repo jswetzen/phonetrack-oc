@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-01 14:48\n"
+"PO-Revision-Date: 2020-07-01 20:03\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -27,11 +27,11 @@ msgstr "Phonetrack"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr ""
+msgstr "PhoneTrack zařízení {device} relace {session} vstoupilo do geooplocení {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr ""
+msgstr "PhoneTrack zařízení {device} relace {session} opustilo geooplocení {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
@@ -697,7 +697,7 @@ msgstr "Souřadnice oblasti geooplocení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3203
 msgid "leave blank to use current map bounds"
-msgstr ""
+msgstr "pokud chcete použít stávající ohraničení mapy, ponechte prázdné"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3205
 msgid "North"
