@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-16 04:41\n"
+"PO-Revision-Date: 2020-07-16 04:50\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1359,11 +1359,11 @@ msgstr "Nepodařilo se nastavit tvar zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6462
 msgid "Failed to contact server to set device shape"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně nastavení tvaru zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6484
 msgid "Failed to set session auto export value"
-msgstr ""
+msgstr "Nepodařilo se nastavit hodnotu automatického exportu relace"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6485
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6512
@@ -1372,23 +1372,23 @@ msgstr "relace neexistuje"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6489
 msgid "Failed to contact server to set session auto export value"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně nastavení hodnoty automatického exportu"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6511
 msgid "Failed to set session auto purge value"
-msgstr ""
+msgstr "Nepodařilo se nastavit hodnotu automatického vymazání relace"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6516
 msgid "Failed to contact server to set session auto purge value"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně nastavení hodnoty automatického mazání relace"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6603
 msgid "Import gpx/kml/json session file"
-msgstr ""
+msgstr "Naimportovat bpx/kml/json soubor s relací"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:7201
 msgid "Close elevation chart"
-msgstr ""
+msgstr "Zavřít graf převýšení"
 
 #: /var/www/html/n18/apps/phonetrack/templates/admin.php:8
 msgid "Point number quota"
@@ -1396,15 +1396,15 @@ msgstr "Kvóta počtu bodů"
 
 #: /var/www/html/n18/apps/phonetrack/templates/admin.php:9
 msgid "Set the maximum number of points each user can store/log."
-msgstr ""
+msgstr "Nastavte nejvyšší umožněný počet bodů, které každý z uživatelů může uložit/zaznamenat."
 
 #: /var/www/html/n18/apps/phonetrack/templates/admin.php:10
 msgid "Each user can choose what happens when the quota is reached : block logging or delete oldest point."
-msgstr ""
+msgstr "Každý uživatel si může vybrat co se stane, když dojde k dosažení kvóty: odmítnutí dalšího záznamu nebo smazání nejstaršího bodu."
 
 #: /var/www/html/n18/apps/phonetrack/templates/admin.php:11
 msgid "An empty value means no limit."
-msgstr ""
+msgstr "Prázdná hodnota znamená bez omezení."
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:4
 msgid "Main tab"
@@ -1434,31 +1434,31 @@ msgstr "Importovat relaci"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:36
 msgid "Create session"
-msgstr ""
+msgstr "Vytvořit relaci"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:40
 msgid "Session name"
-msgstr ""
+msgstr "Název relace"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:53
 msgid "Options"
-msgstr ""
+msgstr "Možnosti"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:61
 msgid "General"
-msgstr ""
+msgstr "Obecné"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:64
 msgid "Refresh each (sec)"
-msgstr ""
+msgstr "Aktualizovat každých (sek.)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:67
 msgid "Refresh"
-msgstr ""
+msgstr "Aktualizovat"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:69
 msgid "An empty value means no limit"
-msgstr ""
+msgstr "Prázdná hodnota znamená bez omezení"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:71
 msgid "Max number of points per device to load on refresh"
