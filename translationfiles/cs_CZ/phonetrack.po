@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-01 20:03\n"
+"PO-Revision-Date: 2020-07-16 04:41\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -111,7 +111,7 @@ msgstr "Sledovat relaci"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2663
 msgid "PhoneTrack public access"
-msgstr ""
+msgstr "Veřejný přístup k PhoneTrack"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/PageController.php:2664
 #, php-format
@@ -737,7 +737,7 @@ msgstr "Jméno plotu"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3225
 msgid "Use current map view as geofencing zone"
-msgstr ""
+msgstr "Použít aktuální zobrazení mapy jako geofencing zónu"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3226
 msgid "Add zone"
@@ -745,15 +745,15 @@ msgstr "Přidat oblast"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3232
 msgid "Device proximity notifications"
-msgstr ""
+msgstr "Upozornění na blízkost zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3236
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
-msgstr ""
+msgstr "Vyberte relaci, název zařízení a vzdálenost, nastavte upozorňování a pak ověřte."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3237
 msgid "You will be notified when distance between devices gets bigger than high limit or smaller than low limit."
-msgstr ""
+msgstr "Budete upozorněni pokud se vzdálenost mezi zařízeními zvětší než horní limit nebo zmenší pod spodní limit."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3238
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:490
@@ -784,53 +784,53 @@ msgstr "Horní hranice vzdálenosti"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3255
 msgid "HTTP address to request when devices get close"
-msgstr ""
+msgstr "HTTP adresa kterou si vyžádat, když se zařízení přiblíží"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3259
 msgid "HTTP address to request when devices get far"
-msgstr ""
+msgstr "HTTP adresa, kterou si vyžádat, když se zařízení vzdálí"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3264
 msgid "Add proximity notification"
-msgstr ""
+msgstr "Přidat upozornění na vzdálenost"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3280
 msgid "Toggle lines"
-msgstr ""
+msgstr "Přepnout řádky"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3288
 msgid "Follow this device (autozoom)"
-msgstr ""
+msgstr "Následovat toto zařízení (automatické přiblížení)"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3301
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3308
 msgid "Center map on device"
-msgstr ""
+msgstr "Vystředit mapu na zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3729
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
-msgstr ""
+msgstr "Bod který chcete upravovat buď neexistuje nebo nemáte oprávnění ho upravovat"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3733
 msgid "Failed to contact server to edit point"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně úpravy bodu"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3851
 msgid "The point you want to delete does not exist or you're not allowed to delete it"
-msgstr ""
+msgstr "Bod který chcete smazat buď neexistuje nebo nemáte oprávnění ho mazat"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3855
 msgid "Failed to contact server to delete point"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně smazání bodu"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3944
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3981
 msgid "Manually added"
-msgstr ""
+msgstr "Ručně přidané"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3962
 msgid "Impossible to add this point"
-msgstr ""
+msgstr "Tento bod není možné přidat"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:3965
 msgid "User quota was reached"
@@ -905,7 +905,7 @@ msgstr "Zrušit"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4192
 msgid "Distance"
-msgstr ""
+msgstr "Vzdálenost"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4361
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -913,7 +913,7 @@ msgstr "Nelze přiblížit, v této relaci nejsou žádné body k přiblížení
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4396
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "Aby bylo možné importovat je třeba, aby přípona souboru byla „.gpx“, „.kml“ nebo „.json“"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4415
 msgid "Failed to create imported session"
@@ -924,40 +924,40 @@ msgstr "Chyba při vytváření importované relace"
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4431
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4437
 msgid "Failed to import session"
-msgstr ""
+msgstr "Import relace se nezdařil"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4420
 msgid "File is not readable"
-msgstr ""
+msgstr "Soubor není čitelný"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4426
 msgid "File does not exist"
-msgstr ""
+msgstr "Soubor neexistuje"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4432
 msgid "Malformed XML file"
-msgstr ""
+msgstr "Poškozený XML soubor"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4438
 msgid "There is no device to import in submitted file"
-msgstr ""
+msgstr "V poskytnutém souboru není žádné zařízení k importu"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4444
 msgid "Failed to contact server to import session"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně importu relace"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4465
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4472
 msgid "Session successfully exported in"
-msgstr ""
+msgstr "Relace úspěšně exportována do"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4469
 msgid "There is no point to export for this session"
-msgstr ""
+msgstr "Pro tuto relaci není žádný důvod exportovat"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4473
 msgid "but there was no point to export for some devices"
-msgstr ""
+msgstr "ale neměl smysl exportovat pro některá zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:4477
 msgid "Failed to export session"
@@ -1154,7 +1154,7 @@ msgstr "Nepodařilo se odstranit upozornění na přiblížení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5156
 msgid "Failed to contact server to delete proximity alert"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně smazání výstrahy při přiblížení se"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5175
 msgid "Failed to add public share"
@@ -1355,7 +1355,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6459
 msgid "Failed to set device shape"
-msgstr ""
+msgstr "Nepodařilo se nastavit tvar zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6462
 msgid "Failed to contact server to set device shape"
