@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-16 07:21\n"
+"PO-Revision-Date: 2020-07-16 07:31\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1278,7 +1278,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5476
 msgid "In LocusMap, copy the link below into the 'server URL' field. It works with POST and GET methods."
-msgstr ""
+msgstr "V LocusMap, zkopírujte níže uvedený odkaz do kolonky „URL adresa serveru“. Funguje s metodami POST a GET."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5480
 msgid "You can log with any other client with a simple HTTP request."
@@ -1523,15 +1523,15 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
-msgstr ""
+msgstr "Vykreslit čáru s barevným přechodem"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Zobrazovat v popiscích vzdálenost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
-msgstr ""
+msgstr "Zobrazovat v popiscích přesnost"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
@@ -1595,11 +1595,11 @@ msgstr "tmavý"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:187
 msgid "Show lines in public pages"
-msgstr ""
+msgstr "Zobrazovat čáry ve veřejných stránkách"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:189
 msgid "reload page to make changes effective"
-msgstr ""
+msgstr "aby se změny promítly, načtěte stránku znovu"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:193
 msgid "File export"
@@ -1619,7 +1619,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:268
 msgid "Custom tile servers"
-msgstr ""
+msgstr "Uživatelsky určené servery s dlaždicemi mapových podkladů"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:271
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:311
@@ -1678,11 +1678,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
-msgstr ""
+msgstr "Url adresa style.json"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:314
 msgid "For example : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
-msgstr ""
+msgstr "Například: mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
