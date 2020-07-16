@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-16 05:12\n"
+"PO-Revision-Date: 2020-07-16 05:21\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1315,7 +1315,7 @@ msgstr "Nastavte {loggingApp} pro zaznamenávání do relace „{sessionName}“
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5720
 msgid "Are you sure you want to delete the session {session} ?"
-msgstr ""
+msgstr "Opravdu chcete relaci {session} smazat?"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5723
 msgid "Confirm session deletion"
@@ -1327,11 +1327,11 @@ msgstr "Zvolte cestu k automatickému exportu"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5959
 msgid "Select storage location for '{fname}'"
-msgstr ""
+msgstr "Vyberte umístění úložiště pro „{fname}“"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6181
 msgid "Geo QRcode : last position of {dname}"
-msgstr ""
+msgstr "Geo QR kód: poslední pozice {dname}"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6303
 msgid "Are you sure you want to delete the device {device} ?"
