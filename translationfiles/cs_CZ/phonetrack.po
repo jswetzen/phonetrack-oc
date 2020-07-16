@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-16 05:31\n"
+"PO-Revision-Date: 2020-07-16 07:21\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1246,11 +1246,11 @@ msgstr "V GpsLogger, jděte do „Podrobnosti zaznamenávání“ v postranní n
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5456
 msgid "Copy the link below into the 'URL' field."
-msgstr ""
+msgstr "Níže uvedený odkaz zkopírujte do kolonky „URL“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5460
 msgid "In the Owntracks preferences menu, go to 'Connections'."
-msgstr ""
+msgstr "V nabídce předvoleb pro Owntrack, jděte do „Připojení“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5461
 msgid "Change the connection Mode to 'Private HTTP', Copy the link below into the 'Host' field."
@@ -1270,7 +1270,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5468
 msgid "Activate 'Live synchronization'."
-msgstr ""
+msgstr "Aktivovat „Synchronizaci v reálném čase“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5472
 msgid "In Traccar client, copy the link below into the 'server URL' field."
