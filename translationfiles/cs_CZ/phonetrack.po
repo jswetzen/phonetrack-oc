@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-16 04:50\n"
+"PO-Revision-Date: 2020-07-16 05:12\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -35,7 +35,7 @@ msgstr "PhoneTrack zařízení {device} relace {session} opustilo geooplocení {
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "PhoneTrack zařízení {device} relace {session} je nyní blíže než {meters} m od {device2} relace {session2}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
@@ -1294,7 +1294,7 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5485
 msgid "OpenGTS compatible logger"
-msgstr ""
+msgstr "Zaznamenávač kompatibilní s OpenGTS"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5488
 msgid "the browser"
@@ -1307,11 +1307,11 @@ msgstr "Ukládej mou pozici v této relaci"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5490
 msgid "Visit this link with a web browser and check \"{loglabel}\"."
-msgstr ""
+msgstr "Navštivte tento odkaz ve webovém prohlížeči a podívejte se na „{loglabel}“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5493
 msgid "Configure {loggingApp} for logging to session '{sessionName}'"
-msgstr ""
+msgstr "Nastavte {loggingApp} pro zaznamenávání do relace „{sessionName}“"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5720
 msgid "Are you sure you want to delete the session {session} ?"
