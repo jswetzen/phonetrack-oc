@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-16 05:21\n"
+"PO-Revision-Date: 2020-07-16 05:31\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1335,7 +1335,7 @@ msgstr "Geo QR kód: poslední pozice {dname}"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6303
 msgid "Are you sure you want to delete the device {device} ?"
-msgstr ""
+msgstr "Opravdu chcete zařízení {device} smazat?"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6306
 msgid "Confirm device deletion"
@@ -1343,15 +1343,15 @@ msgstr "Potvrďte smazání zařízení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6359
 msgid "Failed to change session lock status"
-msgstr ""
+msgstr "Změna stavu zámku relace se nezdařila"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6387
 msgid "Failed to toggle session public status, session does not exist"
-msgstr ""
+msgstr "Nepodařilo se přepnout stav veřejnosti relace – ta neexistuje"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6390
 msgid "Failed to contact server to toggle session public status"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně přepnutí stavu veřejnosti relace"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6459
 msgid "Failed to set device shape"
@@ -1543,15 +1543,15 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
-msgstr ""
+msgstr "Zobrazovat v popiscích satelity"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:142
 msgid "Show battery level in tooltips"
-msgstr ""
+msgstr "Zobrazovat v popiscích míru nabití akumulátoru"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:146
 msgid "Show elevation in tooltips"
-msgstr ""
+msgstr "Zobrazovat v popiscích nadmořskou výšku"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:150
 msgid "Show user-agent in tooltips"
