@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-25 17:29\n"
+"PO-Revision-Date: 2020-07-28 09:48\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -299,7 +299,7 @@ msgstr "Geteilt von {u}"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1669
 msgid "Forbid devices to log to this session"
-msgstr "Geräten verbieten, sich an dieser Sitzung anzumelden"
+msgstr "Geräten verbieten, Daten dieser Sitzung zu protokollieren"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1676
 msgid "Reserve device names"
