@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-16 07:31\n"
+"PO-Revision-Date: 2020-07-28 16:06\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1158,11 +1158,11 @@ msgstr "Nepodařilo se kontaktovat server ohledně smazání výstrahy při při
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5175
 msgid "Failed to add public share"
-msgstr ""
+msgstr "Nepodařilo se přidat veřejné sdílení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5178
 msgid "Failed to contact server to add public share"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně přidání veřejného sdílení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5209
 msgid "Show this device only"
@@ -1174,7 +1174,7 @@ msgstr "Zobrazit pouze poslední pozice"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5213
 msgid "Simplify positions to nearest geofencing zone center"
-msgstr ""
+msgstr "Zjednodušit pozice k nejbližšímu středu oblasti geooplocení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5232
 msgid "No filters"
@@ -1186,11 +1186,11 @@ msgstr "Nepodařilo se odstranit veřejné sdílení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5259
 msgid "Failed to contact server to delete public share"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně smazání veřejného sdílení"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5300
 msgid "Failed to contact server to get user list"
-msgstr ""
+msgstr "Nepodařilo se kontaktovat server ohledně získání seznamu uživatelů"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5342
 msgid "device name"
@@ -1226,11 +1226,11 @@ msgstr "dní"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5445
 msgid "In OsmAnd, go to 'Plugins' in the main menu, then activate 'Trip recording' plugin and go to its settings."
-msgstr ""
+msgstr "V OsmAnd, jděte „Zásuvné moduly“ v hlavní nabídce, zde aktivujte modul „Záznam trasy“ a přejděte do jeho nastavení."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5446
 msgid "Copy the link below into the 'Online tracking web address' field."
-msgstr ""
+msgstr "Níže uvedený odkaz zkopírujte do kolonky „Webová adresa online sledování“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5450
 msgid "Go to 'settings' in the app."
@@ -1254,19 +1254,19 @@ msgstr "V nabídce předvoleb pro Owntrack, jděte do „Připojení“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5461
 msgid "Change the connection Mode to 'Private HTTP', Copy the link below into the 'Host' field."
-msgstr ""
+msgstr "Změňte režim připojení na „Soukromé HTTP“ a zkopírujte níže uvedený odkaz do kolonky „Hostitel“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5462
 msgid "Leave settings under 'Identification' blank as they are not required."
-msgstr ""
+msgstr "Nastavení pod „Identifikace“ nevyplňujte – nejsou potřeba."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5466
 msgid "In Ulogger, go to settings menu and copy the link below into the 'Server URL' field."
-msgstr ""
+msgstr "V Ulogger, jděte do nabídky nastavení a zkopírujte níže uvedený odkaz do kolonky „URL adresa serveru“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5467
 msgid "Set 'User name' and 'Password' mandatory fields to any value as they will be ignored by PhoneTrack."
-msgstr ""
+msgstr "Do povinných kolonek „Uživatelské jméno“ a „Heslo“ vyplňte libovolné hodnoty, protože PhoneTrack je nepoužívá."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5468
 msgid "Activate 'Live synchronization'."
@@ -1274,7 +1274,7 @@ msgstr "Aktivovat „Synchronizaci v reálném čase“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5472
 msgid "In Traccar client, copy the link below into the 'server URL' field."
-msgstr ""
+msgstr "V klientovi Traccar, zkopírujte níže uvedený odkaz do kolonky „URL adresa serveru“."
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:5476
 msgid "In LocusMap, copy the link below into the 'server URL' field. It works with POST and GET methods."
@@ -1475,11 +1475,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
-msgstr ""
+msgstr "Minimální vzdálenost, aby už bylo považováno za dva body"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
-msgstr ""
+msgstr "Minimální doba, po které uplynutí považovat za dva body"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
@@ -1563,11 +1563,11 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:158
 msgid "Show accuracy circle on hover"
-msgstr ""
+msgstr "Při najetí myší ukázat okruh přesnosti"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:162
 msgid "Line width"
-msgstr ""
+msgstr "Tloušťka čáry"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:167
 msgid "Point radius"
@@ -1763,19 +1763,19 @@ msgstr ""
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:496
 msgid "Add a point"
-msgstr ""
+msgstr "Přidat bod"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:497
 msgid "Now, click on the map to add a point (if session is not activated, you won't see added point)"
-msgstr ""
+msgstr "Nyní klikněte na mapu a přidejte bod (pokud relace není aktivována, bod nepůjde přidat)"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:498
 msgid "Cancel add point"
-msgstr ""
+msgstr "Zrušit přidávání bodu"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:503
 msgid "Delete multiple points"
-msgstr ""
+msgstr "Smazání vícero bodů"
 
 #: /var/www/html/n18/apps/phonetrack/templates/maincontent.php:506
 msgid "Choose a session, a device and adjust the filters. All displayed points for selected device will be deleted. An empty device name selects them all."
