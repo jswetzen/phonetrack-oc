@@ -42,7 +42,7 @@ Na této aplikaci stále ještě probíhá intenzivní vývoj.
 
 ## Nainstalovat
 
-See the [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) for installation details.
+Podrobnosti ohledně instalace naleznete v [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc).
 
 Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
 
