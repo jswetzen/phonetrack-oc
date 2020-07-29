@@ -4,13 +4,13 @@ PhoneTrack je aplikace pro Nextcloud pro sledování a uchovávání pozice mobi
 
 Informace získává ze záznamových aplikací pro mobilní telefony a průběžně je zobrazuje na mapě.
 
-🌍 Help us to translate this app on [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
+🌍 Pomozte nám s překládáním textů v rozhraní této aplikace v rámci [projektu PhoneTrack na službě Crowdin](https://crowdin.com/project/phonetrack).
 
 ⚒ Check out other ways to help in the [contribution guidelines](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
 Jak PhoneTrack používat:
 
-* Create a tracking session.
+* Vytvořit relaci sledování.
 * Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
 * Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
 
