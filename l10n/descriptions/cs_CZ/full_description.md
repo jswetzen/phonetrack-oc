@@ -18,25 +18,25 @@ Jak PhoneTrack používat:
 
 On PhoneTrack main page, while watching a session, you can :
 
-* 📍 Display location history
-* ⛛ Filter points
-* ✎ Manually edit/add/delete points
-* ✎ Edit devices (rename, change color/shape, move to another session)
-* ⛶ Define geofencing zones for devices
-* ⚇ Define proximity alerts for device pairs
-* 🖧 Share a session to other Nextcloud users or with a public link (read-only)
+* 📍 Zobrazí historii polohy
+* ⛛ Filtrovat body
+* ✎ Ruční upravování/přidávání/mazání bodů
+* ✎ Upravit zařízení (přejmenovat, změnit barvu/tvar, přesunout do jiné relace)
+* ⛶ Definovat oblasti geooplocení pro zařízení
+* ⚇ Definovat výstrahy přiblížení pro dvojice zařízení
+* 🖧 Sdílet relaci ostatním uživatelům Nextcloud nebo veřejným odkazem (pouze pro čtení)
 * 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
 * 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
-* 🗠 Display sessions statistics
-* 🔒 [Reserve a device name](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) to make sure only authorized user can log with this name
-* 🗓 Toggle session auto export and auto purge (daily/weekly/monthly)
-* ◔ Choose what to do when point number quota is reached (block logging or delete oldest point)
+* 🗠 Zobrazit statistiky relace
+* 🔒 [Zarezervovat název zařízení](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) abyste se ujistili, že pouze pověřený uživatel se může tímto názvem přihlásit
+* 🗓 Přepnout automatický export relace a automatické vyčištění (denně/týdně/měsíčně)
+* ◔ Zvolte co dělat, když je dosaženo kvóty počtu bodů (blokovat zaznamenávání nebo smazání nejstaršího bodu)
 
 Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+Tato aplikace je zkoušená na Nextcloud 17 a prohlížečích Firefox 57 a novějším a Chromium.
 
-This app is compatible with theming colors and accessibility themes !
+Tato aplikace je kompatibilní s barvami motivu vzhledu a motivy pro zpřístupnění!
 
 Na této aplikaci stále ještě probíhá intenzivní vývoj.
 
