@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-09-04 11:17\n"
+"PO-Revision-Date: 2020-09-04 11:30\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -67,27 +67,27 @@ msgstr "<strong>PhoneTrack geokerítés</strong> események"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
-msgstr "<strong>PhoneTrack eszköz közeli</strong> események"
+msgstr "<strong>PhoneTrack eszközközelségi</strong> események"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
-msgstr ""
+msgstr "Változások a <strong>PhoneTrack alkalmazásban</strong>"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:398
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:535
 #, php-format
 msgid "PhoneTrack proximity alert (%s and %s)"
-msgstr ""
+msgstr "PhoneTrack közelségi riasztás (%s és %s)"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:402
 #, php-format
 msgid "PhoneTrack device %s is now closer than %s m to %s."
-msgstr ""
+msgstr "A %s PhoneTrack eszköz %s méternél közelebb került a következőhöz: %s."
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:539
 #, php-format
 msgid "PhoneTrack device %s is now farther than %s m from %s."
-msgstr ""
+msgstr "A %s PhoneTrack eszköz %s méternél távolabb került a következőtől: %s."
 
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:738
 #: /var/www/html/n18/apps/phonetrack/lib/Controller/LogController.php:864
