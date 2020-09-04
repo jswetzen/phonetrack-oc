@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-09-04 10:56\n"
+"PO-Revision-Date: 2020-09-04 11:15\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
@@ -35,35 +35,35 @@ msgstr "A {session} munkamenethez tartozó {device} PhoneTrack eszköz kilépett
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "A {session} munkamenethez tartozó {device} PhoneTrack eszköz {meters} méteres közelségbe került a {session2} munkamenethez tartozó {device2} eszközhöz"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr ""
+msgstr "A {session} munkamenethez tartozó {device} PhoneTrack eszköz {meters} méternél távolabb került a {session2} munkamenethez tartozó {device2} eszközhöz"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "A {session} PhoneTrack munkamenetet megosztottad vele: {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "A {session} PhoneTrack munkamenetet sikeresen megosztottad vele: {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "A {session} PhoneTrack munkamenet megosztást visszavontad tőle: {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
-msgstr ""
+msgstr "A {session} PhoneTrack munkamenet megosztását sikeresen visszavontad tőle: {who}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "PhoneTrack alkalmazás"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr ""
+msgstr "<strong>PhoneTrack geokerítés</strong> események"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
@@ -295,7 +295,7 @@ msgstr "Munkamenet figyelése"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1660
 msgid "shared by {u}"
-msgstr "segosztva tőle: {u}"
+msgstr "megosztva tőle: {u}"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:1669
 msgid "Forbid devices to log to this session"
