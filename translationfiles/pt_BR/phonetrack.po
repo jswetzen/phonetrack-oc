@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-20 15:43\n"
+"PO-Revision-Date: 2020-09-11 08:44\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -27,11 +27,11 @@ msgstr "PhoneTrack"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr "O dispositivo PhoneTrack {device} da sessão {session} inseriu a cerca geográfica {cerca geográfica}"
+msgstr "O dispositivo PhoneTrack {device} da sessão {session} inseriu a cerca geográfica {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr "O dispositivo PhoneTrack {device} da sessão {session} saiu da cerca geográfica {cerca geográfica}"
+msgstr "O dispositivo PhoneTrack {device} da sessão {session} saiu da cerca geográfica {geofence}"
 
 #: /var/www/html/n18/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
