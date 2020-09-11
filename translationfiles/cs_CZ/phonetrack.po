@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-05-19 21:40+0200\n"
-"PO-Revision-Date: 2020-07-28 16:31\n"
+"PO-Revision-Date: 2020-09-11 08:45\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1384,7 +1384,7 @@ msgstr "Nepodařilo se kontaktovat server ohledně nastavení hodnoty automatick
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:6603
 msgid "Import gpx/kml/json session file"
-msgstr "Naimportovat bpx/kml/json soubor s relací"
+msgstr "Naimportovat gpx/kml/json soubor s relací"
 
 #: /var/www/html/n18/apps/phonetrack/src/phonetrack.js:7201
 msgid "Close elevation chart"
