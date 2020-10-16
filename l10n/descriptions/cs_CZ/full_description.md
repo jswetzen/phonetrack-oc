@@ -6,7 +6,7 @@ Informace získává ze záznamových aplikací pro mobilní telefony a průbě�
 
 🌍 Pomozte nám s překládáním textů v rozhraní této aplikace v rámci [projektu PhoneTrack na službě Crowdin](https://crowdin.com/project/phonetrack).
 
-⚒ Check out other ways to help in the [contribution guidelines](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
+⚒ Podívejte se na další způsoby, jak pomoci v [pokynech pro přispěvatele](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
 Jak PhoneTrack používat:
 
@@ -32,7 +32,7 @@ On PhoneTrack main page, while watching a session, you can :
 * 🗓 Přepnout automatický export relace a automatické vyčištění (denně/týdně/měsíčně)
 * ◔ Zvolte co dělat, když je dosaženo kvóty počtu bodů (blokovat zaznamenávání nebo smazání nejstaršího bodu)
 
-Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
+Veřejná a veřejně filtrovaná stránka fungují stejně jako hlavní stránka ale je zobrazena pouze jedna relace, vše je pouze pro čtení a není třeba být přihlášen.
 
 Tato aplikace je zkoušená na Nextcloud 17 a prohlížečích Firefox 57 a novějším a Chromium.
 
@@ -44,12 +44,12 @@ Na této aplikaci stále ještě probíhá intenzivní vývoj.
 
 Podrobnosti ohledně instalace naleznete v [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc).
 
-Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
+Co je nového a co se chystá v příštím vydání naleznete v souboru [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log).
 
-Check [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) file to see complete list of authors.
+Všechny autory naleznete v souboru [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors).
 
 ## Známé problémy
 
-* PhoneTrack **now works** with Nextcloud group restriction activated. Viz [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
+* PhoneTrack **nyní funguje** s aktivním skupinovým omezením v Nextcloud. Viz [dokumntace pro administrátory](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
 
-Any feedback will be appreciated.
+Jakákoliv zpětná vazba bude vítána.
