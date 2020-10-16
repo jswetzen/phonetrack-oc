@@ -16,7 +16,7 @@ Jak PhoneTrack používat:
 
 (\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
 
-On PhoneTrack main page, while watching a session, you can :
+Na hlavní stránce PhoneTrack můžete během sledování relace:
 
 * 📍 Zobrazí historii polohy
 * ⛛ Filtrovat body
@@ -25,8 +25,8 @@ On PhoneTrack main page, while watching a session, you can :
 * ⛶ Definovat oblasti geooplocení pro zařízení
 * ⚇ Definovat výstrahy přiblížení pro dvojice zařízení
 * 🖧 Sdílet relaci ostatním uživatelům Nextcloud nebo veřejným odkazem (pouze pro čtení)
-* 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
-* 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
+* 🔗 Generovat veřejné odkazy s volitelnými omezeními (filtry, název zařízení, poslední pozice, geooplocení)
+* 🖫 Importovat/Exportovat relace ve formátu GPX (jeden soubor s jednou trasou nebo jeden soubor na zařízení)
 * 🗠 Zobrazit statistiky relace
 * 🔒 [Zarezervovat název zařízení](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) abyste se ujistili, že pouze pověřený uživatel se může tímto názvem přihlásit
 * 🗓 Přepnout automatický export relace a automatické vyčištění (denně/týdně/měsíčně)
