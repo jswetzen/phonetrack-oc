@@ -32,9 +32,9 @@ Pe pagina principală PhoneTrack, în timp ce urmărești o sesiune, puteți să
 * 🗓 Comutați sesiunile de export automat și ștergere automată (zilnic/săptămânal/lunar)
 * ◔ Alegeți ce să faceți când se atinge pragul numeric (blochează logarea de puncte sau șterge cel mai vechi punct)
 
-Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
+Pagina publică și pagina publică filtrată funcționează la fel ca și pagina principală, exceptând faptul că o singură sesiune este afișată, că se permite doar citirea și că nu este necesar să fi autentificat.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+Această aplicație este testată pe Nextcloud 17 cu Firefox 57+ și Chromium.
 
 This app is compatible with theming colors and accessibility themes !
 
