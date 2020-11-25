@@ -8,7 +8,7 @@ Ajută-ne să traducem această aplicație pe [PhoneTrack Crowdin project](https
 
 Vezi și alte moduri de a ajuta în [ghid de contribuții](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
-Cum să utilizaţi PhoneTrack:
+Cum să utilizați PhoneTrack:
 
 * Creați o sesiune de urmărire.
 * Dați linkul de logare\* către dispozitivele mobile. Alege [metoda de logare](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) pe care o preferi.
@@ -44,12 +44,12 @@ Această aplicație este în curs de dezvoltare.
 
 Vezi [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) pentru detalii de instalare.
 
-Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
+Verificați fișierul [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) pentru a vedea ce este nou și ce urmează în următoarea versiune.
 
-Check [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) file to see complete list of authors.
+Verificați fișierul [AUTORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) pentru a vedea lista completă a autorilor.
 
-## Known issues
+## Probleme cunoscute
 
-* PhoneTrack **now works** with Nextcloud group restriction activated. See [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
+* PhoneTrack **funcționează acum** cu restricția de grup Nextcloud activată. Vedeți [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
 
-Any feedback will be appreciated.
+Orice părere este apreciată.
