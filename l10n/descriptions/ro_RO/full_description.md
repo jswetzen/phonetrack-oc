@@ -1,29 +1,29 @@
-# PhoneTrack Nextcloud application
+# Aplicația PhoneTrack Nextcloud
 
-PhoneTrack este o aplicatie pentru Nextcloud care ajuta la urmarirea si stocarea informatiilor de urmarire a dispozitivelor mobile.
+PhoneTrack este o aplicație pentru Nextcloud care ajută la urmărirea și stocarea informațiilor de urmărire a dispozitivelor mobile.
 
-Aplicatia primeste informatii de autentificare de la aplicatiile instalate pe telefonul mobil si le afiseaza in mod dinamic pe harta.
+Aplicația primește informații de autentificare de la aplicațiile instalate pe telefonul mobil și le afișează în mod dinamic pe hartă.
 
-Ajuta-ne sa traducem aceasta aplicatie pe [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
+Ajută-ne să traducem această aplicație pe [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
 
-Vezi si alte moduri de a ajuta în [ghid de contributii](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
+Vezi și alte moduri de a ajuta în [ghid de contribuții](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
 Cum să utilizaţi PhoneTrack:
 
-* Creati o sesiune de urmărire.
-* Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Creați o sesiune de urmărire.
+* Dați linkul de logare\* către dispozitivele mobile. Alege [metoda de logare](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) pe care o preferi.
+* Urmăriți locația dispozitivelor sesiunii în timp real (sau nu) în PhoneTrack sau partajați-o cu pagini publice.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+(\*) Nu uitați să setați numele dispozitivului în link (mai degrabă decât în setările aplicației de logare). Înlocuiți "numele" cu numele dispozitivului dorit. Setarea numelui dispozitivului în setările aplicaţiei de logare funcţionează doar cu Owntracks, Traccar şi OpenGTS.
 
-On PhoneTrack main page, while watching a session, you can :
+Pe pagina principală PhoneTrack, în timp ce urmărești o sesiune, puteți să:
 
-* 📍 Display location history
-* ⛛ Filter points
-* ✎ Manually edit/add/delete points
-* ✎ Edit devices (rename, change color/shape, move to another session)
-* ⛶ Define geofencing zones for devices
-* ⚇ Define proximity alerts for device pairs
+* 📍 Afișați istoricul locațiilor
+* ⧩ Filtrați punctele înregistrate
+* ✎ Editați/adăugați/ștergeți puncte manual
+* ✎ Editați dispozitivele (redenumire, schimbare culoare/formă, mutare la o altă sesiune)
+* ◯ Definiți zone de geofencing pentru dispozitive
+* ⚇ Definiți alerte de proximitate pentru dispozitive pereche
 * 🖧 Share a session to other Nextcloud users or with a public link (read-only)
 * 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
 * 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
