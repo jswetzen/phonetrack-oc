@@ -36,13 +36,13 @@ Pagina publică și pagina publică filtrată funcționează la fel ca și pagin
 
 Această aplicație este testată pe Nextcloud 17 cu Firefox 57+ și Chromium.
 
-This app is compatible with theming colors and accessibility themes !
+Această aplicație este compatibilă cu tematica culorilor și temelor de accesibilitate !
 
-This app is under development.
+Această aplicație este în curs de dezvoltare.
 
 ## Instalare
 
-Vezi [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) pentru mai multe detalii despre instalare.
+Vezi [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) pentru detalii de instalare.
 
 Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
 
