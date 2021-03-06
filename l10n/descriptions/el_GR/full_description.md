@@ -6,9 +6,9 @@
 
 🌍 Βοηθήστε μας να μεταφράσουμε αυτή την εφαρμογή στο [PhoneTrack Crowdin project](https://crowdin.com/project/phonetrack).
 
-⚒ Τσεκάρετε και άλλους τρόπους για να βοηθήσετε στις [οδηγίες συνεισφοράς](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
+⚒ Δείτε και άλλους τρόπους για να βοηθήσετε στις [οδηγίες συνεισφοράς](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CONTRIBUTING.md).
 
-Πώς χρησιμοποιείται το PhoneTrack:
+Πως να χρησιμοποιείσετε το PhoneTrack:
 
 * Δημιουργούμε μία συνεδρία καταγραφής.
 * Δίνουμε το σύνδεσμο καταγραφής\ * στις φορητές μας συσκευές. Επιλέγουμε τη [μέθοδο καταγραφής](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) που θέλουμε.
