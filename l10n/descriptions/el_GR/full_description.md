@@ -46,7 +46,7 @@
 
 Ελέγξτε το αρχείο [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) για να δείτε τι νέο περιλαμβάνεται και τι θα συμπεριληφθεί στην επόμενη έκδοση.
 
-Ελέξτε το αρχείο [Συντάκτες](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) για να δείτε μία πλήρη λίστα των συντακτών.
+Ελέγξτε το αρχείο [Συντάκτες](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) για να δείτε μία πλήρη λίστα των συντακτών.
 
 ## Γνωστά προβλήματα
 
