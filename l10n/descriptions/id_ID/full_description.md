@@ -14,18 +14,18 @@ Bagaimana cara menggunakan PhoneTrack :
 * Berikan alamat log \* ke perangkat mobile. Pilihlah [metode log](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) yang sesuai.
 * PhoneTrack dapat memantau lokasi sesi perangkat baik secara langsung maupun tidak, atau bahkan dapat di bagikan kepada pihak lain.
 
-(\*) Pastikan untuk memberi nama atas perangkat pada alamat url (hindari merubah di menu pengaturan pada aplikasi). Rubalah "yourname" dengan nama yang di-inginkan. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+(\*) Pastikan untuk memberi nama atas perangkat pada alamat url (hindari merubah di menu pengaturan pada aplikasi). Rubalah "yourname" dengan nama yang di-inginkan. Perubahan nama perangkat di menu pengaturan aplikasi hanya dapat bekerja di aplikasi pelacakan Owntracks, Traccar dan OpenGTS.
 
-On PhoneTrack main page, while watching a session, you can :
+Pada halaman utama PhoneTrack, saat memantau sebuah sesi, anda dapat melakukan beberapa hal, antara lain :
 
-* 📍 Display location history
-* ⛛ Filter points
-* ✎ Manually edit/add/delete points
-* ✎ Edit devices (rename, change color/shape, move to another session)
-* ⛶ Define geofencing zones for devices
-* ⚇ Define proximity alerts for device pairs
-* 🖧 Share a session to other Nextcloud users or with a public link (read-only)
-* 🔗 Generate public share links with optional restrictions (filters, device name, last positions only, geofencing simplification)
+* 📍 Menampilkan lokasi lampau
+* ⛛ Titik penyaring
+* ✎ Rubah/tambah/hapus titik secara manual
+* ✎ Rubah perangkat (ganti nama, merubah bentuk/warna, pindahkan ke sesi lain)
+* ⛶ Membuat area "geofencing" untuk perangkat
+* ⚇ Membuat peringatan atas sebuah perangkat jika saling berdekatan
+* 🖧 Berbagi sesi ke pengguna Nextcloud lainnya atau ke pihak lain (hanya lihat)
+* 🔗 Membuat alamat untuk di bagi secara umum dengan beberapa batasan (saring, nama perangkat, posisi terakhir dan "geofencing" sederhana)
 * 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
 * 🗠 Display sessions statistics
 * 🔒 [Reserve a device name](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) to make sure only authorized user can log with this name
