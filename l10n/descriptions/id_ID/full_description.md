@@ -26,11 +26,11 @@ Pada halaman utama PhoneTrack, saat memantau sebuah sesi, anda dapat melakukan b
 * ⚇ Membuat peringatan atas sebuah perangkat jika saling berdekatan
 * 🖧 Berbagi sesi ke pengguna Nextcloud lainnya atau ke pihak lain (hanya lihat)
 * 🔗 Membuat alamat untuk di bagi secara umum dengan beberapa batasan (saring, nama perangkat, posisi terakhir dan "geofencing" sederhana)
-* 🖫 Import/export a session in GPX format (one file with one track per device or one file per device)
-* 🗠 Display sessions statistics
-* 🔒 [Reserve a device name](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) to make sure only authorized user can log with this name
-* 🗓 Toggle session auto export and auto purge (daily/weekly/monthly)
-* ◔ Choose what to do when point number quota is reached (block logging or delete oldest point)
+* 🖫 Impor/ekspor sebuah sesi dalam format GPX (satu berkas dengan satu pelacakan untuk setiap perangkat atau satu berkas untuk satu perangkat)
+* 🗠 Menampilkan statistik sesi
+* 🔒 [Pesan nama perangkat](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) sehingga hanya yang di perbolehkan saja menggunakan nama tersebut
+* 🗓 Perpindahan sesi ekspor otomatis dan penghapusan otomatis (harian/mingguan/bulanan)
+* ◔ Memilih untuk menentukan ketika jumlah kuota titik telah habis (hapus titik sebelumnya atau membatasi log)
 
 Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
 
