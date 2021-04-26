@@ -32,24 +32,24 @@ Pada halaman utama PhoneTrack, saat memantau sebuah sesi, anda dapat melakukan b
 * 🗓 Perpindahan sesi ekspor otomatis dan penghapusan otomatis (harian/mingguan/bulanan)
 * ◔ Memilih untuk menentukan ketika jumlah kuota titik telah habis (hapus titik sebelumnya atau membatasi log)
 
-Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
+Halaman untuk umum dan yang ter-saring bekerja seperti halaman utama hanya saja tersedia untuk satu sesi, semuanya tidak perlu akses khusus.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+Aplikasi ini telah di ujicoba pada seri Nextcloud 17 dengan menggunakan Firefox 57+ dan Chromium.
 
-This app is compatible with theming colors and accessibility themes !
+Aplikasi ini juga dapat merubah warna tema dan tema aksesibilitas !
 
-This app is under development.
+Fitur ini dalam pengembangan.
 
-## Install
+## Memasang
 
-See the [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) for installation details.
+Silahkan mengunjungi [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) untuk lebih detail tentang pemasangan.
 
-Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
+Silahkan periksa berkas [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) untuk melihat daftar perubahan dan rencana pengembangan.
 
-Check [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) file to see complete list of authors.
+Silahkan periksa berkas [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) untuk melihat daftar para pengarang.
 
-## Known issues
+## Kendala yang Diketahui
 
-* PhoneTrack **now works** with Nextcloud group restriction activated. See [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
+* PhoneTrack **dapat bekerja** dengan fitur pembatasan grup di Nextcloud. Kunjungi [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
 
-Any feedback will be appreciated.
+Saran dari anda dapat membantu kami lebih baik.
