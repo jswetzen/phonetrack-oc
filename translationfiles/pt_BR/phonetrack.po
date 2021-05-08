@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-04-11 20:01\n"
+"PO-Revision-Date: 2021-05-08 16:00\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -1392,7 +1392,7 @@ msgstr "Fechar gráfico de elevação"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:8
 msgid "Point number quota"
-msgstr ""
+msgstr "Quota de número de pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:9
 msgid "Set the maximum number of points each user can store/log."
@@ -1475,11 +1475,11 @@ msgstr "Cortar linhas apenas afeta a visualização do mapa e a tabela de estat�
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
-msgstr ""
+msgstr "Distância mínima para cortar entre dois pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
-msgstr ""
+msgstr "Tempo mínimo para cortar entre dois pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
@@ -1503,7 +1503,7 @@ msgstr "remover último ponto do dispositivo quando um novo é registrado"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:93
 msgid "Display"
-msgstr ""
+msgstr "Exibir"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:98
 msgid "Auto zoom"
@@ -1527,7 +1527,7 @@ msgstr "Desenhar linha com cor gradiente"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Mostrar distância nas dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
