@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-05-08 16:00\n"
+"PO-Revision-Date: 2021-05-08 16:10\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -1539,7 +1539,7 @@ msgstr "Mostrar velocidade nas dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
-msgstr ""
+msgstr "Mostrar rumo nas dicas de ferramentas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
@@ -1619,7 +1619,7 @@ msgstr "Sessões de rastreio"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:268
 msgid "Custom tile servers"
-msgstr ""
+msgstr "Servidores de blocos personalizados"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:271
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:311
