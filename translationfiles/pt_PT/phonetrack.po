@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 13:41\n"
+"PO-Revision-Date: 2021-06-04 13:53\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -107,26 +107,26 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2568
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2595
 msgid "Watch session"
-msgstr ""
+msgstr "Visualizar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2663
 msgid "PhoneTrack public access"
-msgstr ""
+msgstr "Acesso público PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2664
 #, php-format
 msgid "Log to session %s"
-msgstr ""
+msgstr "Registar na sessão %s"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:88
 #, php-format
 msgid "In session \"%s\", device \"%s\" entered geofencing zone \"%s\"."
-msgstr ""
+msgstr "Na sessão \"%s\", o dispositivo \"%s\" entrou zona de delimitação geográfica \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:96
 #, php-format
 msgid "In session \"%s\", device \"%s\" exited geofencing zone \"%s\"."
-msgstr ""
+msgstr "Na sessão \"%s\", o dispositivo \"%s\" saiu da zona de delimitação geográfica \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
@@ -283,7 +283,7 @@ msgstr "Nome da sessão já usado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1541
 msgid "Failed to contact server to create session"
-msgstr "Falha ao contratar servidor para criar sessão"
+msgstr "Falha ao contactar servidor para criar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1577
 msgid "yourname"
@@ -1080,53 +1080,53 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5095
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5099
 msgid "no"
-msgstr ""
+msgstr "não"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4980
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4984
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5097
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5101
 msgid "yes"
-msgstr ""
+msgstr "sim"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4994
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5011
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5114
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5135
 msgid "Email address(es)"
-msgstr ""
+msgstr "Endereço(s) de e-mail"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4994
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5012
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5114
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5135
 msgid "account mail address"
-msgstr ""
+msgstr "endereço de e-mail da conta"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5038
 msgid "Failed to delete geofencing zone"
-msgstr ""
+msgstr "Falha ao eliminar zona de delimitação geográfica"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5041
 msgid "Failed to contact server to delete geofencing zone"
-msgstr ""
+msgstr "Falha ao contactar servidor para eliminar zona de delimitação geográfica"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5071
 msgid "Warning : User email and server admin email must be set to receive proximity alerts."
-msgstr ""
+msgstr "Aviso: os emails do utilizador e do administrador do servidor devem ser definidos para receber alertas de proximidade."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5075
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5079
 msgid "Failed to add proximity alert"
-msgstr ""
+msgstr "Falha ao adicionar alerta de proximidade"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5076
 msgid "Device or session does not exist"
-msgstr ""
+msgstr "Dispositivo ou sessão não existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5082
 msgid "Failed to contact server to add proximity alert"
-msgstr ""
+msgstr "Falha ao contactar servidor para adicionar alerta de proximidade"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5106
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5123
@@ -1141,32 +1141,32 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5116
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5138
 msgid "Low distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Limite mínimo de distância : {nbmeters}m"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5117
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5140
 msgid "High distance limit : {nbmeters}m"
-msgstr ""
+msgstr "Limite máximo de distância : {nbmeters}m"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5166
 msgid "Failed to delete proximity alert"
-msgstr ""
+msgstr "Falha ao eliminar alerta de proximidade"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5169
 msgid "Failed to contact server to delete proximity alert"
-msgstr ""
+msgstr "Falha ao contactar servidor para eliminar alerta de proximidade"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5188
 msgid "Failed to add public share"
-msgstr ""
+msgstr "Falha ao adicionar partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5191
 msgid "Failed to contact server to add public share"
-msgstr ""
+msgstr "Falha ao contactar servidor para adicionar partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5222
 msgid "Show this device only"
-msgstr ""
+msgstr "Mostrar apenas este dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5224
 msgid "Show last positions only"
@@ -1174,7 +1174,7 @@ msgstr "Mostrar apenas as últimas posições"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5226
 msgid "Simplify positions to nearest geofencing zone center"
-msgstr ""
+msgstr "Simplificar posições para o centro da zona de delimitação geográfica mais próxima"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5245
 msgid "No filters"
@@ -1186,7 +1186,7 @@ msgstr "Falha ao eliminar partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5272
 msgid "Failed to contact server to delete public share"
-msgstr "Falha ao contratar servidor para eliminar partilha pública"
+msgstr "Falha ao contactar servidor para eliminar partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5313
 msgid "Failed to contact server to get user list"
@@ -1351,7 +1351,7 @@ msgstr "Falha ao alterar o estado público da sessão, a sessão não existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6403
 msgid "Failed to contact server to toggle session public status"
-msgstr "Falha ao contratar servidor para alterar o estado público da sessão"
+msgstr "Falha ao contactar servidor para alterar o estado público da sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6472
 msgid "Failed to set device shape"
@@ -1359,7 +1359,7 @@ msgstr "Falha ao definir formato do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6475
 msgid "Failed to contact server to set device shape"
-msgstr "Falha ao contatar servidor para definir formato do dispositivo"
+msgstr "Falha ao contactar servidor para definir formato do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6497
 msgid "Failed to set session auto export value"
@@ -1404,7 +1404,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:11
 msgid "An empty value means no limit."
-msgstr ""
+msgstr "Um valor vazio significa sem limite."
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:4
 msgid "Main tab"
@@ -1775,56 +1775,56 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:503
 msgid "Delete multiple points"
-msgstr ""
+msgstr "Eliminar vários pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:506
 msgid "Choose a session, a device and adjust the filters. All displayed points for selected device will be deleted. An empty device name selects them all."
-msgstr ""
+msgstr "Escolha uma sessão, um dispositivo e ajuste os filtros. Todos os pontos exibidos para o dispositivo selecionado serão eliminados. Caso o nome de dispositivo esteja em branco todos os pontos serão selecionados."
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:514
 msgid "Delete points"
-msgstr ""
+msgstr "Eliminar pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:515
 msgid "Delete only visible points"
-msgstr ""
+msgstr "Eliminar apenas os pontos visiveis"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:522
 msgid "Filter points"
-msgstr ""
+msgstr "Filtrar pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:529
 msgid "Apply filters"
-msgstr ""
+msgstr "Aplicar filtros"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:534
 msgid "Begin date"
-msgstr ""
+msgstr "Data inicial"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:541
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:559
 msgid "today"
-msgstr ""
+msgstr "hoje"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:546
 msgid "Begin time"
-msgstr ""
+msgstr "Hora de início"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:552
 msgid "End date"
-msgstr ""
+msgstr "Data do término"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:564
 msgid "End time"
-msgstr ""
+msgstr "Hora de término"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:571
 msgid "Min-- and Max--"
-msgstr ""
+msgstr "Mín-- e Máx--"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:574
 msgid "Min++ and Max++"
-msgstr ""
+msgstr "Mín++ e Max++"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:578
 msgid "Last day:hour:min"
