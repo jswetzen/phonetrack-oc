@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 12:47\n"
+"PO-Revision-Date: 2021-06-04 12:51\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -969,15 +969,15 @@ msgstr "Falha ao contactar servidor para exportar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4526
 msgid "Failed to contact server to log position"
-msgstr ""
+msgstr "Falha ao contactar servidor para registar posição"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4620
 msgid "Impossible to zoom, there is no point to zoom on for this device"
-msgstr ""
+msgstr "Impossível ampliar, não existe nenhum ponto neste dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4733
 msgid "'{n}' is already reserved"
-msgstr ""
+msgstr "'{n}' já está reservado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4736
 msgid "Failed to reserve '{n}'"
@@ -1194,39 +1194,39 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5355
 msgid "device name"
-msgstr ""
+msgstr "nome do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5356
 msgid "distance (km)"
-msgstr ""
+msgstr "distância (km)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5357
 msgid "duration"
-msgstr ""
+msgstr "duração"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5358
 msgid "#points"
-msgstr ""
+msgstr "#pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5359
 msgid "avg speed (km/h)"
-msgstr ""
+msgstr "velocidade média (km/h)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5360
 msgid "max speed (km/h)"
-msgstr ""
+msgstr "velocidade máxima (km/h)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5432
 msgid "years"
-msgstr ""
+msgstr "anos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5435
 msgid "days"
-msgstr ""
+msgstr "dias"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5458
 msgid "In OsmAnd, go to 'Plugins' in the main menu, then activate 'Trip recording' plugin and go to its settings."
-msgstr ""
+msgstr "No Osmand, no menu principal toque em 'Extensões', ative a extensão 'Gravação de viagem' e aceda às configurações."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5459
 msgid "Copy the link below into the 'Online tracking web address' field."
