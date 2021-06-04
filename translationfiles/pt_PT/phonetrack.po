@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2020-09-28 14:37\n"
+"PO-Revision-Date: 2021-06-04 12:21\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -287,19 +287,19 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1577
 msgid "yourname"
-msgstr ""
+msgstr "oseunome"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1665
 msgid "Watch this session"
-msgstr ""
+msgstr "Visualizar esta sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1671
 msgid "shared by {u}"
-msgstr ""
+msgstr "partilhado por {u}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1680
 msgid "Forbid devices to log to this session"
-msgstr ""
+msgstr "Impedir registo de dispositivos nesta sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1687
 msgid "Reserve device names"
@@ -307,11 +307,11 @@ msgstr "Reservar nomes de dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1694
 msgid "Links for logging apps"
-msgstr ""
+msgstr "Ligações para as aplicações de registo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1701
 msgid "Link to share session"
-msgstr ""
+msgstr "Ligação para partilha de sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1711
 msgid "Zoom on this session"
@@ -336,7 +336,7 @@ msgstr "Exportar para gpx"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1736
 msgid "Files are created in '{exdir}'"
-msgstr ""
+msgstr "Os ficheiros são criados em '{exdir}'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1737
 msgid "Automatic export"
@@ -352,15 +352,15 @@ msgstr "diariamente"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1741
 msgid "weekly"
-msgstr ""
+msgstr "semanalmente"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1742
 msgid "monthly"
-msgstr ""
+msgstr "mensalmente"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1747
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr ""
+msgstr "Limpeza automática é acionada diariamente e apagará pontos mais antigos que a duração selecionada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1748
 msgid "Automatic purge"
@@ -372,31 +372,31 @@ msgstr "não limpar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1751
 msgid "a day"
-msgstr ""
+msgstr "um dia"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1752
 msgid "a week"
-msgstr ""
+msgstr "uma semana"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1753
 msgid "a month"
-msgstr ""
+msgstr "um mês"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1762
 msgid "Name reservation is optional."
-msgstr ""
+msgstr "Reserva de nome é opcional."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1763
 msgid "Name can be set directly in logging link if it is not reserved."
-msgstr ""
+msgstr "Nome pode ser definido diretamente na ligação de registo caso não esteja reservado."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1764
 msgid "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
-msgstr ""
+msgstr "Para registar com um nome reservado, use o \"token de nome\" no campo da ligação de registo (ou na tarefa de registo PhoneTrack-Android do \"nome do dispositivo\")."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1765
 msgid "If a name is reserved, the only way to log with this name is with its token."
-msgstr ""
+msgstr "Se um nome está reservado, só é possível realizar registos utilizando o seu token."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1768
 msgid "Reserve this device name"
@@ -404,23 +404,23 @@ msgstr "Reserve o nome deste dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1770
 msgid "Type reserved name and press 'Enter'"
-msgstr ""
+msgstr "Introduza o nome reservado e carregue no 'Enter'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1783
 msgid "Share with user"
-msgstr ""
+msgstr "Partilhar com utilizador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1785
 msgid "Type user name and press 'Enter'"
-msgstr ""
+msgstr "Introduza o nome de utilizador e carregue no 'Enter'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1786
 msgid "user name"
-msgstr ""
+msgstr "nome de utilizador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1793
 msgid "A private session is not visible on public browser logging page"
-msgstr ""
+msgstr "Uma sessão privada não é visível na página pública de registos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1795
 msgid "Public session"
@@ -428,15 +428,15 @@ msgstr "Sessão pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1802
 msgid "Public watch link"
-msgstr ""
+msgstr "Ligação de partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1804
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "URL da API (JSON, últimas posições)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1806
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "URL da API (JSON, todas as posições)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1812
 msgid "Current active filters will be applied on shared view"
