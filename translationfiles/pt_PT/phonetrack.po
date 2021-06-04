@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 12:51\n"
+"PO-Revision-Date: 2021-06-04 13:01\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1230,15 +1230,15 @@ msgstr "No Osmand, no menu principal toque em 'Extensões', ative a extensão 'G
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5459
 msgid "Copy the link below into the 'Online tracking web address' field."
-msgstr ""
+msgstr "Copie a ligação abaixo para o campo 'Endereço web de rastreamento online'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5463
 msgid "Go to 'settings' in the app."
-msgstr ""
+msgstr "Aceda às definições da aplicação."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5464
 msgid "Copy the link below into the 'server address' field."
-msgstr ""
+msgstr "Copie a ligação abaixo para o campo 'Endereço do servidor'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5468
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
@@ -1298,97 +1298,97 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5501
 msgid "the browser"
-msgstr ""
+msgstr "o navegador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5502
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:212
 msgid "Log my position in this session"
-msgstr ""
+msgstr "Registar a minha posição neste sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5503
 msgid "Visit this link with a web browser and check \"{loglabel}\"."
-msgstr ""
+msgstr "Aceder a esta ligação com um navegador web e assinalar \"{loglabel}\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5506
 msgid "Configure {loggingApp} for logging to session '{sessionName}'"
-msgstr ""
+msgstr "Configurar {loggingApp} para registar na sessão '{sessionName}'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5733
 msgid "Are you sure you want to delete the session {session} ?"
-msgstr ""
+msgstr "Tem a certeza que deseja eliminar a sessão {session}?"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5736
 msgid "Confirm session deletion"
-msgstr ""
+msgstr "Confirmar eliminação de sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5792
 msgid "Choose auto export target path"
-msgstr ""
+msgstr "Escolha o caminho de destino da exportação automática"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5972
 msgid "Select storage location for '{fname}'"
-msgstr ""
+msgstr "Selecionar local de armazenamento para '{fname}'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6194
 msgid "Geo QRcode : last position of {dname}"
-msgstr ""
+msgstr "Código QR Geo: última posição de {dname}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6316
 msgid "Are you sure you want to delete the device {device} ?"
-msgstr ""
+msgstr "Tem a certeza que deseja eliminar o dispositivo {device}?"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6319
 msgid "Confirm device deletion"
-msgstr ""
+msgstr "Confirmar eliminação do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6372
 msgid "Failed to change session lock status"
-msgstr ""
+msgstr "Falha ao alterar o estado de bloqueio de sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6400
 msgid "Failed to toggle session public status, session does not exist"
-msgstr ""
+msgstr "Falha ao alterar o estado público da sessão, a sessão não existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6403
 msgid "Failed to contact server to toggle session public status"
-msgstr ""
+msgstr "Falha ao contratar servidor para alterar o estado público da sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6472
 msgid "Failed to set device shape"
-msgstr ""
+msgstr "Falha ao definir formato do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6475
 msgid "Failed to contact server to set device shape"
-msgstr ""
+msgstr "Falha ao contatar servidor para definir formato do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6497
 msgid "Failed to set session auto export value"
-msgstr ""
+msgstr "Falha ao definir o valor de exportação automática da sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6498
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6525
 msgid "session does not exist"
-msgstr ""
+msgstr "a sessão não existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6502
 msgid "Failed to contact server to set session auto export value"
-msgstr ""
+msgstr "Falha ao contactar servidor para definir o valor de exportação automática da sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6524
 msgid "Failed to set session auto purge value"
-msgstr ""
+msgstr "Falha ao definir o valor de limpeza automática da sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6529
 msgid "Failed to contact server to set session auto purge value"
-msgstr ""
+msgstr "Falha ao contactar servidor para definir o valor de exportação automática da sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6616
 msgid "Import gpx/kml/json session file"
-msgstr ""
+msgstr "Importar ficheiro de sessão gpx/kml/json"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:7214
 msgid "Close elevation chart"
-msgstr ""
+msgstr "Fechar gráfico de elevação"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:8
 msgid "Point number quota"
