@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 12:21\n"
+"PO-Revision-Date: 2021-06-04 12:31\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -440,11 +440,11 @@ msgstr "URL da API (JSON, todas as posições)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1812
 msgid "Current active filters will be applied on shared view"
-msgstr ""
+msgstr "Os filtros ativos atualmente serão aplicados na vista partilhada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1814
 msgid "Add public filtered share"
-msgstr ""
+msgstr "Adicionar partilha pública filtrada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1823
 msgid "Session token"
@@ -452,24 +452,24 @@ msgstr "Token de sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1829
 msgid "List of links to configure logging apps server settings."
-msgstr ""
+msgstr "Lista de ligações para configurar as definições do servidor das aplicações de registo."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1830
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:225
 msgid "Replace 'yourname' with the desired device name or with the name reservation token"
-msgstr ""
+msgstr "Substitua 'oseunome' com o nome de dispositivo desejado ou com o token de reserva de nome"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1832
 msgid "Public browser logging link"
-msgstr ""
+msgstr "Ligação pública do navegador de registo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1837
 msgid "OsmAnd link"
-msgstr ""
+msgstr "Ligação OsmAnd"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1842
 msgid "GpsLogger GET and POST link"
-msgstr ""
+msgstr "Ligação GET e POST do GpsLogger"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1846
 msgid "Owntracks (HTTP mode) link"
