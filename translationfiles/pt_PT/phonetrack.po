@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 14:51\n"
+"PO-Revision-Date: 2021-06-04 15:41\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -1242,7 +1242,7 @@ msgstr "Copie a ligação abaixo para o campo 'Endereço do servidor'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5468
 msgid "In GpsLogger, go to 'Logging details' in the sidebar menu, then activate 'Log to custom URL'."
-msgstr ""
+msgstr "No GpsLogger, aceda a \"detalhes de registo\" no menu da barra lateral e ative \"Log to custom URL\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5469
 msgid "Copy the link below into the 'URL' field."
@@ -1250,7 +1250,7 @@ msgstr "Copie a ligação abaixo para o campo 'URL'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5473
 msgid "In the Owntracks preferences menu, go to 'Connections'."
-msgstr ""
+msgstr "No menu preferências do OwnTrack, aceda a 'Ligações'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5474
 msgid "Change the connection Mode to 'Private HTTP', Copy the link below into the 'Host' field."
@@ -1262,7 +1262,7 @@ msgstr "Deixe as configurações de 'Identificação' em branco. Não são neces
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5479
 msgid "In Ulogger, go to settings menu and copy the link below into the 'Server URL' field."
-msgstr ""
+msgstr "No Ulogger, aceda às definições e copie a ligação abaixo para o campo 'URL do servidor'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5480
 msgid "Set 'User name' and 'Password' mandatory fields to any value as they will be ignored by PhoneTrack."
@@ -1274,11 +1274,11 @@ msgstr "Ativar 'Sincronização em tempo real'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5485
 msgid "In Traccar client, copy the link below into the 'server URL' field."
-msgstr ""
+msgstr "No cliente do Traccar, copie a ligação abaixo para o campo 'URL do servidor'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5489
 msgid "In LocusMap, copy the link below into the 'server URL' field. It works with POST and GET methods."
-msgstr ""
+msgstr "No LocusMap, copie a ligação abaixo abaixo para o campo 'URL do servidor'. Funciona com métodos POST e GET."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5493
 msgid "You can log with any other client with a simple HTTP request."
@@ -1290,11 +1290,11 @@ msgstr "Certifique-se que o sistema de registo define valores dos parâmetros GE
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5497
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
-msgstr ""
+msgstr "Use esta ligação como URL do servidor na sua aplicação de registo compatível com OpenGTS."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5498
 msgid "OpenGTS compatible logger"
-msgstr ""
+msgstr "Aplicação de registo compatível com OpenGTS"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5501
 msgid "the browser"
