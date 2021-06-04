@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 12:34\n"
+"PO-Revision-Date: 2021-06-04 12:47\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -509,7 +509,7 @@ msgstr "Falha ao eliminar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1995
 msgid "Failed to contact server to delete session"
-msgstr "Falha ao contactar servidor para elininar a sessão"
+msgstr "Falha ao contactar servidor para eliminar a sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2015
 msgid "Device '{d}' of session '{s}' has been deleted"
@@ -517,27 +517,27 @@ msgstr "O dispositivo '{d}' da sessão '{s}' foi eliminado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2018
 msgid "Failed to delete device '{d}' of session '{s}'"
-msgstr ""
+msgstr "Falha ao eliminar o dispositivo '{d}' da sessão '{s}'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2022
 msgid "Failed to contact server to delete device"
-msgstr ""
+msgstr "Falha ao contactar servidor para eliminar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2079
 msgid "Impossible to rename session"
-msgstr ""
+msgstr "Impossível renomear sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2083
 msgid "Failed to contact server to rename session"
-msgstr ""
+msgstr "Falha ao contactar servidor para renomear sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2131
 msgid "Impossible to rename device"
-msgstr ""
+msgstr "Impossível renomear dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2135
 msgid "Failed to contact server to rename device"
-msgstr ""
+msgstr "Falha ao contactar servidor para renomear dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2207
 msgid "Impossible to set device alias for {n}"
@@ -766,21 +766,21 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:495
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:513
 msgid "Device name"
-msgstr ""
+msgstr "Nome do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3252
 msgid "Low distance limit"
-msgstr ""
+msgstr "Limite de distância mínima"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3254
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3257
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:77
 msgid "meters"
-msgstr ""
+msgstr "metros"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3255
 msgid "High distance limit"
-msgstr ""
+msgstr "Limite de distância máxima"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3266
 msgid "HTTP address to request when devices get close"
@@ -792,180 +792,180 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3275
 msgid "Add proximity notification"
-msgstr ""
+msgstr "Adicionar notificação de proximidade"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3291
 msgid "Toggle lines"
-msgstr ""
+msgstr "Ativar/Desativar linhas"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3299
 msgid "Follow this device (autozoom)"
-msgstr ""
+msgstr "Seguir este dispositivo (autozoom)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3312
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3319
 msgid "Center map on device"
-msgstr ""
+msgstr "Centralizar mapa no dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3740
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
-msgstr ""
+msgstr "O ponto que deseja editar não existe ou não tem permissão para editá-lo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3744
 msgid "Failed to contact server to edit point"
-msgstr ""
+msgstr "Falha ao contactar servidor para editar ponto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3862
 msgid "The point you want to delete does not exist or you're not allowed to delete it"
-msgstr ""
+msgstr "O ponto que deseja eliminar não existe ou não tem permissão para eliminá-lo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3866
 msgid "Failed to contact server to delete point"
-msgstr ""
+msgstr "Falha ao contactar servidor para eliminar ponto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3955
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3992
 msgid "Manually added"
-msgstr ""
+msgstr "Adicionado manualmente"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3973
 msgid "Impossible to add this point"
-msgstr ""
+msgstr "Impossível adicionar este ponto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3976
 msgid "User quota was reached"
-msgstr ""
+msgstr "Quota de utilizadores alcançada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3980
 msgid "Failed to contact server to add point"
-msgstr ""
+msgstr "Falha ao contactar servidor para adicionar ponto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4117
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4120
 msgid "Time"
-msgstr ""
+msgstr "Hora"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4125
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4209
 msgid "Altitude"
-msgstr ""
+msgstr "Altitude"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4128
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4214
 msgid "Precision"
-msgstr ""
+msgstr "Precisão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4131
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4221
 msgid "Speed"
-msgstr ""
+msgstr "Velocidade"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4134
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4226
 msgid "Bearing"
-msgstr ""
+msgstr "Orientação"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4137
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4231
 msgid "Satellites"
-msgstr ""
+msgstr "Satélites"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4140
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4236
 msgid "Battery"
-msgstr ""
+msgstr "Bateria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4143
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4240
 msgid "User-agent"
-msgstr ""
+msgstr "User-agent"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4146
 msgid "lat : lng"
-msgstr ""
+msgstr "lat : lng"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4150
 msgid "DMS coords"
-msgstr ""
+msgstr "Coordenadas DMS"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4156
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4158
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4159
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4205
 msgid "Distance"
-msgstr ""
+msgstr "Distância"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4374
 msgid "Impossible to zoom, there is no point to zoom on for this session"
-msgstr ""
+msgstr "Impossível ampliar, não existe nenhum ponto nesta sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4409
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "A extensão do ficheiro deverá ser '.gpx', '.kml' ou '.json' para ser importado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4428
 msgid "Failed to create imported session"
-msgstr ""
+msgstr "Falha ao criar a sessão importada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4432
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4438
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4444
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4450
 msgid "Failed to import session"
-msgstr ""
+msgstr "Falha ao importar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4433
 msgid "File is not readable"
-msgstr ""
+msgstr "O ficheiro é ilegível"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4439
 msgid "File does not exist"
-msgstr ""
+msgstr "O ficheiro não existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4445
 msgid "Malformed XML file"
-msgstr ""
+msgstr "Ficheiro XML mal formatado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4451
 msgid "There is no device to import in submitted file"
-msgstr ""
+msgstr "Não existe dispositivo a importar no ficheiro enviado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4457
 msgid "Failed to contact server to import session"
-msgstr ""
+msgstr "Falha ao contactar servidor para importar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4478
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4485
 msgid "Session successfully exported in"
-msgstr ""
+msgstr "Sessão exportada com sucesso em"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4482
 msgid "There is no point to export for this session"
-msgstr ""
+msgstr "Não há nenhum ponto para exportar para esta sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4486
 msgid "but there was no point to export for some devices"
-msgstr ""
+msgstr "mas não havia nenhum ponto para exportar para alguns dispositivos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4490
 msgid "Failed to export session"
-msgstr ""
+msgstr "Falha ao exportar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4495
 msgid "Failed to contact server to export session"
-msgstr ""
+msgstr "Falha ao contactar servidor para exportar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4526
 msgid "Failed to contact server to log position"
