@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 14:13\n"
+"PO-Revision-Date: 2021-06-04 14:21\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr ""
+msgstr "O dispositivo PhoneTrack {device} da sessão {session} entrou na delimitação geográfica {geofence}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr ""
+msgstr "O dispositivo PhoneTrack {device} da sessão {session} saiu da delimitação geográfica {geofence}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
@@ -315,7 +315,7 @@ msgstr "Ligação para partilha de sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1711
 msgid "Zoom on this session"
-msgstr ""
+msgstr "Fazer zoom nesta sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1714
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3153
@@ -541,27 +541,27 @@ msgstr "Falha ao contactar servidor para renomear dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2207
 msgid "Impossible to set device alias for {n}"
-msgstr ""
+msgstr "Impossível definir alcunha de dispositivo a {n}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2211
 msgid "Failed to contact server to set device alias"
-msgstr ""
+msgstr "Falha ao contactar servidor para definir alcunha de dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2281
 msgid "Device already exists in target session"
-msgstr ""
+msgstr "O dispositivo já existe na sessão de destino"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2284
 msgid "Impossible to move device to another session"
-msgstr ""
+msgstr "Impossível mover o dispositivo para outra sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2288
 msgid "Failed to contact server to move device"
-msgstr ""
+msgstr "Falha ao contactar servidor para mover o dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2358
 msgid "Failed to contact server to get sessions"
-msgstr ""
+msgstr "Falha ao contactar servidor para obter sessões"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2798
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2825
@@ -570,7 +570,7 @@ msgstr "Estatísticas de todos os pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2822
 msgid "Stats of filtered points"
-msgstr ""
+msgstr "Estatísticas dos pontos filtrados"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3065
 msgid "Device's color successfully changed"
@@ -1282,11 +1282,11 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5493
 msgid "You can log with any other client with a simple HTTP request."
-msgstr ""
+msgstr "Pode fazer registos com qualquer outro cliente com um simples pedido HTTP."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5494
 msgid "Make sure the logging system sets values for at least 'timestamp', 'lat' and 'lon' GET parameters."
-msgstr ""
+msgstr "Certifique-se que o sistema de registo define valores dos parâmetros GET para pelo menos 'timestamp', 'lat' e 'lon'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5497
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
@@ -1396,11 +1396,11 @@ msgstr "Quota do número de pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:9
 msgid "Set the maximum number of points each user can store/log."
-msgstr ""
+msgstr "Defina o número máximo de pontos que cada utilizador pode armazenar/registar."
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:10
 msgid "Each user can choose what happens when the quota is reached : block logging or delete oldest point."
-msgstr ""
+msgstr "Cada utilizador pode escolher o que acontece quando a quota é atingida: bloquear o registo ou eliminar o ponto mais antigo."
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:11
 msgid "An empty value means no limit."
@@ -1519,27 +1519,27 @@ msgstr "Mostrar a primeira letra do dispositivo na última posição"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:114
 msgid "Show direction arrows along lines"
-msgstr ""
+msgstr "Mostrar setas da direção ao longo das linhas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:118
 msgid "Draw line with color gradient"
-msgstr ""
+msgstr "Desenhar linha com cor gradiente"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:122
 msgid "Show distance in tooltips"
-msgstr ""
+msgstr "Mostrar distância nas dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:126
 msgid "Show accuracy in tooltips"
-msgstr ""
+msgstr "Mostrar precisão nas dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
-msgstr ""
+msgstr "Mostrar velocidade nas dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
-msgstr ""
+msgstr "Mostrar direção nas dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
@@ -1678,11 +1678,11 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
-msgstr ""
+msgstr "Url Style.json"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:314
 msgid "For example : mapbox://styles/mapbox/bright-v8 or https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
-msgstr ""
+msgstr "Por exemplo: mapbox://styles/mapbox/bright-v8 ou https://your.openmaptiles.server:PORT/styles/osm-bright/style.json"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:315
 msgid "Access token (API key)"
@@ -1771,7 +1771,7 @@ msgstr "Clique no mapa para adicionar um ponto (caso a sessão não esteja ativa
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:498
 msgid "Cancel add point"
-msgstr ""
+msgstr "Cancelar adição do ponto"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:503
 msgid "Delete multiple points"
@@ -1828,7 +1828,7 @@ msgstr "Mín++ e Max++"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:578
 msgid "Last day:hour:min"
-msgstr ""
+msgstr "Último dia:hora:min"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:585
 msgid "Minimum accuracy"
