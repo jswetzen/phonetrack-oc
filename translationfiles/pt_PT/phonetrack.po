@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 13:30\n"
+"PO-Revision-Date: 2021-06-04 13:41\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -566,7 +566,7 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2798
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2825
 msgid "Stats of all points"
-msgstr ""
+msgstr "Estatísticas de todos os pontos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2822
 msgid "Stats of filtered points"
@@ -574,23 +574,23 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3065
 msgid "Device's color successfully changed"
-msgstr ""
+msgstr "Cor do dispositivo alterada com sucesso"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3068
 msgid "Failed to save device's color"
-msgstr ""
+msgstr "Falha ao guardar cor do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3072
 msgid "Failed to contact server to change device's color"
-msgstr ""
+msgstr "Falha ao contactar servidor para alterar cor do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3144
 msgid "Geo link to open position in other app/software"
-msgstr ""
+msgstr "Ligação Geo para abrir localização noutra aplicação"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3146
 msgid "Geo link QRcode to open position with a QRcode scanner"
-msgstr ""
+msgstr "Ligação QRcode Geo para abrir localização com um leitor QRcode"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3148
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3150
@@ -641,7 +641,7 @@ msgstr "Zonas de delimitação geográficas do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3197
 msgid "Zoom on geofencing area, then set values, then validate."
-msgstr ""
+msgstr "Fazer zoom na área de delimitação geográfica, definir valores e validar."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3198
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3258
@@ -669,7 +669,7 @@ msgstr "Lista de endereços de e-mail separados por vírgula"
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3204
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3264
 msgid "An empty value means the session owner's email address."
-msgstr ""
+msgstr "Um valor vazio representa o endereço de e-mail do dono da sessão."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3205
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3265
@@ -737,7 +737,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3236
 msgid "Use current map view as geofencing zone"
-msgstr ""
+msgstr "Usar vista atual do mapa como zona de delimitação geográfica"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3237
 msgid "Add zone"
@@ -1006,23 +1006,23 @@ msgstr "Falha ao contactar servidor para eliminar o nome reservado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4798
 msgid "User does not exist"
-msgstr ""
+msgstr "O utilizador não existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4801
 msgid "Failed to add user share"
-msgstr ""
+msgstr "Falha ao adicionar partilha do utilizador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4804
 msgid "Failed to contact server to add user share"
-msgstr ""
+msgstr "Falha ao contactar servidor para adicionar partilha do utilizador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4814
 msgid "Shared with {u}"
-msgstr ""
+msgstr "Partilhado com {u}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4839
 msgid "Failed to delete user share"
-msgstr ""
+msgstr "Falha ao eliminar partilha de utilizador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4842
 msgid "Failed to contact server to delete user share"
@@ -1041,7 +1041,7 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4866
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4890
 msgid "Failed to contact server to modify public share"
-msgstr ""
+msgstr "Falha ao contactar servidor para alterar partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4908
 msgid "Device name restriction has been successfully set"
@@ -1049,11 +1049,11 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4911
 msgid "Failed to set public share device name restriction"
-msgstr ""
+msgstr "Falha ao definir restrição de partilha pública do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4914
 msgid "Failed to contact server to set public share device name restriction"
-msgstr ""
+msgstr "Falha ao contactar servidor para definir restrição de partilha pública do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4949
 msgid "Warning : User email and server admin email must be set to receive geofencing alerts."
@@ -1848,19 +1848,19 @@ msgstr "Altitude máxima"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:617
 msgid "Minimum battery level"
-msgstr ""
+msgstr "Nível mínimo de bateria"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:625
 msgid "Maximum battery level"
-msgstr ""
+msgstr "Nível máximo de bateria"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:633
 msgid "Minimum speed"
-msgstr ""
+msgstr "Velocidade mínima"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:641
 msgid "Maximum speed"
-msgstr ""
+msgstr "Velocidade máxima"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:649
 msgid "Minimum bearing"
@@ -1872,45 +1872,45 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:665
 msgid "Minimum satellites"
-msgstr ""
+msgstr "Mínimo de satélites"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:673
 msgid "Maximum satellites"
-msgstr ""
+msgstr "Máximo de satélites"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:683
 msgid "bookmark name"
-msgstr ""
+msgstr "nome do marcador"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:685
 msgid "Save filter bookmark"
-msgstr ""
+msgstr "Guardar filtro de marcadores"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:718
 msgid "Statistics"
-msgstr ""
+msgstr "Estatísticas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:722
 msgid "Show stats"
-msgstr ""
+msgstr "Mostrar estatísticas"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:732
 msgid "Shortcuts"
-msgstr ""
+msgstr "Atalhos"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:734
 msgid "Toggle sidebar"
-msgstr ""
+msgstr "Ativar/Desativar barra lateral"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:738
 msgid "Documentation"
-msgstr ""
+msgstr "Documentação"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:746
 msgid "Source management"
-msgstr ""
+msgstr "Gestão do código-fonte"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:760
 msgid "Authors"
-msgstr ""
+msgstr "Autores"
 
