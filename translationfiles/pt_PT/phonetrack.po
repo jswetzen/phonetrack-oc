@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 13:53\n"
+"PO-Revision-Date: 2021-06-04 14:13\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -131,27 +131,27 @@ msgstr "Na sessão \"%s\", o dispositivo \"%s\" saiu da zona de delimitação ge
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
 msgid "Device \"%s\" is now closer than %sm to \"%s\"."
-msgstr ""
+msgstr "O dispositivo \"%s\" está %sm mais próximo de \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:113
 #, php-format
 msgid "Device \"%s\" is now farther than %sm from \"%s\"."
-msgstr ""
+msgstr "O dispositivo \"%s\" está %sm mais próximo de \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:122
 #, php-format
 msgid "Point number quota (%s) was reached with a point of \"%s\" in session \"%s\"."
-msgstr ""
+msgstr "A quota de número de pontos (%s) foi atingida com um ponto de \"%s\" na sessão \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:131
 #, php-format
 msgid "User \"%s\" shared PhoneTrack session \"%s\" with you."
-msgstr ""
+msgstr "O utilizador \"%s\" partilhou a sessão PhoneTrack \"%s\" consigo."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:140
 #, php-format
 msgid "User \"%s\" stopped sharing PhoneTrack session \"%s\" with you."
-msgstr ""
+msgstr "O utilizador \"%s\" terminou a partilha da sessão PhoneTrack \"%s\" consigo."
 
 #: /var/www/html/dev/server/apps/phonetrack/specialAppInfoFakeDummyForL10nScript.php:3
 msgid " "
@@ -184,11 +184,11 @@ msgstr "Desativar zoom automático"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:733
 msgid "Show last point tooltip"
-msgstr ""
+msgstr "Mostrar último ponto nas Dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:741
 msgid "Hide last point tooltip"
-msgstr ""
+msgstr "Esconder último ponto nas Dicas"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:762
 msgid "Zoom on all devices"
@@ -263,15 +263,15 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1407
 msgid "Filter bookmark should have a name"
-msgstr ""
+msgstr "O filtro de marcadores deverá ter um nome"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1435
 msgid "Failed to contact server to save filters bookmark"
-msgstr ""
+msgstr "Falha ao contactar o servidor para guardar filtros de marcadores"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1478
 msgid "Failed to contact server to delete filters bookmark"
-msgstr ""
+msgstr "Falha ao contactar o servidor para eliminar filtros de marcadores"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1520
 msgid "Session name should not be empty"
