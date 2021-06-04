@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 12:31\n"
+"PO-Revision-Date: 2021-06-04 12:34\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -473,47 +473,47 @@ msgstr "Ligação GET e POST do GpsLogger"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1846
 msgid "Owntracks (HTTP mode) link"
-msgstr ""
+msgstr "Ligação Owntracks (modo HTTP)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1850
 msgid "Ulogger link"
-msgstr ""
+msgstr "Ligação Ulogger"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1854
 msgid "Traccar link"
-msgstr ""
+msgstr "Ligação Traccar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1858
 msgid "OpenGTS link"
-msgstr ""
+msgstr "Ligação OpenGTS"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1862
 msgid "Overland link"
-msgstr ""
+msgstr "Ligação Overland"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1866
 msgid "Locus Map link"
-msgstr ""
+msgstr "Ligação Locus Map"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1870
 msgid "HTTP GET link"
-msgstr ""
+msgstr "Ligação HTTP GET"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1988
 msgid "The session you want to delete does not exist"
-msgstr ""
+msgstr "A sessão que deseja eliminar não existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1991
 msgid "Failed to delete session"
-msgstr ""
+msgstr "Falha ao eliminar sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1995
 msgid "Failed to contact server to delete session"
-msgstr ""
+msgstr "Falha ao contactar servidor para elininar a sessão"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2015
 msgid "Device '{d}' of session '{s}' has been deleted"
-msgstr ""
+msgstr "O dispositivo '{d}' da sessão '{s}' foi eliminado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2018
 msgid "Failed to delete device '{d}' of session '{s}'"
