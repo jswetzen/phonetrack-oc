@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-04 14:21\n"
+"PO-Revision-Date: 2021-06-04 14:31\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
@@ -27,31 +27,31 @@ msgstr "O dispositivo PhoneTrack {device} da sessão {session} saiu da delimita�
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
-msgstr ""
+msgstr "O dispositivo PhoneTrack {device} da sessão {session} está a menos de {meters} m do {device2} da sessão {session2}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr ""
+msgstr "O dispositivo PhoneTrack {device} da sessão {session} está a mais de {meters} m do {device2} da sessão {session2}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Partilhou a sessão PhoneTrack {session} com {who}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "A sessão PhoneTrack {session} é agora partilhada com {who}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
-msgstr ""
+msgstr "Interrompeu a partilha da sessão PhoneTrack {session} com {who}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "PhoneTrack session {session} is not shared with {who} anymore"
-msgstr ""
+msgstr "A sessão PhoneTrack {session} já está partilhada com {who}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Um cliente PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/Filter.php:55
 #: /var/www/html/dev/server/apps/phonetrack/lib/AppInfo/Application.php:66
@@ -63,7 +63,7 @@ msgstr "PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr ""
+msgstr "Eventos de <strong>delimitação geográfica PhoneTrack</strong>"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
@@ -71,38 +71,38 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
-msgstr ""
+msgstr "Alterações realizadas na <strong>aplicação PhoneTrack</strong>"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:397
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:534
 #, php-format
 msgid "PhoneTrack proximity alert (%s and %s)"
-msgstr ""
+msgstr "Alerta de proximidade PhoneTrack (%s e %s)"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:401
 #, php-format
 msgid "PhoneTrack device %s is now closer than %s m to %s."
-msgstr ""
+msgstr "O dispositivo PhoneTrack %s está %s mais próximo de %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:538
 #, php-format
 msgid "PhoneTrack device %s is now farther than %s m from %s."
-msgstr ""
+msgstr "O dispositivo PhoneTrack %s está %s m mais distante de %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:737
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:863
 msgid "Geofencing alert"
-msgstr ""
+msgstr "Alerta de delimitação geográfica"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:741
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr ""
+msgstr "Na sessão PhoneTrack %s, o dispositivo %s entrou na delimitação geográfica %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:867
 #, php-format
 msgid "In PhoneTrack session %s, device %s exited geofence %s."
-msgstr ""
+msgstr "Na sessão PhoneTrack %s, o dispositivo %s saiu da delimitação geográfica %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2568
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2595
@@ -247,7 +247,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1249
 msgid "Failed to contact server to restore options values"
-msgstr ""
+msgstr "Falha ao contactar servidor para restaurar os valores das opções"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1252
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1398
@@ -259,7 +259,7 @@ msgstr "Recarregar esta página"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1395
 msgid "Failed to contact server to save options values"
-msgstr ""
+msgstr "Falha ao contactar servidor para guardar os valores das opções"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1407
 msgid "Filter bookmark should have a name"
@@ -733,7 +733,7 @@ msgstr "Oeste"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3235
 msgid "Fence name"
-msgstr ""
+msgstr "Nome da delimitação geográfica"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3236
 msgid "Use current map view as geofencing zone"
@@ -1026,17 +1026,17 @@ msgstr "Falha ao eliminar partilha de utilizador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4842
 msgid "Failed to contact server to delete user share"
-msgstr ""
+msgstr "Falha ao contactar servidor para eliminar partilha de utilizador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4860
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4884
 msgid "Public share has been successfully modified"
-msgstr ""
+msgstr "A partilha pública foi modificada com sucesso"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4863
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4887
 msgid "Failed to modify public share"
-msgstr ""
+msgstr "Falha ao modificar partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4866
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4890
@@ -1045,7 +1045,7 @@ msgstr "Falha ao contactar servidor para alterar partilha pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4908
 msgid "Device name restriction has been successfully set"
-msgstr ""
+msgstr "Restrição de nome do dispositivo foi definida com sucesso"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4911
 msgid "Failed to set public share device name restriction"
@@ -1057,15 +1057,15 @@ msgstr "Falha ao contactar servidor para definir restrição de partilha públic
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4949
 msgid "Warning : User email and server admin email must be set to receive geofencing alerts."
-msgstr ""
+msgstr "Aviso: os emails do utilizador e do administrador do servidor devem ser definidos para receber delimitação geográfica."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4953
 msgid "Failed to add geofencing zone"
-msgstr ""
+msgstr "Falha ao adicionar zona de delimitação geográfica"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4956
 msgid "Failed to contact server to add geofencing zone"
-msgstr ""
+msgstr "Falha ao contactar servidor para adicionar zona de delimitação geográfica"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4971
 msgid "URL to request when entering"
@@ -1246,7 +1246,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5469
 msgid "Copy the link below into the 'URL' field."
-msgstr ""
+msgstr "Copie a ligação abaixo para o campo 'URL'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5473
 msgid "In the Owntracks preferences menu, go to 'Connections'."
@@ -1254,7 +1254,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5474
 msgid "Change the connection Mode to 'Private HTTP', Copy the link below into the 'Host' field."
-msgstr ""
+msgstr "Alterar o modo de ligação para 'HTTP privado', copie o URL abaixo para o campo 'Host'."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5475
 msgid "Leave settings under 'Identification' blank as they are not required."
