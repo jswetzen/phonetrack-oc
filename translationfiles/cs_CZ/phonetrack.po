@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-21 13:11\n"
+"PO-Revision-Date: 2021-06-21 13:21\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -641,7 +641,7 @@ msgstr "Zóny geofencingu zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3197
 msgid "Zoom on geofencing area, then set values, then validate."
-msgstr ""
+msgstr "Přibližte si vyhrazenou oblast, pak nastavte hodnoty, pak ověřte."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3198
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3258
@@ -709,19 +709,19 @@ msgstr "Jih"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3222
 msgid "Set North/East corner by clicking on the map"
-msgstr ""
+msgstr "Nastavte severovýchodní cíp kliknutím na mapu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3223
 msgid "Set N/E"
-msgstr ""
+msgstr "Nastavit SV"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3225
 msgid "Set South/West corner by clicking on the map"
-msgstr ""
+msgstr "Nastavte jihozápadní cíp kliknutím na mapu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3226
 msgid "Set S/W"
-msgstr ""
+msgstr "Nastavit SZ"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3230
 msgid "East"
@@ -1282,11 +1282,11 @@ msgstr "V LocusMap, zkopírujte níže uvedený odkaz do kolonky „URL adresa s
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5493
 msgid "You can log with any other client with a simple HTTP request."
-msgstr ""
+msgstr "Můžete se přihlásit s jiným klientem pomocí jednoduchého požadavku HTTP."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5494
 msgid "Make sure the logging system sets values for at least 'timestamp', 'lat' and 'lon' GET parameters."
-msgstr ""
+msgstr "Zajistěte, aby zaznamenávací systém nastavil hodnoty alespoň pro GET parametry „timestamp“ (časové razítko), „lat“ (zem. šířka) a „lon“ (zem. délka)."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5497
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
