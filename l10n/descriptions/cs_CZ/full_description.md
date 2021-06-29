@@ -25,12 +25,12 @@ Na hlavní stránce PhoneTrack můžete během sledování relace:
 * ⛶ Definovat oblasti geooplocení pro zařízení
 * ⚇ Definovat výstrahy přiblížení pro dvojice zařízení
 * 🖧 Sdílet relaci ostatním uživatelům Nextcloud nebo veřejným odkazem (pouze pro čtení)
-* 🔗 Generovat veřejné odkazy s volitelnými omezeními (filtry, název zařízení, poslední pozice, geooplocení)
-* 🖫 Importovat/Exportovat relace ve formátu GPX (jeden soubor s jednou trasou nebo jeden soubor na zařízení)
+* 🔗 Vytvářet veřejné odkazy s volitelnými omezeními (filtry, název zařízení, poslední pozice, zjednodušení geooplocení)
+* 🖫 Importovat/exportovat relace ve formátu GPX (pro jednotlivá zařízení buď zvlášť soubor pro každou trasu, nebo jeden se všemi trasami daného zařízení)
 * 🗠 Zobrazit statistiky relace
-* 🔒 [Zarezervovat název zařízení](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) abyste se ujistili, že pouze pověřený uživatel se může tímto názvem přihlásit
-* 🗓 Přepnout automatický export relace a automatické vyčištění (denně/týdně/měsíčně)
-* ◔ Zvolte co dělat, když je dosaženo kvóty počtu bodů (blokovat zaznamenávání nebo smazání nejstaršího bodu)
+* 🔒 [Zarezervovat název zařízení](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) abyste zajistili, že pomocí něj bude moci zaznamenávat pouze pověřený uživatel
+* 🗓 Vypnout/zapnout automatický export relace a automatické čištění (denně/týdně/měsíčně)
+* ◔ Zvolit co dělat, když je dosaženo kvóty počtu bodů (blokovat zaznamenávání nebo mazat od nejstaršího bodu)
 
 Veřejná a veřejně filtrovaná stránka fungují stejně jako hlavní stránka ale je zobrazena pouze jedna relace, vše je pouze pro čtení a není třeba být přihlášen.
 
