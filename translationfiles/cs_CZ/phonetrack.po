@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 19:11\n"
+"PO-Revision-Date: 2021-06-29 19:20\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -283,11 +283,11 @@ msgstr "Takto nazvaná relace už existuje"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1541
 msgid "Failed to contact server to create session"
-msgstr "Nepodařilo se kontaktovat server pro vytvoření relace"
+msgstr "Nepodařilo se kontaktovat server ohledně vytvoření relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1577
 msgid "yourname"
-msgstr "jméno"
+msgstr "vasejmeno"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1665
 msgid "Watch this session"
@@ -295,7 +295,7 @@ msgstr "Sledovat tuto relaci"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1671
 msgid "shared by {u}"
-msgstr "sdílel {u}"
+msgstr "nasdílel(a) {u}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1680
 msgid "Forbid devices to log to this session"
@@ -307,7 +307,7 @@ msgstr "Rezervovat názvy zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1694
 msgid "Links for logging apps"
-msgstr "Odkazy na logovací aplikace"
+msgstr "Odkazy na aplikace pro zaznamenávání"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1701
 msgid "Link to share session"
@@ -328,7 +328,7 @@ msgstr "Odstranit relaci"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1728
 msgid "Rename session"
-msgstr "Přejmenování relace"
+msgstr "Přejmenovat relaci"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1731
 msgid "Export to gpx"
@@ -392,7 +392,7 @@ msgstr "Název může být nastaven přímo v odkazu, pokud není rezervován."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1764
 msgid "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
-msgstr "To log with a reserved name, use the \"name token\" in logging link (or in PhoneTrack-Android log job's \"device name\") field."
+msgstr "Pokud chcete zaznamenávat s využitím zarezervovaného názvu, použijte v kolonce pro odkaz na zaznamenávání „token názvu“ (nebo v PhoneTrack-Android úloze záznamu „název zařízení“)."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1765
 msgid "If a name is reserved, the only way to log with this name is with its token."
@@ -400,11 +400,11 @@ msgstr "Pokud je název vyhrazen, lze se s tímto názvem přihlásit pouze pomo
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1768
 msgid "Reserve this device name"
-msgstr "Vyhradit název zařízení"
+msgstr "Zarezervovat tento název zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1770
 msgid "Type reserved name and press 'Enter'"
-msgstr "Napište vyhrazený název a stiskněte \"Enter\""
+msgstr "Napište vyhrazený název a stiskněte „Enter“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1783
 msgid "Share with user"
