@@ -11,16 +11,16 @@
 Jak PhoneTrack používat:
 
 * Vytvořte relaci sledování.
-* Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Zadejte odkaz na úložiště záznamů\* do mobilních zařízení. Zvolte vámi upřednostňovanou [metodu zaznamenávání](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods).
+* Sledujte pozice zařízení v rámce dané relace v reálném čase (nebo ne) v PhoneTrack nebo ji sdílejte prostřednictvím veřejných stránek.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+(\*) Nezapomeňte do odkazu zadat také název zařízení (namísto v nastavení zaznamenávající aplikace). Nahraďte „vašejméno“ požadovaným názvem zařízení. Nastavení názvu zařízení v záznamové aplikaci funguje pouze v případě Owntracks, Traccar a OpenGTS.
 
 Na hlavní stránce PhoneTrack můžete během sledování relace:
 
-* 📍 Zobrazí historii polohy
+* 📍 Zobrazit historii polohy
 * ⛛ Filtrovat body
-* ✎ Ruční upravování/přidávání/mazání bodů
+* ✎ Ručně upravovat/přidávat/mazat body
 * ✎ Upravit zařízení (přejmenovat, změnit barvu/tvar, přesunout do jiné relace)
 * ⛶ Definovat oblasti geooplocení pro zařízení
 * ⚇ Definovat výstrahy přiblížení pro dvojice zařízení
