@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 07:01\n"
+"PO-Revision-Date: 2021-06-29 12:31\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1615,7 +1615,7 @@ msgstr "Pro každé zařízení exportovat zvlášť soubor"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:217
 msgid "Tracking sessions"
-msgstr ""
+msgstr "Relace sledování"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:268
 msgid "Custom tile servers"
@@ -1674,7 +1674,7 @@ msgstr "Vaše servery s mapovými podklady"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:308
 msgid "Custom mapbox tile servers"
-msgstr ""
+msgstr "Uživatelsky určené server s mapbox dlaždicemi"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
@@ -1690,11 +1690,11 @@ msgstr "Přístupový token (klíč k aplikačnímu program. rozhraní)"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr ""
+msgstr "Vaše servery s mapbox dlaždicemi"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
-msgstr ""
+msgstr "Uživatelsky určené servery s dlaždicemi překryvných vrstev"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:352
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:395
@@ -1710,7 +1710,7 @@ msgstr "Například: http://overlay.server.org/cycle/{z}/{x}/{y}.png"
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:358
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:446
 msgid "Transparent"
-msgstr ""
+msgstr "Průhledné"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:360
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:448
