@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 12:31\n"
+"PO-Revision-Date: 2021-06-29 13:01\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1715,7 +1715,7 @@ msgstr "Průhledné"
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:360
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:448
 msgid "Opacity (0.0-1.0)"
-msgstr ""
+msgstr "Průhlednost (0.0-1.0)"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:365
 msgid "Your overlay tile servers"
@@ -1728,17 +1728,17 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:401
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:450
 msgid "Format"
-msgstr ""
+msgstr "Formát"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:403
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:452
 msgid "WMS version"
-msgstr ""
+msgstr "Verze WMS"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:405
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:454
 msgid "Layers to display"
-msgstr ""
+msgstr "Vrstvy které zobrazovat"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:410
 msgid "Your WMS tile servers"
@@ -1754,12 +1754,12 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:488
 msgid "Manually add a point"
-msgstr ""
+msgstr "Přidat bod ručně"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:494
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:512
 msgid "Device"
-msgstr ""
+msgstr "Zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:496
 msgid "Add a point"
@@ -1884,7 +1884,7 @@ msgstr "název záložky"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:685
 msgid "Save filter bookmark"
-msgstr ""
+msgstr "Uložit záložku filtru"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:718
 msgid "Statistics"
