@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 20:03\n"
+"PO-Revision-Date: 2021-06-29 20:21\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -151,7 +151,7 @@ msgstr "Uživatel „%s“ vám nasdílel PhoneTrack relaci „%s“."
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:140
 #, php-format
 msgid "User \"%s\" stopped sharing PhoneTrack session \"%s\" with you."
-msgstr ""
+msgstr "Uživatel „%s“ vám přestal(a) sdílet PhoneTrack relaci „%s“."
 
 #: /var/www/html/dev/server/apps/phonetrack/specialAppInfoFakeDummyForL10nScript.php:3
 msgid " "
@@ -1290,7 +1290,7 @@ msgstr "Zajistěte, aby zaznamenávací systém nastavil hodnoty alespoň pro GE
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5497
 msgid "Use this link as the server URL in your OpenGTS compatible logging app."
-msgstr ""
+msgstr "Použijte tento odkaz jako URL serveru ve vaší aplikaci pro zaznamenávání, která je kompatibilní s OpenGTS."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5498
 msgid "OpenGTS compatible logger"
@@ -1462,7 +1462,7 @@ msgstr "Prázdná hodnota znamená bez omezení"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:71
 msgid "Max number of points per device to load on refresh"
-msgstr ""
+msgstr "Kolik nejvíce bodů načítat pro každé ze zařízení při opětovném načtení"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:72
 msgid "points"
