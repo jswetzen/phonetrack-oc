@@ -32,9 +32,9 @@ Na hlavní stránce PhoneTrack můžete během sledování relace:
 * 🗓 Vypnout/zapnout automatický export relace a automatické čištění (denně/týdně/měsíčně)
 * ◔ Zvolit co dělat, když je dosaženo kvóty počtu bodů (blokovat zaznamenávání nebo mazat od nejstaršího bodu)
 
-Veřejná a veřejně filtrovaná stránka fungují stejně jako hlavní stránka ale je zobrazena pouze jedna relace, vše je pouze pro čtení a není třeba být přihlášen.
+Veřejná a veřejná filtrovaná stránka fungují stejně jako hlavní stránka, ale je zobrazena pouze jedna relace, vše je pouze pro čtení a není třeba být přihlášeni.
 
-Tato aplikace je zkoušená na Nextcloud 17 a prohlížečích Firefox 57 a novějším a Chromium.
+Tato aplikace je testovaná na Nextcloud 17 a prohlížečích Firefox 57 a novějším a Chromium.
 
 Tato aplikace je kompatibilní s barvami motivu vzhledu a motivy pro zpřístupnění!
 
