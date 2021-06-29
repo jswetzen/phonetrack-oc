@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 19:41\n"
+"PO-Revision-Date: 2021-06-29 19:51\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1539,7 +1539,7 @@ msgstr "Zobrazit v popiscích rychlost"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
-msgstr ""
+msgstr "Zobrazovat v popiscích azimut"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
@@ -1555,7 +1555,7 @@ msgstr "Zobrazovat v popiscích nadmořskou výšku"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:150
 msgid "Show user-agent in tooltips"
-msgstr ""
+msgstr "Zobrazovat v popiskách user-agent"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:154
 msgid "Make points draggable in edition mode"
