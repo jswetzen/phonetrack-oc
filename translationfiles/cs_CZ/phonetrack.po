@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 19:31\n"
+"PO-Revision-Date: 2021-06-29 19:41\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -131,12 +131,12 @@ msgstr "V relaci „%s“, zařízení „%s“ opustilo vymezenou oblast „%s�
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
 msgid "Device \"%s\" is now closer than %sm to \"%s\"."
-msgstr "Zařízení \"%s\" je nyní blíže než %sm k \"%s\"."
+msgstr "Zařízení „%s“ je nyní blíže než %sm k „%s“."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:113
 #, php-format
 msgid "Device \"%s\" is now farther than %sm from \"%s\"."
-msgstr "Zařízení \"%s\" je nyní dále než %sm od \"%s\"."
+msgstr "Zařízení „%s“ je nyní dále než %sm od „%s“."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:122
 #, php-format
@@ -176,11 +176,11 @@ msgstr "Skrýt řádky"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:704
 msgid "Activate automatic zoom"
-msgstr "Povolit automatické přiblížení"
+msgstr "Zapnout automatické přiblížení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:712
 msgid "Disable automatic zoom"
-msgstr "Zakázat automatické přiblížení"
+msgstr "Vypnout automatické přiblížení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:733
 msgid "Show last point tooltip"
@@ -192,7 +192,7 @@ msgstr "Skrýt popisek posledního bodu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:762
 msgid "Zoom on all devices"
-msgstr "Zoom na všech zařízeních"
+msgstr "Nastavit měřítko zobrazení tak, aby byla vidět všechna zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:775
 msgid "Click on the map to move the point, press ESC to cancel"
