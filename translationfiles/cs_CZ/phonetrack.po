@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 13:01\n"
+"PO-Revision-Date: 2021-06-29 14:02\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1094,7 +1094,7 @@ msgstr "ano"
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5114
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5135
 msgid "Email address(es)"
-msgstr "Emailová/é adresa/y"
+msgstr "E-mailová adresa/adresy"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4994
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5012
