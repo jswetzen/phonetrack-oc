@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 19:01\n"
+"PO-Revision-Date: 2021-06-29 19:11\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -209,7 +209,7 @@ msgstr "Nelze přidat mapový server"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1031
 msgid "A server with this name already exists"
-msgstr "Server s tímto názvem již existuje"
+msgstr "Server s tímto názvem už existuje"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1069
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4157
@@ -223,23 +223,23 @@ msgstr "Smazat"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1114
 msgid "Tile server \"{ts}\" has been added"
-msgstr "Byl přidán mapový server \"{ts}\""
+msgstr "Byl přidán mapový server „{ts}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1117
 msgid "Failed to add tile server \"{ts}\""
-msgstr "Nepodařilo se přidat mapový server \"{ts}\""
+msgstr "Nepodařilo se přidat mapový server „{ts}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1121
 msgid "Failed to contact server to add tile server"
-msgstr "Nepodařilo se kontaktovat server pro přidání mapového serveru"
+msgstr "Nepodařilo se kontaktovat server ohledně přidání mapového serveru"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1155
 msgid "Tile server \"{ts}\" has been deleted"
-msgstr "Byl odebrán mapový server \"{ts}\""
+msgstr "Byl odebrán mapový server „{ts}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1158
 msgid "Failed to delete tile server \"{ts}\""
-msgstr "Nepodařilo se odebrat mapový server \"{ts}\""
+msgstr "Nepodařilo se odebrat mapový server „{ts}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1162
 msgid "Failed to contact server to delete tile server"
@@ -247,7 +247,7 @@ msgstr "Nepodařilo se kontaktovat server pro odebrání mapového serveru"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1249
 msgid "Failed to contact server to restore options values"
-msgstr "Nepodařilo se kontaktovat server pro obnovení nastavení"
+msgstr "Nepodařilo se kontaktovat server ohledně vrácení hodnot nastavení do výchozího stavu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1252
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1398
@@ -255,31 +255,31 @@ msgstr "Nepodařilo se kontaktovat server pro obnovení nastavení"
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6373
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6404
 msgid "Reload this page"
-msgstr "Aktualizovat tuto stránku"
+msgstr "Znovu načíst tuto stránku"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1395
 msgid "Failed to contact server to save options values"
-msgstr "Nepodařilo se kontaktovat server pro uložení nastavení"
+msgstr "Nepodařilo se kontaktovat server ohledně uložení nastavení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1407
 msgid "Filter bookmark should have a name"
-msgstr "Záložka filtru by měla být pojmenovaná"
+msgstr "Záložka filtru by měla být pojmenována"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1435
 msgid "Failed to contact server to save filters bookmark"
-msgstr "Chyba kontaktování serveru při ukládání záložek filtrů"
+msgstr "Chyba kontaktování serveru ohledně ukládání záložek filtrů"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1478
 msgid "Failed to contact server to delete filters bookmark"
-msgstr "Chyba kontaktování serveru při mazání záložek filtrů"
+msgstr "Nepodařilo se kontaktovat server ohledně smazání záložek filtrů"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1520
 msgid "Session name should not be empty"
-msgstr "Název relace nesmí být prázdný"
+msgstr "Název relace by neměl zůstat prázdný"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1537
 msgid "Session name already used"
-msgstr "Název relace je již použit"
+msgstr "Takto nazvaná relace už existuje"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1541
 msgid "Failed to contact server to create session"
@@ -513,15 +513,15 @@ msgstr "Nepodařilo se kontaktovat server ohledně odstraňování relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2015
 msgid "Device '{d}' of session '{s}' has been deleted"
-msgstr "Zařízení '{d}' z relace '{s}' bylo odstraněno"
+msgstr "Zařízení „{d}“ z relace „{s}“ bylo odstraněno"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2018
 msgid "Failed to delete device '{d}' of session '{s}'"
-msgstr "Chyba při odstraňování zařízení '{d}' z relace '{s}'"
+msgstr "Nepodařilo se odstranit zařízení „{d}“ z relace „{s}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2022
 msgid "Failed to contact server to delete device"
-msgstr "Chyba kontaktování serveru při odstraňování zařízení"
+msgstr "Nepodařilo se kontaktovat server ohledně smazání zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2079
 msgid "Impossible to rename session"
@@ -529,7 +529,7 @@ msgstr "Není možné přejmenovat relaci"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2083
 msgid "Failed to contact server to rename session"
-msgstr "Chyba kontaktování serveru při přejmenování relace"
+msgstr "Nepodařilo se kontaktovat server ohledně přejmenování relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2131
 msgid "Impossible to rename device"
@@ -537,19 +537,19 @@ msgstr "Není možné přejmenovat zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2135
 msgid "Failed to contact server to rename device"
-msgstr "Chyba kontaktování serveru při přejmenování zařízení"
+msgstr "Nepodařilo se kontaktovat server ohledně přejmenování zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2207
 msgid "Impossible to set device alias for {n}"
-msgstr "Není možné nastavit přezdívku zařízení pro {n}"
+msgstr "Není možné nastavit alternativní název zařízení pro {n}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2211
 msgid "Failed to contact server to set device alias"
-msgstr "Chyba kontaktování serveru při nastavování přezdívky zařízení"
+msgstr "Nepodařilo se kontaktovat server ohledně nastavení alternativního názvu zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2281
 msgid "Device already exists in target session"
-msgstr "Zařízení již ve zvolené relaci existuje"
+msgstr "Zařízení už ve zvolené relaci existuje"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2284
 msgid "Impossible to move device to another session"
@@ -557,11 +557,11 @@ msgstr "Není možné přesunout zařízení do jiné relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2288
 msgid "Failed to contact server to move device"
-msgstr "Chyba kontaktování serveru při přesunu zařízení"
+msgstr "Nepodařilo se kontaktovat server ohledně přesunutí zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2358
 msgid "Failed to contact server to get sessions"
-msgstr "Chyba kontaktování serveru při získávání relací"
+msgstr "Nepodařilo se kontaktovat server ohledně načtení relací"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2798
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2825
@@ -578,11 +578,11 @@ msgstr "Barva zařízení úspěšně změněna"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3068
 msgid "Failed to save device's color"
-msgstr "Chyba při změně barvy zařízení"
+msgstr "Nepodařilo se uložit barvu pro zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3072
 msgid "Failed to contact server to change device's color"
-msgstr "Chyba kontaktování serveru při změně barvy zařízení"
+msgstr "Nepodařilo se kontaktovat server ohledně změny barvy pro dané zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3144
 msgid "Geo link to open position in other app/software"
@@ -590,13 +590,13 @@ msgstr "Geo odkaz na otevření pozice v jiné aplikaci/software"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3146
 msgid "Geo link QRcode to open position with a QRcode scanner"
-msgstr "Geo odkaz QRcode pro otevření pozice se skenerem QRcode"
+msgstr "QR kód geo odkazu pro otevření pozice prostřednictvím skeneru QR kódů"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3148
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3150
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3152
 msgid "Get driving direction to this device with {s}"
-msgstr "Směr jízdy tohoto zařízení s {s}"
+msgstr "Načíst směr jízdy tohoto zařízení pomocí {s}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3157
 msgid "Set device shape"
