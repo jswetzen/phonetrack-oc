@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 17:10\n"
+"PO-Revision-Date: 2021-06-29 17:21\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1323,7 +1323,7 @@ msgstr "Potvrďte smazání relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5792
 msgid "Choose auto export target path"
-msgstr "Zvolte cestu k automatickému exportu"
+msgstr "Zvolte popis umístění cíle automatického exportu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5972
 msgid "Select storage location for '{fname}'"
@@ -1347,11 +1347,11 @@ msgstr "Změna stavu zámku relace se nezdařila"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6400
 msgid "Failed to toggle session public status, session does not exist"
-msgstr "Nepodařilo se přepnout stav veřejnosti relace – ta neexistuje"
+msgstr "Nepodařilo se přepnout stav zveřejnění relace, protože ta neexistuje"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6403
 msgid "Failed to contact server to toggle session public status"
-msgstr "Nepodařilo se kontaktovat server ohledně přepnutí stavu veřejnosti relace"
+msgstr "Nepodařilo se kontaktovat server ohledně přepnutí stavu zveřejnění relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:6472
 msgid "Failed to set device shape"
@@ -1479,11 +1479,11 @@ msgstr "Minimální vzdálenost, aby už bylo považováno za dva body"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
-msgstr "Minimální doba, po které uplynutí považovat za dva body"
+msgstr "Minimální doba, po jejímž uplynutí považovat za dva body"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:82
 msgid "seconds"
-msgstr "vteřin"
+msgstr "sekund"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:85
 msgid "When point quota is reached"
@@ -1491,7 +1491,7 @@ msgstr "Při dosažení kvóty bodů"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:87
 msgid "block logging"
-msgstr "blokovat logování"
+msgstr "blokovat zaznamenávání"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:88
 msgid "delete user's oldest point each time a new one is logged"
