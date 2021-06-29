@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 18:01\n"
+"PO-Revision-Date: 2021-06-29 18:51\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -876,7 +876,7 @@ msgstr "Satelity"
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4140
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4236
 msgid "Battery"
-msgstr "Baterie"
+msgstr "Akumulátor"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4143
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4240
@@ -889,7 +889,7 @@ msgstr "lat : lng"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4150
 msgid "DMS coords"
-msgstr "DMS koordináty"
+msgstr "DMS souřadnice"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4156
 msgid "Save"
@@ -901,7 +901,7 @@ msgstr "Přesunout"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4159
 msgid "Cancel"
-msgstr "Zrušit"
+msgstr "Storno"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4205
 msgid "Distance"
@@ -953,11 +953,11 @@ msgstr "Relace úspěšně exportována do"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4482
 msgid "There is no point to export for this session"
-msgstr "Pro tuto relaci není žádný důvod exportovat"
+msgstr "V této relaci nejsou žádné body k exportování,"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4486
 msgid "but there was no point to export for some devices"
-msgstr "ale neměl smysl exportovat pro některá zařízení"
+msgstr "ale nebyl zde žádný bod pro export pro některá zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4490
 msgid "Failed to export session"
@@ -1118,7 +1118,7 @@ msgstr "Varování: aby bylo možné dostávat výstrahy ohledně přiblížení
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5075
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5079
 msgid "Failed to add proximity alert"
-msgstr "Chyba při přidávání výstrahy přiblížení"
+msgstr "Nepodařilo se přidat upozornění na přiblížení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5076
 msgid "Device or session does not exist"
@@ -1226,7 +1226,7 @@ msgstr "dní"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5458
 msgid "In OsmAnd, go to 'Plugins' in the main menu, then activate 'Trip recording' plugin and go to its settings."
-msgstr "V OsmAnd, jděte „Zásuvné moduly“ v hlavní nabídce, zde aktivujte modul „Záznam trasy“ a přejděte do jeho nastavení."
+msgstr "V OsmAnd, jděte do „Zásuvné moduly“ v hlavní nabídce, zde aktivujte modul „Záznam trasy“ a přejděte do jeho nastavení."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5459
 msgid "Copy the link below into the 'Online tracking web address' field."
