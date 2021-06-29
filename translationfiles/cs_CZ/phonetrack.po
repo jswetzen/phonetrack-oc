@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 18:51\n"
+"PO-Revision-Date: 2021-06-29 19:01\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -412,7 +412,7 @@ msgstr "Sdílet s uživatelem"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1785
 msgid "Type user name and press 'Enter'"
-msgstr "Zadejte uživatelské jméno a stiskněte \"Enter\""
+msgstr "Zadejte uživatelské jméno a stiskněte „Enter“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1786
 msgid "user name"
@@ -420,7 +420,7 @@ msgstr "uživatelské jméno"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1793
 msgid "A private session is not visible on public browser logging page"
-msgstr "Soukromá relace se nezobrazuje na veřejné logovací stránce v prohlížeči"
+msgstr "Soukromá relace se nezobrazuje na veřejné zaznamenávací stránce v prohlížeči"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1795
 msgid "Public session"
@@ -432,11 +432,11 @@ msgstr "Veřejný odkaz pro prohlížení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1804
 msgid "API URL (JSON, last positions)"
-msgstr "API URL (JSON, last positions)"
+msgstr "API URL (JSON, poslední pozice)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1806
 msgid "API URL (JSON, all positions)"
-msgstr "API URL (JSON, all positions)"
+msgstr "API URL (JSON, všechny pozice)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1812
 msgid "Current active filters will be applied on shared view"
@@ -448,16 +448,16 @@ msgstr "Přidat veřejné filtrované sdílení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1823
 msgid "Session token"
-msgstr "Session token"
+msgstr "Token relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1829
 msgid "List of links to configure logging apps server settings."
-msgstr "Seznam odkazů pro konfiguraci logovacích aplikací na serveru."
+msgstr "Seznam odkazů pro nastavování parametrů záznamových aplikací na serveru."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1830
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:225
 msgid "Replace 'yourname' with the desired device name or with the name reservation token"
-msgstr "Nahraďte 'jméno' jménem zařízení nebo jménem rezervačního tokenu"
+msgstr "Nahraďte „název“ požadovaným názvem zařízení nebo názvem rezervačního tokenu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1832
 msgid "Public browser logging link"
@@ -505,11 +505,11 @@ msgstr "Relace, kterou chcete smazat, neexistuje"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1991
 msgid "Failed to delete session"
-msgstr "Chyba při odstraňování relace"
+msgstr "Nepodařilo se smazat relaci"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1995
 msgid "Failed to contact server to delete session"
-msgstr "Chyba kontaktování serveru při odstraňování relace"
+msgstr "Nepodařilo se kontaktovat server ohledně odstraňování relace"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2015
 msgid "Device '{d}' of session '{s}' has been deleted"
@@ -616,7 +616,7 @@ msgstr "Trojúhelník"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3165
 msgid "Delete this device"
-msgstr "Vymazat toto zařízení"
+msgstr "Odstranit toto zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3167
 msgid "Rename this device"
@@ -624,7 +624,7 @@ msgstr "Přejmenovat toto zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3170
 msgid "Set device alias"
-msgstr "Nastavit zařízení alias"
+msgstr "Nastavit alternativní název pro zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3173
 msgid "Move to another session"
@@ -637,7 +637,7 @@ msgstr "Ok"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3193
 msgid "Device geofencing zones"
-msgstr "Zóny geofencingu zařízení"
+msgstr "Zóny geooplocení pro dané zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3197
 msgid "Zoom on geofencing area, then set values, then validate."
@@ -733,11 +733,11 @@ msgstr "Západ"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3235
 msgid "Fence name"
-msgstr "Jméno plotu"
+msgstr "Název pro plot"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3236
 msgid "Use current map view as geofencing zone"
-msgstr "Použít aktuální zobrazení mapy jako geofencing zónu"
+msgstr "Použít aktuální zobrazení mapy jako oblast geooplocení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3237
 msgid "Add zone"
@@ -838,7 +838,7 @@ msgstr "Uživatelská kvóta byla dosažena"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3980
 msgid "Failed to contact server to add point"
-msgstr "Nepodařilo se kontaktovat server pro přidání bodu"
+msgstr "Nepodařilo se kontaktovat server ohledně přidání bodu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4117
 msgid "Date"
@@ -977,15 +977,15 @@ msgstr "Není možné přiblížit – pro toto zařízení neexistuje bod na kt
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4733
 msgid "'{n}' is already reserved"
-msgstr "'{n}' je již rezervováno"
+msgstr "„{n}“ už je zarezervováno"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4736
 msgid "Failed to reserve '{n}'"
-msgstr "Chyba při rezervaci '{n}'"
+msgstr "Nepodařilo se zarezervovat si “{n}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4739
 msgid "Failed to contact server to reserve device name"
-msgstr "Nepodařilo se kontaktovat server pro vyhrazení si názvu zařízení"
+msgstr "Nepodařilo se kontaktovat server ohledně zarezervování názvu zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4770
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4774
@@ -998,11 +998,11 @@ msgstr "Toto zařízení neexistuje"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4775
 msgid "This device name is not reserved, please reload this page"
-msgstr "Název tohoto zařízení není rezervován, prosím obnovte tuto stránku"
+msgstr "Název tohoto zařízení není zarezervován, prosím načtěte tuto stránku znovu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4778
 msgid "Failed to contact server to delete reserved name"
-msgstr "Nepodařilo se kontaktovat server ohledně smazání zarezervovaného názevu"
+msgstr "Nepodařilo se kontaktovat server ohledně smazání zarezervovaného názvu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4798
 msgid "User does not exist"
@@ -1036,7 +1036,7 @@ msgstr "Veřejné sdílení bylo úspěšně změněno"
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4863
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4887
 msgid "Failed to modify public share"
-msgstr "Chyba při modifikaci veřejného sdílení"
+msgstr "Nepodařilo se upravit veřejné sdílení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4866
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4890
