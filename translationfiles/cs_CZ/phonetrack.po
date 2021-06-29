@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 14:02\n"
+"PO-Revision-Date: 2021-06-29 14:41\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1535,7 +1535,7 @@ msgstr "Zobrazovat v popiscích přesnost"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
-msgstr "Zobrazit rychlost v popiscích"
+msgstr "Zobrazit v popiscích rychlost"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
@@ -1543,7 +1543,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:138
 msgid "Show satellites in tooltips"
-msgstr "Zobrazovat v popiscích satelity"
+msgstr "Zobrazovat v popiscích počet satelitů"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:142
 msgid "Show battery level in tooltips"
