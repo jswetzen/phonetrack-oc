@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-06-29 19:20\n"
+"PO-Revision-Date: 2021-06-29 19:31\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -31,7 +31,7 @@ msgstr "PhoneTrack zařízení {device} relace {session} je nyní blíže než {
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:98
 msgid "PhoneTrack device {device} of session {session} is now farther than {meters} m from {device2} of session {session2}"
-msgstr "PhoneTrack zařízení {device} relace {session} je nyní více než {meters} m od {device2} relace {session2}"
+msgstr "PhoneTrack zařízení {device} relace {session} je nyní dál než {meters} m od {device2} relace {session2}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
@@ -92,7 +92,7 @@ msgstr "PhoneTrack zařízení %s je nyní dále než %s m od %s."
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:737
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:863
 msgid "Geofencing alert"
-msgstr "Geofencing výstraha"
+msgstr "Výstraha ohledně geooplocení"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:741
 #, php-format
@@ -121,12 +121,12 @@ msgstr "Přihlásit se do relace %s"
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:88
 #, php-format
 msgid "In session \"%s\", device \"%s\" entered geofencing zone \"%s\"."
-msgstr "V relaci \"%s\", zařízení \"%s\" vstoupilo do zóny \"%s\"."
+msgstr "V relaci „%s“, zařízení „%s“ vstoupilo do vyhrazené oblasti „%s“."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:96
 #, php-format
 msgid "In session \"%s\", device \"%s\" exited geofencing zone \"%s\"."
-msgstr "V relaci \"%s\", zařízení \"%s\" opustilo zónu \"%s\"."
+msgstr "V relaci „%s“, zařízení „%s“ opustilo vymezenou oblast „%s“."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
