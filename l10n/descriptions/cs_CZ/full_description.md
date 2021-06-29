@@ -40,9 +40,9 @@ Tato aplikace je kompatibilní s barvami motivu vzhledu a motivy pro zpřístupn
 
 Na této aplikaci stále ještě probíhá intenzivní vývoj.
 
-## Nainstalovat
+## Instalace
 
-Podrobnosti ohledně instalace naleznete v [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc).
+Podrobnosti ohledně instalace naleznete v [dokumentaci pro správce](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc).
 
 Co je nového a co se chystá v příštím vydání naleznete v souboru [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log).
 
@@ -50,6 +50,6 @@ Všechny autory naleznete v souboru [AUTHORS](https://gitlab.com/eneiluj/phonetr
 
 ## Známé problémy
 
-* PhoneTrack **nyní funguje** s aktivním skupinovým omezením v Nextcloud. Viz [dokumntace pro administrátory](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
+* PhoneTrack **nyní funguje** i při zapnutém omezení na skupiny v Nextcloud. Viz [dokumentace pro správce](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
 
 Jakákoliv zpětná vazba bude vítána.
