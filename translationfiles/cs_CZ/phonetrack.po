@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-07-06 19:21\n"
+"PO-Revision-Date: 2021-07-06 19:31\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -1408,7 +1408,7 @@ msgstr "Prázdná hodnota znamená bez omezení."
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:4
 msgid "Main tab"
-msgstr "Hlavní záložka"
+msgstr "Hlavní karta"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:5
 msgid "Filters"
@@ -1475,7 +1475,7 @@ msgstr "Oříznutí čar se týká pouze mapového pohledu a tabulky statistik"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:76
 msgid "Minimum distance to cut between two points"
-msgstr "Minimální vzdálenost, aby už bylo považováno za dva body"
+msgstr "Minimální vzdálenost, po jejímž překročení už považovat za dva body"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:81
 msgid "Minimum time to cut between two points"
@@ -1535,7 +1535,7 @@ msgstr "Zobrazovat v popiscích přesnost"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:130
 msgid "Show speed in tooltips"
-msgstr "Zobrazit v popiscích rychlost"
+msgstr "Zobrazovat v popiscích rychlost"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:134
 msgid "Show bearing in tooltips"
@@ -1555,7 +1555,7 @@ msgstr "Zobrazovat v popiscích nadmořskou výšku"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:150
 msgid "Show user-agent in tooltips"
-msgstr "Zobrazovat v popiskách user-agent"
+msgstr "Zobrazovat v popiscích user-agent"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:154
 msgid "Make points draggable in edition mode"
@@ -1619,7 +1619,7 @@ msgstr "Relace sledování"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:268
 msgid "Custom tile servers"
-msgstr "Uživatelsky určené servery s dlaždicemi mapových podkladů"
+msgstr "Uživatelsky určené servery s mapovými podklady"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:271
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:311
@@ -1627,7 +1627,7 @@ msgstr "Uživatelsky určené servery s dlaždicemi mapových podkladů"
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:393
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:438
 msgid "Server name"
-msgstr "Název serveru"
+msgstr "(váš) název pro daný server"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:272
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:312
@@ -1635,7 +1635,7 @@ msgstr "Název serveru"
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:394
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:439
 msgid "For example : my custom server"
-msgstr "Například: můj vlastní server"
+msgstr "Například: mnou určený server"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:273
 msgid "Server address"
@@ -1670,11 +1670,11 @@ msgstr "Přidat"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:282
 msgid "Your tile servers"
-msgstr "Vaše servery s mapovými podklady"
+msgstr "Vámi určené servery s mapovými podklady"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:308
 msgid "Custom mapbox tile servers"
-msgstr "Uživatelsky určené server s mapbox dlaždicemi"
+msgstr "Uživatelsky určené mapbox servery s mapovými podklady"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:313
 msgid "Style.json url"
@@ -1690,11 +1690,11 @@ msgstr "Přístupový token (klíč k aplikačnímu program. rozhraní)"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:320
 msgid "Your mapbox tile servers"
-msgstr "Vaše servery s mapbox dlaždicemi"
+msgstr "Vaše mapbox servery s mapovými podklady"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:347
 msgid "Custom overlay tile servers"
-msgstr "Uživatelsky určené servery s dlaždicemi překryvných vrstev"
+msgstr "Uživatelsky určené servery s podklady pro překryvné vrstvy"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:352
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:395
@@ -1715,15 +1715,15 @@ msgstr "Průhledné"
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:360
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:448
 msgid "Opacity (0.0-1.0)"
-msgstr "Průhlednost (0.0-1.0)"
+msgstr "Míra (ne)průhlednosti (0.0-1.0)"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:365
 msgid "Your overlay tile servers"
-msgstr "Vaše servery s překryvnými vrstvami"
+msgstr "Vámi určené servery s podklady pro překryvné vrstvy"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:390
 msgid "Custom WMS tile servers"
-msgstr "Uživatelsky určené VMS dlaždicové servery"
+msgstr "Uživatelsky určené WMS servery s mapovými podklady"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:401
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:450
@@ -1738,7 +1738,7 @@ msgstr "Verze WMS"
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:405
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:454
 msgid "Layers to display"
-msgstr "Vrstvy které zobrazovat"
+msgstr "Které vrstvy zobrazit"
 
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:410
 msgid "Your WMS tile servers"
