@@ -21,11 +21,11 @@ Na hlavní stránce PhoneTrack můžete během sledování relace:
 * 📍 Zobrazit historii polohy
 * ⛛ Filtrovat body
 * ✎ Ručně upravovat/přidávat/mazat body
-* ✎ Upravit zařízení (přejmenovat, změnit barvu/tvar, přesunout do jiné relace)
-* ⛶ Definovat oblasti geooplocení pro zařízení
-* ⚇ Definovat výstrahy přiblížení pro dvojice zařízení
-* 🖧 Sdílet relaci ostatním uživatelům Nextcloud nebo veřejným odkazem (pouze pro čtení)
-* 🔗 Vytvářet veřejné odkazy s volitelnými omezeními (filtry, název zařízení, poslední pozice, zjednodušení geooplocení)
+* ✎ Upravovat zařízení (přejmenovávat, měnit barvu/tvar, přesouvat do jiné relace)
+* ⛶ Definovat oblasti vymezených oblastí pro zařízení
+* ⚇ Definovat výstrahy při přiblížení se pro dvojice zařízení
+* 🖧 Nasdílet relaci ostatním uživatelům Nextcloud nebo prostřednictvím veřejného odkazu (pouze pro čtení)
+* 🔗 Vytvářet veřejné odkazy na sdílení s volitelnými omezeními (filtry, název zařízení, poslední pozice, zjednodušení vymezené oblasti)
 * 🖫 Importovat/exportovat relace ve formátu GPX (pro jednotlivá zařízení buď zvlášť soubor pro každou stopu, nebo jeden se všemi stopami z daného zařízení)
 * 🗠 Zobrazit statistiky relace
 * 🔒 [Zarezervovat název zařízení](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) a zajistit tak, že pomocí něj bude moci zaznamenávat pouze pověřený uživatel
