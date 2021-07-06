@@ -14,7 +14,7 @@ Jak PhoneTrack používat:
 * Zadejte odkaz na úložiště záznamů\* do mobilních zařízení. Zvolte vámi upřednostňovanou [metodu zaznamenávání](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods).
 * Sledujte pozice zařízení v rámce dané relace v reálném čase (nebo ne) v PhoneTrack nebo ji sdílejte prostřednictvím veřejných stránek.
 
-(\*) Nezapomeňte do odkazu zadat také název zařízení (namísto v nastavení zaznamenávající aplikace). Nahraďte „vašejméno“ požadovaným názvem zařízení. Nastavení názvu zařízení v záznamové aplikaci funguje pouze v případě Owntracks, Traccar a OpenGTS.
+(\*) Nezapomeňte do odkazu zadat také název zařízení (namísto v nastavení zaznamenávající aplikace). Nahraďte „vasnazev“ požadovaným názvem zařízení. Nastavení názvu zařízení v záznamové aplikaci funguje pouze v případě Owntracks, Traccar a OpenGTS.
 
 Na hlavní stránce PhoneTrack můžete během sledování relace:
 
