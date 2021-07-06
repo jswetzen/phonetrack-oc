@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-07-06 19:41\n"
+"PO-Revision-Date: 2021-07-06 19:51\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -63,7 +63,7 @@ msgstr "Phonetrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr "události <strong>PhoneTrack geoohrazení</strong>"
+msgstr "události ohledně <strong>PhoneTrack vymezených oblastí</strong>"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
@@ -92,12 +92,12 @@ msgstr "PhoneTrack zařízení %s je nyní dále než %s m od %s."
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:737
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:863
 msgid "Geofencing alert"
-msgstr "Výstraha ohledně geooplocení"
+msgstr "Výstraha ohledně vymezené oblasti"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:741
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr "V PhoneTrack relaci %s, vstoupilo zařízení %s do geooplocení %s."
+msgstr "V PhoneTrack relaci %s, vstoupilo zařízení %s do vymezené oblasti %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:867
 #, php-format
@@ -121,7 +121,7 @@ msgstr "Přihlásit se do relace %s"
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:88
 #, php-format
 msgid "In session \"%s\", device \"%s\" entered geofencing zone \"%s\"."
-msgstr "V relaci „%s“, zařízení „%s“ vstoupilo do vyhrazené oblasti „%s“."
+msgstr "V relaci „%s“, zařízení „%s“ vstoupilo do vymezené oblasti „%s“."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:96
 #, php-format
@@ -489,7 +489,7 @@ msgstr "Odkaz pro OpenGTS"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1862
 msgid "Overland link"
-msgstr "Pozemní spojení"
+msgstr "Odkaz pro Overland"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1866
 msgid "Locus Map link"
@@ -637,11 +637,11 @@ msgstr "Ok"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3193
 msgid "Device geofencing zones"
-msgstr "Zóny geooplocení pro dané zařízení"
+msgstr "Vymezené oblasti pro dané zařízení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3197
 msgid "Zoom on geofencing area, then set values, then validate."
-msgstr "Přibližte si vyhrazenou oblast, pak nastavte hodnoty, pak ověřte."
+msgstr "Přibližte si vymezenou oblast, pak nastavte hodnoty, pak ověřte."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3198
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3258
@@ -693,7 +693,7 @@ msgstr "HTTP adresa kterou požadovat při opouštění („%loc“ bude nahraze
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3214
 msgid "Geofencing zone coordinates"
-msgstr "Souřadnice oblasti geooplocení"
+msgstr "Souřadnice vymezené oblasti"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3214
 msgid "leave blank to use current map bounds"
@@ -733,11 +733,11 @@ msgstr "Západ"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3235
 msgid "Fence name"
-msgstr "Název pro plot"
+msgstr "Název pro vymezenou oblast"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3236
 msgid "Use current map view as geofencing zone"
-msgstr "Použít aktuální zobrazení mapy jako oblast geooplocení"
+msgstr "Použít aktuální zobrazení mapy jako vymezenou oblast"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3237
 msgid "Add zone"
@@ -834,7 +834,7 @@ msgstr "Tento bod není možné přidat"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3976
 msgid "User quota was reached"
-msgstr "Uživatelská kvóta byla dosažena"
+msgstr "Bylo dosaženo kvóty pro uživatele"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3980
 msgid "Failed to contact server to add point"
