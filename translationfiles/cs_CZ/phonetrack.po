@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-07-06 19:31\n"
+"PO-Revision-Date: 2021-07-06 19:41\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -981,7 +981,7 @@ msgstr "„{n}“ už je zarezervováno"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4736
 msgid "Failed to reserve '{n}'"
-msgstr "Nepodařilo se zarezervovat si “{n}“"
+msgstr "Nepodařilo se zarezervovat si „{n}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4739
 msgid "Failed to contact server to reserve device name"
@@ -1057,15 +1057,15 @@ msgstr "Nepodařilo se kontaktovat server ohledně nastavení omezení názvu za
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4949
 msgid "Warning : User email and server admin email must be set to receive geofencing alerts."
-msgstr "Varování: aby bylo možné dostávat výstrahy ohledně geooplocení, je třeba nastavit e-mail uživatele a správce serveru."
+msgstr "Varování: aby bylo možné dostávat výstrahy ohledně vymezené oblasti, je třeba nastavit e-mail uživatele a správce serveru."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4953
 msgid "Failed to add geofencing zone"
-msgstr "Oblast pro geooplocení se nepodařilo přidat"
+msgstr "Vymezenou oblast se nepodařilo přidat"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4956
 msgid "Failed to contact server to add geofencing zone"
-msgstr "Nepodařilo se kontaktovat server ohledně přidání oblasti pro geooplocení"
+msgstr "Nepodařilo se kontaktovat server ohledně přidání vymezené oblasti"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4971
 msgid "URL to request when entering"
@@ -1105,11 +1105,11 @@ msgstr "e-mailová adresa účtu"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5038
 msgid "Failed to delete geofencing zone"
-msgstr "Geooplocenou oblast se nepodařilo smazat"
+msgstr "Vymezenou oblast se nepodařilo smazat"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5041
 msgid "Failed to contact server to delete geofencing zone"
-msgstr "Nepodařilo se kontaktovat server ohledně smazání geooplocené oblasti"
+msgstr "Nepodařilo se kontaktovat server ohledně smazání vymezené oblasti"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5071
 msgid "Warning : User email and server admin email must be set to receive proximity alerts."
@@ -1174,7 +1174,7 @@ msgstr "Zobrazit pouze poslední pozice"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5226
 msgid "Simplify positions to nearest geofencing zone center"
-msgstr "Zjednodušit pozice k nejbližšímu středu oblasti geooplocení"
+msgstr "Zjednodušit pozice k nejbližšímu středu vymezené oblasti"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5245
 msgid "No filters"
