@@ -26,15 +26,15 @@ Na hlavní stránce PhoneTrack můžete během sledování relace:
 * ⚇ Definovat výstrahy přiblížení pro dvojice zařízení
 * 🖧 Sdílet relaci ostatním uživatelům Nextcloud nebo veřejným odkazem (pouze pro čtení)
 * 🔗 Vytvářet veřejné odkazy s volitelnými omezeními (filtry, název zařízení, poslední pozice, zjednodušení geooplocení)
-* 🖫 Importovat/exportovat relace ve formátu GPX (pro jednotlivá zařízení buď zvlášť soubor pro každou trasu, nebo jeden se všemi trasami daného zařízení)
+* 🖫 Importovat/exportovat relace ve formátu GPX (pro jednotlivá zařízení buď zvlášť soubor pro každou stopu, nebo jeden se všemi stopami z daného zařízení)
 * 🗠 Zobrazit statistiky relace
-* 🔒 [Zarezervovat název zařízení](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) abyste zajistili, že pomocí něj bude moci zaznamenávat pouze pověřený uživatel
+* 🔒 [Zarezervovat název zařízení](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#device-name-reservation) a zajistit tak, že pomocí něj bude moci zaznamenávat pouze pověřený uživatel
 * 🗓 Vypnout/zapnout automatický export relace a automatické čištění (denně/týdně/měsíčně)
 * ◔ Zvolit co dělat, když je dosaženo kvóty počtu bodů (blokovat zaznamenávání nebo mazat od nejstaršího bodu)
 
 Veřejná a veřejná filtrovaná stránka fungují stejně jako hlavní stránka, ale je zobrazena pouze jedna relace, vše je pouze pro čtení a není třeba být přihlášeni.
 
-Tato aplikace je testovaná na Nextcloud 17 a prohlížečích Firefox 57 a novějším a Chromium.
+Tato aplikace je testovaná na Nextcloud 17 a prohlížečích Firefox verze 57 (a novějších) a Chromium.
 
 Tato aplikace je kompatibilní s barvami motivu vzhledu a motivy pro zpřístupnění!
 
