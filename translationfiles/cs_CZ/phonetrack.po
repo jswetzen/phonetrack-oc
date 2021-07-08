@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-07-08 21:41\n"
+"PO-Revision-Date: 2021-07-08 21:51\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -243,7 +243,7 @@ msgstr "Nepodařilo se odebrat mapový server „{ts}“"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1162
 msgid "Failed to contact server to delete tile server"
-msgstr "Nepodařilo se kontaktovat server pro odebrání mapového serveru"
+msgstr "Nepodařilo se kontaktovat server ohledně odebrání mapového serveru"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1249
 msgid "Failed to contact server to restore options values"
@@ -263,11 +263,11 @@ msgstr "Nepodařilo se kontaktovat server ohledně uložení nastavení"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1407
 msgid "Filter bookmark should have a name"
-msgstr "Záložka filtru by měla být pojmenována"
+msgstr "Záložka filtru by měla být nějak nazvaná"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1435
 msgid "Failed to contact server to save filters bookmark"
-msgstr "Chyba kontaktování serveru ohledně ukládání záložek filtrů"
+msgstr "Nepodařilo se kontaktovat server ohledně ukládání záložek filtrů"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1478
 msgid "Failed to contact server to delete filters bookmark"
@@ -320,7 +320,7 @@ msgstr "Přiblížit na tuto relaci"
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1714
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3153
 msgid "More actions"
-msgstr "Možnosti"
+msgstr "Další akce"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1726
 msgid "Delete session"
@@ -360,7 +360,7 @@ msgstr "každý měsíc"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1747
 msgid "Automatic purge is triggered daily and will delete points older than selected duration"
-msgstr "Automatické čištění je spuštěno denně a odstraní body starší než zvolená doba trvání"
+msgstr "Automatické čištění je spouštěno každý den a odstraní body starší než zvolená doba trvání"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1748
 msgid "Automatic purge"
@@ -368,7 +368,7 @@ msgstr "Automatické čištění"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1750
 msgid "don't purge"
-msgstr "nemazat"
+msgstr "nečistit"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1751
 msgid "a day"
@@ -384,7 +384,7 @@ msgstr "měsíc"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1762
 msgid "Name reservation is optional."
-msgstr "Vyhrazení názvu je volitelné."
+msgstr "Zarezervování názvu je volitelné."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1763
 msgid "Name can be set directly in logging link if it is not reserved."
