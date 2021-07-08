@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-07-08 21:51\n"
+"PO-Revision-Date: 2021-07-08 22:11\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -633,7 +633,7 @@ msgstr "Přesunout do jiné relace"
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3176
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:44
 msgid "Ok"
-msgstr "Ok"
+msgstr "OK"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3193
 msgid "Device geofencing zones"
@@ -753,7 +753,7 @@ msgstr "Vyberte relaci, název zařízení a vzdálenost, nastavte upozorňován
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3248
 msgid "You will be notified when distance between devices gets bigger than high limit or smaller than low limit."
-msgstr "Budete upozorněni pokud se vzdálenost mezi zařízeními zvětší než horní limit nebo zmenší pod spodní limit."
+msgstr "Budete upozorněni pokud se vzdálenost mezi zařízeními zvětší nad horní limit nebo zmenší pod spodní limit."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3249
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:490
