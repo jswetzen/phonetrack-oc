@@ -32,24 +32,24 @@ Na páxina principal de PhoneTrack, ao ver unha sesión, podes:
 * 🗓 Activar a exportación automática da sesión e autoeliminación (diaria/semanal/mensual)
 * ◔ Elixe que queres que aconteza cando acadas un determinado número de puntos (deixar de gravar ou eliminar os máis antigos)
 
-Public page and public filtered page work like main page except there is only one session displayed, everything is read-only and there is no need to be logged in.
+Páxina pública e páxina pública filtrada funcionan como páxina principal excepto se só hai unha sesión que mostrar, todo está en modo só-lectura e non precisas ter sesión iniciada.
 
-This app is tested on Nextcloud 17 with Firefox 57+ and Chromium.
+Esta app esta probada en Nextcloud 17 e Firefox 57+ e Chromium.
 
-This app is compatible with theming colors and accessibility themes !
+Esta app é compatible coas cores e accesibilidade dos decorados da instancia!
 
-This app is under development.
+App en desenvolvemento.
 
-## Install
+## Instalación
 
-See the [AdminDoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) for installation details.
+Le a [Documentación](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc) para detalles da instalación.
 
-Check [CHANGELOG](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) file to see what's new and what's coming in next release.
+Comproba o ficheiro de [REXISTRO de cambios](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/CHANGELOG.md#change-log) para coñecer as novidades e o que está por vir en próximas versións.
 
-Check [AUTHORS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) file to see complete list of authors.
+No ficheiro de persoas [AUTORAS](https://gitlab.com/eneiluj/phonetrack-oc/blob/master/AUTHORS.md#authors) podes ver quen se encarga do desenvolvemento.
 
-## Known issues
+## Problemas coñecidos
 
-* PhoneTrack **now works** with Nextcloud group restriction activated. See [admindoc](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud).
+* Agora PhoneTrack **funciona correctamente** aínda estando activada a restrición de grupo en Nextcloud. Le a [documentación](https://gitlab.com/eneiluj/phonetrack-oc/wikis/admindoc#issue-with-phonetrack-restricted-to-some-groups-in-nextcloud) para admins.
 
-Any feedback will be appreciated.
+Calquera opinión e revisión é ben recibida.
