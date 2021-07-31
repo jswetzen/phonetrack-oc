@@ -10,15 +10,15 @@
 
 Como utilizar PhoneTrack:
 
-* Create a tracking session.
-* Give the logging link\* to the mobile devices. Choose the [logging method](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) you prefer.
-* Watch the session's devices location in real time (or not) in PhoneTrack or share it with public pages.
+* Crea unha sesión de seguimento.
+* Utiliza a ligazón\* de conexión no dispositivos móbiles. Elixe a [forma de conexión](https://gitlab.com/eneiluj/phonetrack-oc/wikis/userdoc#logging-methods) que prefiras.
+* Olla a localización do dispositivo na sesión en tempo real (ou non) en PhoneTrack ou compartea en páxinas públicas.
 
-(\*) Don't forget to set the device name in the link (rather than in the logging app settings). Replace "yourname" with the desired device name. Setting the device name in logging app settings only works with Owntracks, Traccar and OpenGTS.
+(\*) Non esquezas establecer o nome do dispositivo na ligazón (mellor que nos axustes da app de rexistro). Muda o teu "nome de usuaria" co nome que queiras darlle ao dispositivo. Establecer o nome do dispositivo nos axustes da app só funciona con Owntracks, Traccar e OpenGTS.
 
-On PhoneTrack main page, while watching a session, you can :
+Na páxina principal de PhoneTrack, ao ver unha sesión, podes:
 
-* 📍 Display location history
+* 📍Mostrar o historial de localizacións
 * ⛛ Filter points
 * ✎ Manually edit/add/delete points
 * ✎ Edit devices (rename, change color/shape, move to another session)
