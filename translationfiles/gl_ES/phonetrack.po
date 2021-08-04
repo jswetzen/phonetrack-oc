@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-04 05:30\n"
+"PO-Revision-Date: 2021-08-04 05:40\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -35,11 +35,11 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "You shared PhoneTrack session {session} with {who}"
-msgstr ""
+msgstr "Compartiches con {who} a sesión PhoneTrack {session}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:101
 msgid "PhoneTrack session {session} is now shared with {who}"
-msgstr ""
+msgstr "Estás compartindo con {who} a sesión PhoneTrack {session}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:104
 msgid "You stopped sharing session {session} with {who}"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:179
 msgid "A PhoneTrack client"
-msgstr ""
+msgstr "Cliente PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/Filter.php:55
 #: /var/www/html/dev/server/apps/phonetrack/lib/AppInfo/Application.php:66
@@ -59,19 +59,19 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/specialAppInfoFakeDummyForL10nScript.php:2
 #: /var/www/html/dev/server/apps/phonetrack/templates/admin.php:7
 msgid "PhoneTrack"
-msgstr ""
+msgstr "PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr ""
+msgstr "Eventos de <strong>Zonas delimitadas</strong> de PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
-msgstr ""
+msgstr "Eventos de <strong>proximidade do dispositivo</strong> PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/Setting.php:54
 msgid "Changes in the <strong>PhoneTrack app</strong>"
-msgstr ""
+msgstr "Cambios na <strong>app PhoneTrack</strong>"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:397
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:534
@@ -92,26 +92,26 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:737
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:863
 msgid "Geofencing alert"
-msgstr ""
+msgstr "Alerta de zona delimitada"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:741
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr ""
+msgstr "Na sesión %s de PhoneTrack, o dispositivo %s entrou na zona delimitada %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:867
 #, php-format
 msgid "In PhoneTrack session %s, device %s exited geofence %s."
-msgstr ""
+msgstr "Na sesión %s de PhoneTrack, o dispositivo %s saíu da zona delimitada %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2568
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2595
 msgid "Watch session"
-msgstr ""
+msgstr "Ver sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2663
 msgid "PhoneTrack public access"
-msgstr ""
+msgstr "Acceso público a PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2664
 #, php-format
