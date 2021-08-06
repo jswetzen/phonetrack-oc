@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-06 03:40\n"
+"PO-Revision-Date: 2021-08-06 03:50\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -141,17 +141,17 @@ msgstr "O dispositivo \"%s\" está agora a máis de %sm de \"%s\"."
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:122
 #, php-format
 msgid "Point number quota (%s) was reached with a point of \"%s\" in session \"%s\"."
-msgstr ""
+msgstr "Acadouse a cota de número de puntos (%s) cun punto de \"%s\" na sesión \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:131
 #, php-format
 msgid "User \"%s\" shared PhoneTrack session \"%s\" with you."
-msgstr ""
+msgstr "A usuaria \"%s\" compartiu a sesión \"%s\" PhoneTrack contigo."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:140
 #, php-format
 msgid "User \"%s\" stopped sharing PhoneTrack session \"%s\" with you."
-msgstr ""
+msgstr "A usuaria \"%s\" deixou de compartir a sesión \"%s\" PhoneTrack contigo."
 
 #: /var/www/html/dev/server/apps/phonetrack/specialAppInfoFakeDummyForL10nScript.php:3
 msgid " "
@@ -159,44 +159,44 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/admin.js:21
 msgid "Quota was successfully saved"
-msgstr ""
+msgstr "Gardouse correctamente a cota"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/admin.js:25
 msgid "Failed to save quota"
-msgstr ""
+msgstr "Fallou o axuste da cota"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:675
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:102
 msgid "Show lines"
-msgstr ""
+msgstr "Mostrar liñas"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:683
 msgid "Hide lines"
-msgstr ""
+msgstr "Agochar liñas"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:704
 msgid "Activate automatic zoom"
-msgstr ""
+msgstr "Activar zoom automático"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:712
 msgid "Disable automatic zoom"
-msgstr ""
+msgstr "Desactivar zoom automático"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:733
 msgid "Show last point tooltip"
-msgstr ""
+msgstr "Mostrar datos do último punto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:741
 msgid "Hide last point tooltip"
-msgstr ""
+msgstr "Agochar datos do último punto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:762
 msgid "Zoom on all devices"
-msgstr ""
+msgstr "Zoom en tódolos dispositivos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:775
 msgid "Click on the map to move the point, press ESC to cancel"
-msgstr ""
+msgstr "Preme o mapa para mover o punto, preme ESC para cancelar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1022
 msgid "Server name or server address should not be empty"
