@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-06 04:40\n"
+"PO-Revision-Date: 2021-08-06 05:21\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -678,109 +678,109 @@ msgstr "Podes usar varios enderezos separados por vírgulas (,)."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3206
 msgid "HTTP address to request when entering (\"%loc\" will be replaced by \"latitude:longitude\")"
-msgstr ""
+msgstr "Enderezo HTTP a solicitar ao entrar (\"%loc\" será substituído por \"latitude:longitude\")"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3207
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3211
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3267
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3271
 msgid "Use POST method"
-msgstr ""
+msgstr "Usar método POST"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3210
 msgid "HTTP address to request when leaving (\"%loc\" will be replaced by \"latitude:longitude\")"
-msgstr ""
+msgstr "Enderezo HTTP a solicitar ao saír (\"%loc\" será substituído por \"latitude:longitude\")"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3214
 msgid "Geofencing zone coordinates"
-msgstr ""
+msgstr "Coordenadas da zona delimitada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3214
 msgid "leave blank to use current map bounds"
-msgstr ""
+msgstr "deixar en branco para usar os bordos actuais do mapa"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3216
 msgid "North"
-msgstr ""
+msgstr "Norte"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3218
 msgid "South"
-msgstr ""
+msgstr "Sur"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3222
 msgid "Set North/East corner by clicking on the map"
-msgstr ""
+msgstr "Establece o canto Norte/Leste premendo no mapa"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3223
 msgid "Set N/E"
-msgstr ""
+msgstr "Establece N/L"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3225
 msgid "Set South/West corner by clicking on the map"
-msgstr ""
+msgstr "Establece o canto Sur/Oeste premendo no mapa"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3226
 msgid "Set S/W"
-msgstr ""
+msgstr "Establece S/O"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3230
 msgid "East"
-msgstr ""
+msgstr "Leste"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3232
 msgid "West"
-msgstr ""
+msgstr "Oeste"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3235
 msgid "Fence name"
-msgstr ""
+msgstr "Nome da zona"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3236
 msgid "Use current map view as geofencing zone"
-msgstr ""
+msgstr "Usar vista actual do mapa como zona delimitada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3237
 msgid "Add zone"
-msgstr ""
+msgstr "Engadir zona"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3243
 msgid "Device proximity notifications"
-msgstr ""
+msgstr "Notificacións de proximidade do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3247
 msgid "Select a session, a device name and a distance, set the notification settings, then validate."
-msgstr ""
+msgstr "Elixe unha sesión, nome de dispositivo e distancia, establece os axustes das notificación e após valida."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3248
 msgid "You will be notified when distance between devices gets bigger than high limit or smaller than low limit."
-msgstr ""
+msgstr "Recibirás unha notificación cando a distancia entre os dispositivos supere o límite superior o sexa menor que o inferior."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3249
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:490
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:508
 msgid "Session"
-msgstr ""
+msgstr "Sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3251
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:210
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:495
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:513
 msgid "Device name"
-msgstr ""
+msgstr "Nome do dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3252
 msgid "Low distance limit"
-msgstr ""
+msgstr "Distancia do límite inferior"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3254
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3257
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:77
 msgid "meters"
-msgstr ""
+msgstr "metros"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3255
 msgid "High distance limit"
-msgstr ""
+msgstr "Distancia do límite superior"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3266
 msgid "HTTP address to request when devices get close"
