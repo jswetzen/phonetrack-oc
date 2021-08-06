@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-06 03:50\n"
+"PO-Revision-Date: 2021-08-06 04:00\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -200,16 +200,16 @@ msgstr "Preme o mapa para mover o punto, preme ESC para cancelar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1022
 msgid "Server name or server address should not be empty"
-msgstr ""
+msgstr "O nome do servidor ou enderezo do servidor non deben quedar baleiros"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1025
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1034
 msgid "Impossible to add tile server"
-msgstr ""
+msgstr "Non se puido engadir o servidor de teselas"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1031
 msgid "A server with this name already exists"
-msgstr ""
+msgstr "Xa existe un servidor con este nome"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1069
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4157
