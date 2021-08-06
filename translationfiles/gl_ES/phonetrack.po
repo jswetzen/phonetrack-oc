@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-05 05:11\n"
+"PO-Revision-Date: 2021-08-06 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -121,22 +121,22 @@ msgstr "Rexistrar na sesión %s"
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:88
 #, php-format
 msgid "In session \"%s\", device \"%s\" entered geofencing zone \"%s\"."
-msgstr ""
+msgstr "Na sesión \"%s\", o dispositivo \"%s\" entrou na zona \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:96
 #, php-format
 msgid "In session \"%s\", device \"%s\" exited geofencing zone \"%s\"."
-msgstr ""
+msgstr "Na sesión \"%s\", o dispositivo \"%s\" saíu da zona \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
 msgid "Device \"%s\" is now closer than %sm to \"%s\"."
-msgstr ""
+msgstr "O dispositivo \"%s\" está agora a menos de %sm de \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:113
 #, php-format
 msgid "Device \"%s\" is now farther than %sm from \"%s\"."
-msgstr ""
+msgstr "O dispositivo \"%s\" está agora a máis de %sm de \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:122
 #, php-format
