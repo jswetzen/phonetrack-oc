@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-06 04:30\n"
+"PO-Revision-Date: 2021-08-06 04:40\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -408,19 +408,19 @@ msgstr "Escribe o nome reservado e preme 'Enter'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1783
 msgid "Share with user"
-msgstr ""
+msgstr "Compartir coa usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1785
 msgid "Type user name and press 'Enter'"
-msgstr ""
+msgstr "Escribe o nome de usuaria e preme 'Enter'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1786
 msgid "user name"
-msgstr ""
+msgstr "nome de usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1793
 msgid "A private session is not visible on public browser logging page"
-msgstr ""
+msgstr "Unha sesión privada non é visible nunha páxina pública dun navegador"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1795
 msgid "Public session"
@@ -628,20 +628,20 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3173
 msgid "Move to another session"
-msgstr ""
+msgstr "Mover a outra sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3176
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:44
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3193
 msgid "Device geofencing zones"
-msgstr ""
+msgstr "Zonas definidas para o dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3197
 msgid "Zoom on geofencing area, then set values, then validate."
-msgstr ""
+msgstr "Zoom na área a definir, establece os valores e despois valida."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3198
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3258
@@ -650,7 +650,7 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5111
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5130
 msgid "Nextcloud notification"
-msgstr ""
+msgstr "Notificación nextcloud"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3200
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3260
@@ -659,22 +659,22 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5112
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5132
 msgid "Email notification"
-msgstr ""
+msgstr "Notificación por email"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3203
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3263
 msgid "Comma separated e-mail address list"
-msgstr ""
+msgstr "Lista de enderezos separados por vírgulas"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3204
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3264
 msgid "An empty value means the session owner's email address."
-msgstr ""
+msgstr "Un valor baleiro significa que se utiliza o enderezo de email da dona da sesión."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3205
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3265
 msgid "You can put multiple addresses separated by comas (,)."
-msgstr ""
+msgstr "Podes usar varios enderezos separados por vírgulas (,)."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3206
 msgid "HTTP address to request when entering (\"%loc\" will be replaced by \"latitude:longitude\")"
