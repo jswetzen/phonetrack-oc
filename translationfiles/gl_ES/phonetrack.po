@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-06 05:21\n"
+"PO-Revision-Date: 2021-08-10 12:41\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -424,40 +424,40 @@ msgstr "Unha sesión privada non é visible nunha páxina pública dun navegador
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1795
 msgid "Public session"
-msgstr ""
+msgstr "Sesión pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1802
 msgid "Public watch link"
-msgstr ""
+msgstr "Ligazón pública da sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1804
 msgid "API URL (JSON, last positions)"
-msgstr ""
+msgstr "URL da API (JSON, últimas posicións)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1806
 msgid "API URL (JSON, all positions)"
-msgstr ""
+msgstr "URL da API (JSON, tódalas posicións)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1812
 msgid "Current active filters will be applied on shared view"
-msgstr ""
+msgstr "Os filtros activos actuais aplicaranse na vista compartida"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1814
 msgid "Add public filtered share"
-msgstr ""
+msgstr "Engadir compartición pública filtrada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1823
 msgid "Session token"
-msgstr ""
+msgstr "Token da sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1829
 msgid "List of links to configure logging apps server settings."
-msgstr ""
+msgstr "Lista das ligazóns para configurar os axustes do servidor das apps de rexistro."
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1830
 #: /var/www/html/dev/server/apps/phonetrack/templates/maincontent.php:225
 msgid "Replace 'yourname' with the desired device name or with the name reservation token"
-msgstr ""
+msgstr "Substitúe 'oteunome' co nome do dispositivo desexado ou co token de nome reservado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1832
 msgid "Public browser logging link"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1837
 msgid "OsmAnd link"
-msgstr ""
+msgstr "Ligazón OsmAnd"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1842
 msgid "GpsLogger GET and POST link"
