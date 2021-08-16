@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2020-09-28 14:36\n"
+"PO-Revision-Date: 2021-08-16 03:20\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:89
 msgid "PhoneTrack device {device} of session {session} has entered geofence {geofence}"
-msgstr "El dispositivo PhoneTrack {device} de la sesión {session} ha entrado en el geovallado {geofence}"
+msgstr "El dispositivo PhoneTrack {device} de la sesión {session} ha entrado en la geocerca {geofence}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:92
 msgid "PhoneTrack device {device} of session {session} has exited geofence {geofence}"
-msgstr "El dispositivo PhoneTrack {device} de la sesión {session} ha salido del geovallado {geofence}"
+msgstr "El dispositivo PhoneTrack {device} de la sesión {session} ha salido de la geocerca {geofence}"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ActivityManager.php:95
 msgid "PhoneTrack device {device} of session {session} is now closer than {meters} m to {device2} of session {session2}"
@@ -63,7 +63,7 @@ msgstr "PhoneTrack"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/GeofenceSetting.php:42
 msgid "<strong>PhoneTrack geofences</strong> events"
-msgstr "<strong>Geovallados de PhoneTrack</strong> eventos"
+msgstr "<strong>Geocercas de PhoneTrack</strong> eventos"
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Activity/ProximitySetting.php:42
 msgid "<strong>PhoneTrack device proximity</strong> events"
