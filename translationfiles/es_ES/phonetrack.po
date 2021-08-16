@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-16 03:20\n"
+"PO-Revision-Date: 2021-08-16 03:30\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -97,12 +97,12 @@ msgstr "Alerta de Geolocalización"
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:741
 #, php-format
 msgid "In PhoneTrack session %s, device %s has entered geofence %s."
-msgstr "En la sesión %s de PhoneTrack, el dispositivo %s ha entrado en el geovallado %s."
+msgstr "En la sesión %s de PhoneTrack, el dispositivo %s ha entrado en la geocerca %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/LogController.php:867
 #, php-format
 msgid "In PhoneTrack session %s, device %s exited geofence %s."
-msgstr "En la sesión %s de PhoneTrack, el dispositivo %s ha salido del geovallado %s."
+msgstr "En la sesión %s de PhoneTrack, el dispositivo %s ha salido de la geocerca %s."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2568
 #: /var/www/html/dev/server/apps/phonetrack/lib/Controller/PageController.php:2595
@@ -121,12 +121,12 @@ msgstr "Entrar a la sesión %s"
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:88
 #, php-format
 msgid "In session \"%s\", device \"%s\" entered geofencing zone \"%s\"."
-msgstr "En sesión \"%s\", dispositivo \"%s\" entró en zona de geolocalización \"%s\"."
+msgstr "En sesión \"%s\", dispositivo \"%s\" entró en zona de geocerca \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:96
 #, php-format
 msgid "In session \"%s\", device \"%s\" exited geofencing zone \"%s\"."
-msgstr "En sesión \"%s\", dispositivo \"%s\" salió de zona de geolocalización \"%s\"."
+msgstr "En sesión \"%s\", dispositivo \"%s\" salió de zona de geocerca \"%s\"."
 
 #: /var/www/html/dev/server/apps/phonetrack/lib/Notification/Notifier.php:105
 #, php-format
@@ -159,7 +159,7 @@ msgstr ""
 
 #: /var/www/html/dev/server/apps/phonetrack/src/admin.js:21
 msgid "Quota was successfully saved"
-msgstr "La cuota fue guardado correctamente"
+msgstr "La cuota fue guardada correctamente"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/admin.js:25
 msgid "Failed to save quota"
