@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-10 12:41\n"
+"PO-Revision-Date: 2021-08-27 04:51\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -461,7 +461,7 @@ msgstr "Substitúe 'oteunome' co nome do dispositivo desexado ou co token de nom
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1832
 msgid "Public browser logging link"
-msgstr ""
+msgstr "Ligazón pública para navegadores"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1837
 msgid "OsmAnd link"
@@ -469,75 +469,75 @@ msgstr "Ligazón OsmAnd"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1842
 msgid "GpsLogger GET and POST link"
-msgstr ""
+msgstr "Ligazón GET e POST de GpsLogger"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1846
 msgid "Owntracks (HTTP mode) link"
-msgstr ""
+msgstr "Ligazón Owntracks (modo HTTP)"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1850
 msgid "Ulogger link"
-msgstr ""
+msgstr "Ligazón Ulogger"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1854
 msgid "Traccar link"
-msgstr ""
+msgstr "Ligazón Traccar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1858
 msgid "OpenGTS link"
-msgstr ""
+msgstr "Ligazón OpenGTS"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1862
 msgid "Overland link"
-msgstr ""
+msgstr "Ligazón Overland"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1866
 msgid "Locus Map link"
-msgstr ""
+msgstr "Ligazón Locus Map"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1870
 msgid "HTTP GET link"
-msgstr ""
+msgstr "Ligazón HTTP GET"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1988
 msgid "The session you want to delete does not exist"
-msgstr ""
+msgstr "A sesión que queres eliminar non existe"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1991
 msgid "Failed to delete session"
-msgstr ""
+msgstr "Fallou o borrado da sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:1995
 msgid "Failed to contact server to delete session"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para eliminar a sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2015
 msgid "Device '{d}' of session '{s}' has been deleted"
-msgstr ""
+msgstr "Eliminouse o dispositivo '{d}' da sesión '{s}'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2018
 msgid "Failed to delete device '{d}' of session '{s}'"
-msgstr ""
+msgstr "Fallou a eliminación do dispositivo '{d}' da sesión '{s}'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2022
 msgid "Failed to contact server to delete device"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para eliminar o dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2079
 msgid "Impossible to rename session"
-msgstr ""
+msgstr "Non é posible cambiarlle o nome á sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2083
 msgid "Failed to contact server to rename session"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para renomear a sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2131
 msgid "Impossible to rename device"
-msgstr ""
+msgstr "Non é posible renomear o dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2135
 msgid "Failed to contact server to rename device"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para renomear o dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:2207
 msgid "Impossible to set device alias for {n}"
