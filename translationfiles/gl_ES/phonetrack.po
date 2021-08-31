@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-31 04:10\n"
+"PO-Revision-Date: 2021-08-31 04:20\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -809,103 +809,103 @@ msgstr "Centrar mapa no dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3740
 msgid "The point you want to edit does not exist or you're not allowed to edit it"
-msgstr ""
+msgstr "O punto que queres editar non existe ou non tes permiso para editalo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3744
 msgid "Failed to contact server to edit point"
-msgstr ""
+msgstr "Fallou a conexión co servidor para editar o punto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3862
 msgid "The point you want to delete does not exist or you're not allowed to delete it"
-msgstr ""
+msgstr "O punto que queres eliminar non existe ou non tes permiso para eliminalo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3866
 msgid "Failed to contact server to delete point"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para eliminar o punto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3955
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3992
 msgid "Manually added"
-msgstr ""
+msgstr "Engadido manualmente"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3973
 msgid "Impossible to add this point"
-msgstr ""
+msgstr "Non é posible engadir este punto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3976
 msgid "User quota was reached"
-msgstr ""
+msgstr "Acadouse a cota da usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:3980
 msgid "Failed to contact server to add point"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para engadir o punto"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4117
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4120
 msgid "Time"
-msgstr ""
+msgstr "Hora"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4125
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4209
 msgid "Altitude"
-msgstr ""
+msgstr "Altitude"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4128
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4214
 msgid "Precision"
-msgstr ""
+msgstr "Precisión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4131
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4221
 msgid "Speed"
-msgstr ""
+msgstr "Velocidade"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4134
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4226
 msgid "Bearing"
-msgstr ""
+msgstr "Dirección"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4137
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4231
 msgid "Satellites"
-msgstr ""
+msgstr "Satélites"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4140
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4236
 msgid "Battery"
-msgstr ""
+msgstr "Batería"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4143
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4240
 msgid "User-agent"
-msgstr ""
+msgstr "User-agent"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4146
 msgid "lat : lng"
-msgstr ""
+msgstr "lat : lonx"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4150
 msgid "DMS coords"
-msgstr ""
+msgstr "Coord DMS"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4156
 msgid "Save"
-msgstr ""
+msgstr "Gardar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4158
 msgid "Move"
-msgstr ""
+msgstr "Mover"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4159
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4205
 msgid "Distance"
-msgstr ""
+msgstr "Distancia"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4374
 msgid "Impossible to zoom, there is no point to zoom on for this session"
@@ -1131,12 +1131,12 @@ msgstr ""
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5106
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5123
 msgid "URL to request when devices get close"
-msgstr ""
+msgstr "URL a solicitar cando os dispositivos se achegan"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5109
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5127
 msgid "URL to request when devices get far"
-msgstr ""
+msgstr "URL a solicitar cando os dispositivos se alonxan"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5116
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:5138
