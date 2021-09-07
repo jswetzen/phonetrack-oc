@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-08-31 04:30\n"
+"PO-Revision-Date: 2021-09-07 05:00\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -909,63 +909,63 @@ msgstr "Distancia"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4374
 msgid "Impossible to zoom, there is no point to zoom on for this session"
-msgstr ""
+msgstr "Non é posible facer zoom, non hai un punto nesta sesión sobre o que facer zoom"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4409
 msgid "File extension must be '.gpx', '.kml' or '.json' to be imported"
-msgstr ""
+msgstr "A extensión do ficheiro ten que ser '.gpx', '.kml' ou '.json' para importalo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4428
 msgid "Failed to create imported session"
-msgstr ""
+msgstr "Fallou a creación da sesión importada"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4432
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4438
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4444
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4450
 msgid "Failed to import session"
-msgstr ""
+msgstr "Fallou a importación da sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4433
 msgid "File is not readable"
-msgstr ""
+msgstr "Non se pode ler o ficheiro"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4439
 msgid "File does not exist"
-msgstr ""
+msgstr "Non existe o ficheiro"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4445
 msgid "Malformed XML file"
-msgstr ""
+msgstr "Ficheiro XML mal formado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4451
 msgid "There is no device to import in submitted file"
-msgstr ""
+msgstr "Non hai dispositivo a importar no ficheiro enviado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4457
 msgid "Failed to contact server to import session"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para importar sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4478
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4485
 msgid "Session successfully exported in"
-msgstr ""
+msgstr "Sesión exportada correctamente en"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4482
 msgid "There is no point to export for this session"
-msgstr ""
+msgstr "Non hai punto a exportar para esta sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4486
 msgid "but there was no point to export for some devices"
-msgstr ""
+msgstr "pero non había punto que exportar para algúns dispositivos"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4490
 msgid "Failed to export session"
-msgstr ""
+msgstr "Fallou a exportación da sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4495
 msgid "Failed to contact server to export session"
-msgstr ""
+msgstr "Non se puido contactar co servidor para exportar a sesión"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4526
 msgid "Failed to contact server to log position"
