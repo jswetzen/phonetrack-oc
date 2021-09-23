@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: phonetrack\n"
 "Report-Msgid-Bugs-To: translations\\@example.com\n"
 "POT-Creation-Date: 2020-09-28 16:33+0200\n"
-"PO-Revision-Date: 2021-09-21 04:30\n"
+"PO-Revision-Date: 2021-09-23 04:00\n"
 "Last-Translator: \n"
 "Language-Team: Galician\n"
 "Language: gl_ES\n"
@@ -973,75 +973,75 @@ msgstr "Fallou a conexión ao servidor para rexistrar a posición"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4620
 msgid "Impossible to zoom, there is no point to zoom on for this device"
-msgstr ""
+msgstr "Imposible achegarse, non hai punto no que centrar neste dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4733
 msgid "'{n}' is already reserved"
-msgstr ""
+msgstr "'{n}' xa está reservado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4736
 msgid "Failed to reserve '{n}'"
-msgstr ""
+msgstr "Fallou a reserva de '{n}'"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4739
 msgid "Failed to contact server to reserve device name"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para reservar o nome de dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4770
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4774
 msgid "Failed to delete reserved name"
-msgstr ""
+msgstr "Fallou a eliminación do nome reservado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4771
 msgid "This device does not exist"
-msgstr ""
+msgstr "Non existe o dispositivo"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4775
 msgid "This device name is not reserved, please reload this page"
-msgstr ""
+msgstr "Este nome de dispositivo non está reservado, recarga esta páxina"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4778
 msgid "Failed to contact server to delete reserved name"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para eliminar o nome reservado"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4798
 msgid "User does not exist"
-msgstr ""
+msgstr "Non existe a usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4801
 msgid "Failed to add user share"
-msgstr ""
+msgstr "Fallou a compartición coa usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4804
 msgid "Failed to contact server to add user share"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para engadir a compartición coa usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4814
 msgid "Shared with {u}"
-msgstr ""
+msgstr "Compartido con {u}"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4839
 msgid "Failed to delete user share"
-msgstr ""
+msgstr "Fallou a eliminación da compartición coa usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4842
 msgid "Failed to contact server to delete user share"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para eliminar a compartición coa usuaria"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4860
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4884
 msgid "Public share has been successfully modified"
-msgstr ""
+msgstr "Modificouse correctamente a compartición pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4863
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4887
 msgid "Failed to modify public share"
-msgstr ""
+msgstr "Fallou a modificación da compartición pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4866
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4890
 msgid "Failed to contact server to modify public share"
-msgstr ""
+msgstr "Fallou a conexión ao servidor para modificar a compartición pública"
 
 #: /var/www/html/dev/server/apps/phonetrack/src/phonetrack.js:4908
 msgid "Device name restriction has been successfully set"
